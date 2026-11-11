@@ -1,0 +1,812 @@
+[
+ {
+  "id": "cl-constitucion-pg-001",
+  "origen": "claude",
+  "tema": "constitucion",
+  "bloque": "CONSTITUCIÓN. TÍTULO I",
+  "articulo": "Art. 22.4",
+  "enunciado": "Según el artículo 22 de la Constitución Española, las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades:",
+  "opciones": [
+   "En virtud de resolución judicial motivada.",
+   "Por acuerdo del Consejo de Ministros, previo informe del Ministerio del Interior.",
+   "En virtud de resolución gubernativa motivada, recurrible ante los tribunales.",
+   "Por resolución del Registro de Asociaciones en el que estén inscritas."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 22.4 CE: \"Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-constitucion-pg-002",
+  "origen": "claude",
+  "tema": "constitucion",
+  "bloque": "CONSTITUCIÓN. TÍTULO IV",
+  "articulo": "Art. 102.2",
+  "enunciado": "Conforme al artículo 102 de la Constitución Española, si la acusación contra el Presidente o los demás miembros del Gobierno fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada:",
+  "opciones": [
+   "Por iniciativa de la décima parte de los Diputados, y con la aprobación de la mayoría de tres quintos del Congreso.",
+   "Por iniciativa del Fiscal General del Estado, con la aprobación de la mayoría absoluta del Congreso.",
+   "Por iniciativa de la cuarta parte de los miembros de cada Cámara, y con la aprobación de la mayoría absoluta de ambas.",
+   "Por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 102.2 CE: \"sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-constitucion-pg-003",
+  "origen": "claude",
+  "tema": "constitucion",
+  "bloque": "CONSTITUCIÓN. TÍTULO V",
+  "articulo": "Art. 116.2",
+  "enunciado": "De acuerdo con el artículo 116.2 de la Constitución Española, el estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de:",
+  "opciones": [
+   "Treinta días, prorrogable por otro plazo igual con autorización del Congreso de los Diputados.",
+   "Quince días, prorrogable por el propio Gobierno dando cuenta a las Cortes Generales.",
+   "Quince días, dando cuenta al Congreso de los Diputados, sin cuya autorización no podrá ser prorrogado dicho plazo.",
+   "Treinta días, dando cuenta al Congreso de los Diputados y al Senado."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 116.2 CE: \"El estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ue-pg-004",
+  "origen": "claude",
+  "tema": "ue",
+  "bloque": "EUROPA. TFUE",
+  "articulo": "Art. 278 TFUE",
+  "enunciado": "Según el artículo 278 del Tratado de Funcionamiento de la Unión Europea, los recursos interpuestos ante el Tribunal de Justicia de la Unión Europea:",
+  "opciones": [
+   "Tendrán siempre efecto suspensivo respecto del acto impugnado.",
+   "No tendrán efecto suspensivo, aunque el Tribunal podrá, si estima que las circunstancias así lo exigen, ordenar la suspensión de la ejecución del acto impugnado.",
+   "Tendrán efecto suspensivo cuando así lo solicite un Estado miembro o una institución de la Unión.",
+   "No tendrán efecto suspensivo en ningún caso."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 278 TFUE: \"Los recursos interpuestos ante el Tribunal de Justicia de la Unión Europea no tendrán efecto suspensivo. Sin embargo, el Tribunal podrá, si estima que las circunstancias así lo exigen, ordenar la suspensión de la ejecución del acto impugnado.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ue-pg-005",
+  "origen": "claude",
+  "tema": "ue",
+  "bloque": "EUROPA. TFUE",
+  "articulo": "Art. 253 TFUE",
+  "enunciado": "Conforme al artículo 253 del Tratado de Funcionamiento de la Unión Europea, los jueces y los abogados generales del Tribunal de Justicia serán designados:",
+  "opciones": [
+   "Por el Consejo, por mayoría cualificada, por un período de seis años.",
+   "De común acuerdo por los Gobiernos de los Estados miembros por un período de seis años.",
+   "De común acuerdo por los Gobiernos de los Estados miembros por un período de cinco años.",
+   "Por el Parlamento Europeo, a propuesta del Consejo, por un período de nueve años."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 253 TFUE: \"serán designados de común acuerdo por los Gobiernos de los Estados miembros por un período de seis años, tras consultar al comité a que se refiere el artículo 255.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ue-pg-006",
+  "origen": "claude",
+  "tema": "ue",
+  "bloque": "EUROPA. ESTATUTO TJUE",
+  "articulo": "Art. 17 Estatuto TJUE",
+  "enunciado": "Según el artículo 17 del Estatuto del Tribunal de Justicia de la Unión Europea, las deliberaciones de la Gran Sala sólo serán válidas si están presentes:",
+  "opciones": [
+   "Once Jueces.",
+   "Quince Jueces.",
+   "Diecisiete Jueces.",
+   "Nueve Jueces."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 17 Estatuto TJUE: \"Las deliberaciones de la Gran Sala sólo serán válidas si están presentes once Jueces.\" (La Gran Sala se compone de quince Jueces y el Pleno exige diecisiete).",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-gobierno-pg-007",
+  "origen": "claude",
+  "tema": "gobierno",
+  "bloque": "LEY GOBIERNO",
+  "articulo": "Art. 12.2 bis",
+  "enunciado": "Según el artículo 12 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en el nombramiento de las personas titulares de las Vicepresidencias y los Ministerios se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga en su conjunto como mínimo:",
+  "opciones": [
+   "El cincuenta por ciento.",
+   "El treinta por ciento.",
+   "El sesenta por ciento.",
+   "El cuarenta por ciento."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 12.2 bis Ley 50/1997: \"se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento en su conjunto.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-gobierno-pg-008",
+  "origen": "claude",
+  "tema": "gobierno",
+  "bloque": "LEY GOBIERNO",
+  "articulo": "Art. 21.6",
+  "enunciado": "De conformidad con el artículo 21 de la Ley 50/1997, del Gobierno, las delegaciones legislativas otorgadas por las Cortes Generales, durante todo el tiempo que el Gobierno esté en funciones como consecuencia de la celebración de elecciones generales:",
+  "opciones": [
+   "Quedarán extinguidas.",
+   "Podrán ejercerse únicamente en casos de urgencia debidamente acreditados.",
+   "Quedarán en suspenso.",
+   "Podrán ejercerse previa autorización de la Diputación Permanente del Congreso."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 21.6 Ley 50/1997: \"Las delegaciones legislativas otorgadas por las Cortes Generales quedarán en suspenso durante todo el tiempo que el Gobierno esté en funciones como consecuencia de la celebración de elecciones generales.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-gobierno-pg-009",
+  "origen": "claude",
+  "tema": "gobierno",
+  "bloque": "LEY GOBIERNO",
+  "articulo": "Art. 23",
+  "enunciado": "Conforme al artículo 23 de la Ley 50/1997, del Gobierno, las disposiciones de entrada en vigor de las leyes o reglamentos cuya aprobación o propuesta corresponda al Gobierno, y que impongan nuevas obligaciones a quienes desempeñen una actividad económica o profesional, preverán el comienzo de su vigencia:",
+  "opciones": [
+   "El 1 de enero o el 1 de julio siguientes a su publicación.",
+   "A los veinte días de su completa publicación en el Boletín Oficial del Estado.",
+   "El 2 de enero o el 1 de julio siguientes a su aprobación.",
+   "El 1 de enero del año siguiente a su aprobación."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 23 Ley 50/1997: \"preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su aprobación\" (no aplicable a los reales decretos-leyes).",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ley40-pg-010",
+  "origen": "claude",
+  "tema": "ley40",
+  "bloque": "Ley 40/2015",
+  "articulo": "Art. 20.1",
+  "enunciado": "A tenor del artículo 20 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, son órganos colegiados de la Administración General del Estado aquellos que se creen formalmente y estén integrados por:",
+  "opciones": [
+   "Dos o más personas.",
+   "Tres o más personas.",
+   "Cinco o más personas.",
+   "Un número impar de personas, no inferior a tres."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 20.1 Ley 40/2015: \"Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ley40-pg-011",
+  "origen": "claude",
+  "tema": "ley40",
+  "bloque": "Ley 40/2015",
+  "articulo": "Art. 29.3 d)",
+  "enunciado": "Según el artículo 29 de la Ley 40/2015, de Régimen Jurídico del Sector Público, a efectos de la graduación de la sanción, se considera reincidencia la comisión de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa, en el término de:",
+  "opciones": [
+   "Un año.",
+   "Seis meses.",
+   "Dos años.",
+   "Tres años."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 29.3.d) Ley 40/2015: \"La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ley40-pg-012",
+  "origen": "claude",
+  "tema": "ley40",
+  "bloque": "Ley 40/2015",
+  "articulo": "Art. 69.2",
+  "enunciado": "De acuerdo con el artículo 69 de la Ley 40/2015, de Régimen Jurídico del Sector Público, las Delegaciones del Gobierno tendrán su sede:",
+  "opciones": [
+   "En la capital de la provincia más poblada de la Comunidad Autónoma.",
+   "En la localidad donde radique el Tribunal Superior de Justicia de la Comunidad Autónoma.",
+   "En la localidad que determine el Ministro de Hacienda y Administraciones Públicas, oída la Comunidad Autónoma.",
+   "En la localidad donde radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros acuerde ubicarla en otra distinta."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 69.2 Ley 40/2015: \"Las Delegaciones del Gobierno tendrán su sede en la localidad donde radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros acuerde ubicarla en otra distinta y sin perjuicio de lo que disponga expresamente el Estatuto de Autonomía.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-regimen_local-pg-013",
+  "origen": "claude",
+  "tema": "regimen_local",
+  "bloque": "TEMA 4. LEY 7/1985",
+  "articulo": "Art. 20.1 b)",
+  "enunciado": "Según el artículo 20 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la Junta de Gobierno Local existe:",
+  "opciones": [
+   "En todos los ayuntamientos, con independencia de su población.",
+   "Únicamente en los municipios de gran población.",
+   "En todos los municipios con población superior a 20.000 habitantes y en los de menos, cuando así lo acuerde el Alcalde.",
+   "En todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 20.1.b) LBRL: \"La Junta de Gobierno Local existe en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-regimen_local-pg-014",
+  "origen": "claude",
+  "tema": "regimen_local",
+  "bloque": "TEMA 4. LEY 7/1985",
+  "articulo": "Art. 23.1",
+  "enunciado": "Conforme al artículo 23 de la Ley 7/1985, Reguladora de las Bases del Régimen Local, la Junta de Gobierno Local se integra por el Alcalde y un número de Concejales:",
+  "opciones": [
+   "No superior a la mitad del número legal de los mismos, elegidos por el Pleno a propuesta del Alcalde.",
+   "No superior al tercio del número legal de los mismos, elegidos por el Pleno por mayoría absoluta.",
+   "No superior al tercio del número legal de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno.",
+   "No inferior al tercio del número legal de los mismos, nombrados libremente por el Alcalde."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 23.1 LBRL: \"La Junta de Gobierno Local se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-regimen_local-pg-015",
+  "origen": "claude",
+  "tema": "regimen_local",
+  "bloque": "TEMA 4. LEY 7/1985",
+  "articulo": "Art. 47.1",
+  "enunciado": "Según el artículo 47 de la Ley 7/1985, Reguladora de las Bases del Régimen Local, los acuerdos de las corporaciones locales se adoptan, como regla general:",
+  "opciones": [
+   "Por mayoría absoluta del número legal de miembros de la corporación.",
+   "Por mayoría simple de los miembros presentes.",
+   "Por mayoría simple del número legal de miembros de la corporación.",
+   "Por mayoría de dos tercios de los miembros presentes."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 47.1 LBRL: \"Los acuerdos de las corporaciones locales se adoptan, como regla general, por mayoría simple de los miembros presentes. Existe mayoría simple cuando los votos afirmativos son más que los negativos.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-igualdad-pg-016",
+  "origen": "claude",
+  "tema": "igualdad",
+  "bloque": "TEMA 2. LO 3/2007",
+  "articulo": "Art. 9",
+  "enunciado": "Según el artículo 9 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de una queja, reclamación, denuncia, demanda o recurso destinados a impedir su discriminación:",
+  "opciones": [
+   "Se considerará también discriminación por razón de sexo.",
+   "Se considerará acoso por razón de sexo.",
+   "Se considerará discriminación indirecta.",
+   "Únicamente dará lugar a responsabilidad disciplinaria de quien lo cause."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 9 LO 3/2007 (Indemnidad frente a represalias): \"También se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja, reclamación, denuncia, demanda o recurso...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-igualdad-pg-017",
+  "origen": "claude",
+  "tema": "igualdad",
+  "bloque": "TEMA 2. LO 3/2007",
+  "articulo": "Art. 45.2",
+  "enunciado": "De acuerdo con el artículo 45 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, las medidas de igualdad deberán dirigirse a la elaboración y aplicación de un plan de igualdad en el caso de las empresas de:",
+  "opciones": [
+   "Cincuenta o más trabajadores.",
+   "Doscientos cincuenta o más trabajadores.",
+   "Cien o más trabajadores.",
+   "Treinta o más trabajadores."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 45.2 LO 3/2007: \"En el caso de las empresas de cincuenta o más trabajadores, las medidas de igualdad [...] deberán dirigirse a la elaboración y aplicación de un plan de igualdad...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-igualdad-pg-018",
+  "origen": "claude",
+  "tema": "igualdad",
+  "bloque": "TEMA 2. LO 3/2007",
+  "articulo": "Art. 59",
+  "enunciado": "Conforme al artículo 59 de la Ley Orgánica 3/2007, cuando el periodo de vacaciones de una empleada pública coincida con una incapacidad temporal derivada del embarazo, parto o lactancia natural, o con el permiso de maternidad:",
+  "opciones": [
+   "Tendrá derecho a disfrutar las vacaciones en fecha distinta, siempre dentro del año natural al que correspondan.",
+   "Perderá el derecho a las vacaciones coincidentes, que se compensarán económicamente.",
+   "Tendrá derecho a disfrutar las vacaciones en fecha distinta dentro de los tres meses siguientes a la finalización del año natural.",
+   "Tendrá derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural al que correspondan."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 59 LO 3/2007: \"la empleada pública tendrá derecho a disfrutar las vacaciones en fecha distinta, aunque haya terminado el año natural al que correspondan.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-violencia_genero-pg-019",
+  "origen": "claude",
+  "tema": "violencia_genero",
+  "bloque": "TEMA 2. LO 1/2004",
+  "articulo": "Art. 64.4",
+  "enunciado": "Según el artículo 64 de la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género, la medida de alejamiento:",
+  "opciones": [
+   "Sólo podrá acordarse si la persona protegida continúa residiendo en el domicilio familiar.",
+   "Sólo podrá acordarse cuando se haya ordenado previamente la salida del inculpado del domicilio.",
+   "Podrá acordarse con independencia de que la persona afectada, o aquéllas a quienes se pretenda proteger, hubieran abandonado previamente el lugar.",
+   "No podrá acordarse acumuladamente con la prohibición de comunicación."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 64.4 LO 1/2004: \"La medida de alejamiento podrá acordarse con independencia de que la persona afectada, o aquéllas a quienes se pretenda proteger, hubieran abandonado previamente el lugar.\" (Y el art. 64.6 permite acordarlas acumulada o separadamente).",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-violencia_genero-pg-020",
+  "origen": "claude",
+  "tema": "violencia_genero",
+  "bloque": "TEMA 2. LO 1/2004",
+  "articulo": "Art. 66",
+  "enunciado": "De conformidad con el artículo 66 de la Ley Orgánica 1/2004, respecto del régimen de visitas, estancia, relación o comunicación del inculpado por violencia de género con los menores que dependan de él, el Juez:",
+  "opciones": [
+   "Podrá suspenderlo únicamente a instancia del Ministerio Fiscal.",
+   "Ordenará su suspensión y, si en interés superior del menor no la acordara, deberá pronunciarse en todo caso sobre la forma en que se ejercerá.",
+   "Lo mantendrá en todo caso, salvo que exista sentencia condenatoria firme.",
+   "Podrá suspenderlo, sin necesidad de pronunciarse sobre su ejercicio si no acuerda la suspensión."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 66 LO 1/2004: \"El Juez ordenará la suspensión del régimen de visitas, estancia, relación o comunicación del inculpado [...]. Si, en interés superior del menor, no acordara la suspensión, el Juez deberá pronunciarse en todo caso sobre la forma en que se ejercerá...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-violencia_genero-pg-021",
+  "origen": "claude",
+  "tema": "violencia_genero",
+  "bloque": "TEMA 2. LO 1/2004",
+  "articulo": "Art. 69",
+  "enunciado": "Según el artículo 69 de la Ley Orgánica 1/2004, las medidas de protección y seguridad de las víctimas previstas en su capítulo IV:",
+  "opciones": [
+   "Se extinguirán en todo caso al dictarse la sentencia definitiva.",
+   "Podrán mantenerse tras la sentencia definitiva y durante la tramitación de los eventuales recursos, debiendo hacerse constar en la sentencia.",
+   "Sólo podrán mantenerse tras la sentencia si ésta es condenatoria y firme.",
+   "Podrán mantenerse tras la sentencia definitiva mediante providencia del Letrado de la Administración de Justicia."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 69 LO 1/2004: \"Las medidas de este capítulo podrán mantenerse tras la sentencia definitiva y durante la tramitación de los eventuales recursos que correspondiesen. En este caso, deberá hacerse constar en la sentencia el mantenimiento de tales medidas.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-igualdad_trato-pg-022",
+  "origen": "claude",
+  "tema": "igualdad_trato",
+  "bloque": "TEMA 2. LEY 15/2022",
+  "articulo": "Art. 29.2 a)",
+  "enunciado": "Según el artículo 29 de la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación, las asociaciones y organizaciones que tengan entre sus fines la defensa y promoción de los derechos humanos, para estar legitimadas, deberán acreditar, entre otros requisitos, que se hubieran constituido legalmente:",
+  "opciones": [
+   "Al menos dos años antes de la iniciación del proceso judicial.",
+   "Al menos un año antes de la iniciación del proceso judicial.",
+   "Al menos cinco años antes de la iniciación del proceso judicial.",
+   "Al menos tres años antes de la iniciación del proceso judicial."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 29.2.a) Ley 15/2022: \"Que se hubieran constituido legalmente al menos dos años antes de la iniciación del proceso judicial y que vengan ejerciendo de modo activo las actividades necesarias...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-igualdad_trato-pg-023",
+  "origen": "claude",
+  "tema": "igualdad_trato",
+  "bloque": "TEMA 2. LEY 15/2022",
+  "articulo": "Art. 30.3",
+  "enunciado": "De acuerdo con el artículo 30 de la Ley 15/2022, integral para la igualdad de trato y la no discriminación, la regla según la cual, aportados indicios fundados de discriminación, corresponde a la parte demandada la aportación de una justificación objetiva y razonable, NO será de aplicación:",
+  "opciones": [
+   "A los procesos civiles ni a los procesos sociales.",
+   "A los procesos contencioso-administrativos.",
+   "A los procedimientos administrativos en los que la Administración actúe de oficio.",
+   "A los procesos penales ni a los procedimientos administrativos sancionadores."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 30.3 Ley 15/2022: \"Lo establecido en el apartado primero no será de aplicación a los procesos penales ni a los procedimientos administrativos sancionadores, ni a las medidas adoptadas y los procedimientos tramitados al amparo de las normas de organización, convivencia y disciplina de los centros docentes.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-igualdad_trato-pg-024",
+  "origen": "claude",
+  "tema": "igualdad_trato",
+  "bloque": "TEMA 2. LEY 15/2022",
+  "articulo": "Art. 51",
+  "enunciado": "Conforme al artículo 51 de la Ley 15/2022, integral para la igualdad de trato y la no discriminación, las infracciones calificadas como graves prescribirán:",
+  "opciones": [
+   "Al año.",
+   "A los cuatro años.",
+   "A los tres años.",
+   "A los dos años."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 51 Ley 15/2022: \"Las infracciones [...] calificadas como leves prescribirán al año, las calificadas como graves a los tres años y las calificadas como muy graves a los cuatro años.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-tecnologias-pg-025",
+  "origen": "claude",
+  "tema": "tecnologias",
+  "bloque": "TEMA 10. RD 6/2023",
+  "articulo": "Art. 72.3",
+  "enunciado": "Según el artículo 72 del Real Decreto-ley 6/2023, de 19 de diciembre, a efectos del cumplimiento de plazos por los interesados, la presentación por medios electrónicos en un día inhábil a efectos procesales se entenderá realizada, salvo que una norma permita expresamente la recepción en día inhábil:",
+  "opciones": [
+   "En el mismo día inhábil, a la hora que conste en el registro electrónico.",
+   "A las quince horas del primer día hábil siguiente.",
+   "En la primera hora hábil del primer día hábil siguiente.",
+   "En el último día hábil anterior a la presentación."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 72.3 RDL 6/2023: \"la presentación por medios electrónicos, en un día inhábil a efectos procesales conforme a la ley, se entenderá realizada en la primera hora hábil del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-tecnologias-pg-026",
+  "origen": "claude",
+  "tema": "tecnologias",
+  "bloque": "TEMA 10. RD 6/2023",
+  "articulo": "Art. 67.4",
+  "enunciado": "Conforme al artículo 67 del Real Decreto-ley 6/2023, en caso de que las partes o intervinientes en una actuación judicial telemática graben o tomen imágenes de lo acontecido, el juez o tribunal podrá imponer motivadamente una multa de:",
+  "opciones": [
+   "100 a 6.000 euros.",
+   "180 a 60.000 euros.",
+   "180 a 6.000 euros.",
+   "600 a 60.000 euros."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 67.4 RDL 6/2023: \"el juez o tribunal podrá imponer motivadamente una multa de 180 a 60.000 euros, que estará sujeta al régimen de recursos previsto en el título V del libro VII de la Ley Orgánica 6/1985...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-tecnologias-pg-027",
+  "origen": "claude",
+  "tema": "tecnologias",
+  "bloque": "TEMA 10. RD 6/2023",
+  "articulo": "Art. 74.1",
+  "enunciado": "Según el artículo 74 del Real Decreto-ley 6/2023, el Registro Electrónico de Apoderamientos Judiciales, en el que deberán inscribirse los apoderamientos otorgados por quien ostente la condición de interesado en un procedimiento judicial a favor de su representante, existirá:",
+  "opciones": [
+   "En el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
+   "En el Consejo General del Poder Judicial.",
+   "En cada Tribunal Superior de Justicia.",
+   "En el Consejo General de Procuradores de España."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 74.1 RDL 6/2023: \"En el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes existirá un Registro Electrónico de Apoderamientos Judiciales en el que deberán inscribirse los apoderamientos...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ebep-pg-028",
+  "origen": "claude",
+  "tema": "ebep",
+  "bloque": "SINDICATOS. EBEP",
+  "articulo": "Art. 42 EBEP",
+  "enunciado": "Según el artículo 42 del texto refundido de la Ley del Estatuto Básico del Empleado Público, el mandato de los miembros de las Juntas de Personal y de los Delegados de Personal será de:",
+  "opciones": [
+   "Cuatro años, sin posibilidad de reelección.",
+   "Cinco años, pudiendo ser reelegidos por una sola vez.",
+   "Tres años, pudiendo ser reelegidos, entendiéndose prorrogado si a su término no se hubiesen promovido nuevas elecciones.",
+   "Cuatro años, pudiendo ser reelegidos, entendiéndose prorrogado si a su término no se hubiesen promovido nuevas elecciones."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 42 EBEP: \"El mandato de los miembros de las Juntas de Personal y de los Delegados de Personal, en su caso, será de cuatro años, pudiendo ser reelegidos. El mandato se entenderá prorrogado si, a su término, no se hubiesen promovido nuevas elecciones...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ebep-pg-029",
+  "origen": "claude",
+  "tema": "ebep",
+  "bloque": "SINDICATOS. DERECHO DE HUELGA",
+  "articulo": "Art. 2.1 RD 755/1987",
+  "enunciado": "Según el artículo 2 del Real Decreto 755/1987, de 19 de junio, por el que se establecen normas para garantizar la prestación de servicios mínimos en la Administración de Justicia, NO figura entre los servicios esenciales:",
+  "opciones": [
+   "Las actuaciones de Registro Civil.",
+   "Las subastas judiciales.",
+   "Los embargos y medidas cautelares o provisionales.",
+   "La celebración de vistas en los procedimientos civiles ordinarios."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 2.1 RD 755/1987 enumera como servicios esenciales: actuaciones de Registro Civil, Registro de Documentos, reparto de asuntos, actuaciones en que venza un plazo legal, embargos y medidas cautelares o provisionales, todas las actuaciones penales, servicio de Juzgado de Guardia y subastas judiciales. Las vistas civiles ordinarias no figuran.",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ebep-pg-030",
+  "origen": "claude",
+  "tema": "ebep",
+  "bloque": "SINDICATOS. DERECHO DE HUELGA",
+  "articulo": "Art. 2.2 RD 755/1987",
+  "enunciado": "Conforme al artículo 2.2 del Real Decreto 755/1987, de 19 de junio, se considera personal mínimo para atender los servicios esenciales en el Tribunal Supremo y en la Audiencia Nacional:",
+  "opciones": [
+   "Un 50 por 100 del total de funcionarios que presten servicios en cada uno de ellos.",
+   "Un 25 por 100 del total de funcionarios de los Cuerpos de Oficiales, Auxiliares y Agentes que presten servicios en cada uno de ellos.",
+   "Un 30 por 100 del total de funcionarios de los Cuerpos de Oficiales, Auxiliares y Agentes que presten servicios en cada uno de ellos.",
+   "Un funcionario de cada Cuerpo por cada Sala o Sección."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 2.2.a) RD 755/1987: \"Un 30 por 100 del total de funcionarios de los Cuerpos de Oficiales, Auxiliares y Agentes de la Administración de Justicia que presten servicios en cada uno de los siguientes órganos: Tribunal Supremo, Audiencia Nacional, Audiencias Territoriales.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-carta_derechos-pg-031",
+  "origen": "claude",
+  "tema": "carta_derechos",
+  "bloque": "CARTA DE DERECHOS",
+  "articulo": "Carta, ap. C (Una justicia atenta con el ciudadano)",
+  "enunciado": "Según la Carta de Derechos de los Ciudadanos ante la Justicia, en relación con el derecho del ciudadano a conocer la identidad de la autoridad o funcionario que le atienda, quien responda por teléfono o realice una comunicación por vía telemática:",
+  "opciones": [
+   "Deberá identificarse únicamente si el ciudadano lo solicita expresamente.",
+   "Deberá en todo caso identificarse ante el ciudadano.",
+   "No estará obligado a identificarse, salvo en causas criminales.",
+   "Podrá limitarse a indicar el órgano judicial al que pertenece."
+  ],
+  "correcta": 1,
+  "explicacion": "Carta de Derechos: \"El ciudadano tiene derecho a conocer la identidad y categoría de la autoridad o funcionario que le atienda [...]. Quien responda por teléfono o quien realice una comunicación por vía telemática deberá en todo caso identificarse ante el ciudadano.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-carta_derechos-pg-032",
+  "origen": "claude",
+  "tema": "carta_derechos",
+  "bloque": "CARTA DE DERECHOS",
+  "articulo": "Carta, ap. F (Protección de los menores)",
+  "enunciado": "Conforme a la Carta de Derechos de los Ciudadanos ante la Justicia, para que la comparecencia del menor de edad ante los órganos judiciales tenga lugar de forma adecuada a su situación y desarrollo evolutivo:",
+  "opciones": [
+   "Podrán utilizarse elementos técnicos tales como circuitos cerrados de televisión, videoconferencia o similares.",
+   "El menor comparecerá siempre acompañado del Ministerio Fiscal y a puerta cerrada.",
+   "Se exigirá en todo caso la presencia de un psicólogo forense.",
+   "El menor sólo podrá comparecer por escrito a través de su representante legal."
+  ],
+  "correcta": 0,
+  "explicacion": "Carta de Derechos (Protección de los menores): \"El menor de edad tiene derecho a que su comparecencia ante los órganos judiciales tenga lugar de forma adecuada a su situación y desarrollo evolutivo. Para el cumplimiento de este derecho podrán utilizarse elementos técnicos tales como circuitos cerrados de televisión, videoconferencia o similares.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-carta_derechos-pg-033",
+  "origen": "claude",
+  "tema": "carta_derechos",
+  "bloque": "CARTA DE DERECHOS",
+  "articulo": "Carta, ap. F (Protección de los discapacitados)",
+  "enunciado": "Según la Carta de Derechos de los Ciudadanos ante la Justicia, respecto del ciudadano sordo, mudo o con discapacidad visual o ceguera, se comprobará con especial cuidado que el acto de comunicación ha llegado a conocimiento efectivo de su destinatario y, en su caso:",
+  "opciones": [
+   "Se procederá a la lectura en voz alta del contenido del acto.",
+   "Se repetirá el acto de comunicación por edictos.",
+   "Se entregará copia del acto a su abogado de oficio.",
+   "Se practicará el acto de comunicación a través del Ministerio Fiscal."
+  ],
+  "correcta": 0,
+  "explicacion": "Carta de Derechos: \"Se comprobará con especial cuidado que el acto de comunicación ha llegado a conocimiento efectivo de su destinatario y, en su caso, se procederá a la lectura en voz alta del contenido del acto.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-registro_civil-pg-034",
+  "origen": "claude",
+  "tema": "registro_civil",
+  "bloque": "REGISTRO CIVIL",
+  "articulo": "Art. 52",
+  "enunciado": "Según el artículo 52 de la Ley 20/2011, de 21 de julio, del Registro Civil, el Encargado del Registro Civil, mediante procedimiento registral, podrá autorizar el cambio de nombre previa declaración del interesado, que deberá probar:",
+  "opciones": [
+   "La concurrencia de una justa causa apreciada por el Ministerio Fiscal.",
+   "Que el nombre que se pretende sustituir es contrario a la dignidad de la persona.",
+   "Que el nuevo nombre ha sido utilizado durante al menos diez años.",
+   "El uso habitual del nuevo nombre."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 52 LRC: \"El Encargado del Registro Civil, mediante procedimiento registral, podrá autorizar el cambio de nombre previa declaración del interesado, que deberá probar el uso habitual del nuevo nombre...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-registro_civil-pg-035",
+  "origen": "claude",
+  "tema": "registro_civil",
+  "bloque": "REGISTRO CIVIL",
+  "articulo": "Art. 53.5",
+  "enunciado": "Conforme al artículo 53 de la Ley 20/2011, del Registro Civil, cuando sobre la base de una filiación rectificada con posterioridad el hijo o sus descendientes pretendieran conservar los apellidos que vinieren usando antes de la rectificación, dicha conservación deberá instarse:",
+  "opciones": [
+   "Dentro del año siguiente a la inscripción de la nueva filiación.",
+   "Dentro de los dos meses siguientes a la notificación de la sentencia que rectifique la filiación.",
+   "Dentro de los dos meses siguientes a la inscripción de la nueva filiación o, en su caso, a la mayoría de edad.",
+   "En cualquier momento, mediante expediente ante el Ministerio de Justicia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 53.5 LRC: \"Dicha conservación de apellidos deberá instarse dentro de los dos meses siguientes a la inscripción de la nueva filiación o, en su caso, a la mayoría de edad.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-registro_civil-pg-036",
+  "origen": "claude",
+  "tema": "registro_civil",
+  "bloque": "REGISTRO CIVIL",
+  "articulo": "Art. 69",
+  "enunciado": "De acuerdo con el artículo 69 de la Ley 20/2011, del Registro Civil, sin perjuicio de lo dispuesto en el Código Civil y en tanto no conste la extranjería de los padres, se presumen españoles:",
+  "opciones": [
+   "Todos los nacidos en territorio español.",
+   "Los nacidos en territorio español de progenitores también nacidos en España.",
+   "Los nacidos en el extranjero de padre o madre españoles.",
+   "Los nacidos en territorio español de progenitores con residencia legal en España."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 69 LRC: \"se presumen españoles los nacidos en territorio español de progenitores también nacidos en España. La misma presunción rige para la vecindad.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-archivos-pg-037",
+  "origen": "claude",
+  "tema": "archivos",
+  "bloque": "ARCHIVOS Y EXPURGOS RD 937/2003",
+  "articulo": "Art. 5.2",
+  "enunciado": "Según el artículo 5 del Real Decreto 937/2003, de 18 de julio, de modernización de los archivos judiciales, los procedimientos con sentencia firme o cualquier otra resolución que ponga fin a éstos podrán ser remitidos para su conservación y custodia al Archivo Judicial Territorial:",
+  "opciones": [
+   "Transcurridos cinco años desde la firmeza de la resolución.",
+   "Transcurrido un año desde la firmeza de la resolución.",
+   "Transcurridos seis meses desde la firmeza de la resolución.",
+   "Transcurridos dos años desde la incoación del procedimiento."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 5.2 RD 937/2003: \"Los procedimientos con sentencia firme o cualquier otra resolución que ponga fin a éstos podrán ser remitidos para su conservación y custodia al Archivo Judicial Territorial transcurrido un año desde la firmeza de la resolución.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-archivos-pg-038",
+  "origen": "claude",
+  "tema": "archivos",
+  "bloque": "ARCHIVOS Y EXPURGOS RD 937/2003",
+  "articulo": "Art. 17.3",
+  "enunciado": "Conforme al artículo 17 del Real Decreto 937/2003, de modernización de los archivos judiciales, durante el plazo que medie entre la convocatoria y la celebración de la sesión de la Junta de Expurgo, la Administración competente en materia de patrimonio histórico elaborará un informe sobre los expedientes que por su valor histórico-documental deberán ser preservados, que tendrá carácter:",
+  "opciones": [
+   "Vinculante.",
+   "Preceptivo pero no vinculante.",
+   "Facultativo.",
+   "Vinculante sólo respecto de los expedientes gubernativos."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 17.3 RD 937/2003: \"la Administración competente en materia de patrimonio histórico elaborará un informe de carácter vinculante que comprenderá aquellos expedientes o documentos judiciales que por su valor histórico-documental deberán ser preservados...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-archivos-pg-039",
+  "origen": "claude",
+  "tema": "archivos",
+  "bloque": "ARCHIVOS Y EXPURGOS RD 937/2003",
+  "articulo": "Art. 18.4",
+  "enunciado": "Según el artículo 18 del Real Decreto 937/2003, de modernización de los archivos judiciales, cuando los expedientes o documentos judiciales y gubernativos no estén recogidos en soporte de papel, la Junta de Expurgo acordará:",
+  "opciones": [
+   "Su enajenación.",
+   "Su transferencia a la Administración competente en materia de patrimonio histórico.",
+   "Su conversión a soporte papel y posterior enajenación.",
+   "Su destrucción."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 18.4 RD 937/2003: \"Cuando por cualquier circunstancia no fuese posible o no resultara aconsejable la enajenación y, en todo caso, cuando los expedientes o documentos judiciales y gubernativos no estén recogidos en soporte de papel, se acordará su destrucción.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-asistencia_juridica-pg-040",
+  "origen": "claude",
+  "tema": "asistencia_juridica",
+  "bloque": "ASISTENCIA JURÍDICA GRATUITA",
+  "articulo": "Art. 3.1 b)",
+  "enunciado": "Según el artículo 3 de la Ley 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita, se reconocerá el derecho a las personas físicas integradas en alguna de las modalidades de unidad familiar con menos de cuatro miembros cuyos recursos e ingresos económicos brutos, computados anualmente, no superen:",
+  "opciones": [
+   "Dos veces el indicador público de renta de efectos múltiples.",
+   "El triple del indicador público de renta de efectos múltiples.",
+   "Dos veces y media el indicador público de renta de efectos múltiples.",
+   "El quíntuplo del indicador público de renta de efectos múltiples."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 3.1 Ley 1/1996: a) dos veces el IPREM para personas no integradas en unidad familiar; b) \"Dos veces y media el indicador público de renta de efectos múltiples [...] cuando se trate de personas integradas en alguna de las modalidades de unidad familiar con menos de cuatro miembros\"; c) el triple para unidades de cuatro o más miembros o familia numerosa.",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-asistencia_juridica-pg-041",
+  "origen": "claude",
+  "tema": "asistencia_juridica",
+  "bloque": "ASISTENCIA JURÍDICA GRATUITA",
+  "articulo": "Art. 5.1",
+  "enunciado": "Conforme al artículo 5 de la Ley 1/1996, de Asistencia Jurídica Gratuita, la Comisión de Asistencia Jurídica Gratuita podrá conceder excepcionalmente, mediante resolución motivada, el reconocimiento del derecho a personas cuyos recursos e ingresos, aun superando los límites del artículo 3, no excedan de:",
+  "opciones": [
+   "El cuádruplo del indicador público de renta de efectos múltiples.",
+   "El triple del indicador público de renta de efectos múltiples.",
+   "El quíntuplo del indicador público de renta de efectos múltiples.",
+   "El séxtuplo del indicador público de renta de efectos múltiples."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 5.1 Ley 1/1996: \"podrá conceder excepcionalmente, mediante resolución motivada, el reconocimiento del derecho a las personas cuyos recursos e ingresos, aun superando los límites previstos en el artículo 3, no excedan del quíntuplo del indicador público de renta de efectos múltiples...\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-asistencia_juridica-pg-042",
+  "origen": "claude",
+  "tema": "asistencia_juridica",
+  "bloque": "ASISTENCIA JURÍDICA GRATUITA",
+  "articulo": "Art. 6.8",
+  "enunciado": "De acuerdo con el artículo 6 de la Ley 1/1996, de Asistencia Jurídica Gratuita, el derecho comprende, respecto de los derechos arancelarios que correspondan por el otorgamiento de escrituras públicas y por la obtención de copias y testimonios notariales no contemplados en el número anterior, cuando tengan relación directa con el proceso:",
+  "opciones": [
+   "Una reducción del 50 por 100.",
+   "Una reducción del 80 por 100.",
+   "La exención total en todo caso.",
+   "Una reducción del 75 por 100."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 6.8 Ley 1/1996: \"Reducción del 80 por 100 de los derechos arancelarios que correspondan por el otorgamiento de escrituras públicas y por la obtención de copias y testimonios notariales no contemplados en el número anterior...\" (no se perciben si el interesado acredita ingresos por debajo del IPREM, art. 6.10).",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-cooperacion-pg-043",
+  "origen": "claude",
+  "tema": "cooperacion",
+  "bloque": "COOPERACIÓN JURÍDICA INTERNACIONAL",
+  "articulo": "Art. 52.1",
+  "enunciado": "Según el artículo 52 de la Ley 29/2015, de 30 de julio, de cooperación jurídica internacional en materia civil, la competencia para conocer de las solicitudes de exequátur corresponde, con carácter general:",
+  "opciones": [
+   "A los Juzgados de Primera Instancia del domicilio de la parte frente a la que se solicita el reconocimiento o ejecución, o de la persona a quien se refieren los efectos de la resolución extranjera.",
+   "A la Sala de lo Civil del Tribunal Supremo.",
+   "A las Audiencias Provinciales del lugar donde deba ejecutarse la resolución.",
+   "A la Sala de lo Civil y Penal del Tribunal Superior de Justicia del domicilio del solicitante."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 52.1 Ley 29/2015: \"La competencia para conocer de las solicitudes de exequátur corresponde a los Juzgados de Primera Instancia del domicilio de la parte frente a la que se solicita el reconocimiento o ejecución, o de la persona a quien se refieren los efectos de la resolución judicial extranjera.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-cooperacion-pg-044",
+  "origen": "claude",
+  "tema": "cooperacion",
+  "bloque": "COOPERACIÓN JURÍDICA INTERNACIONAL",
+  "articulo": "Art. 54.5",
+  "enunciado": "Conforme al artículo 54 de la Ley 29/2015, de cooperación jurídica internacional en materia civil, examinada la demanda de exequátur y los documentos presentados, el Letrado de la Administración de Justicia dictará resolución admitiéndola y dando traslado a la parte demandada para que se oponga. Dicha resolución y el plazo de oposición son:",
+  "opciones": [
+   "Diligencia de ordenación; veinte días.",
+   "Decreto; diez días.",
+   "Auto; treinta días.",
+   "Decreto; treinta días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 54.5 Ley 29/2015: \"La demanda y documentos presentados serán examinados por el secretario judicial, que dictará decreto admitiendo la misma y dando traslado de ella a la parte demandada para que se oponga en el plazo de treinta días.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-cooperacion-pg-045",
+  "origen": "claude",
+  "tema": "cooperacion",
+  "bloque": "COOPERACIÓN JURÍDICA INTERNACIONAL",
+  "articulo": "Art. 55.1",
+  "enunciado": "Según el artículo 55 de la Ley 29/2015, de cooperación jurídica internacional en materia civil, contra el auto de exequátur:",
+  "opciones": [
+   "Sólo cabe interponer recurso de reposición.",
+   "Cabe interponer directamente recurso de casación.",
+   "No cabe recurso alguno.",
+   "Sólo cabe interponer recurso de apelación."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 55.1 Ley 29/2015: \"Contra el auto de exequátur solo cabe interponer recurso de apelación de conformidad con las previsiones de la Ley de Enjuiciamiento Civil.\"",
+  "fuente": "Material: parte_general_y_otras_leyes_completo.pdf",
+  "fecha": "2026-11-11"
+ }
+]

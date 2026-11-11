@@ -1,0 +1,1 @@
+import{A as n,D as o,F as s,G as c}from"./chunk-YQ6X56F7.js";import{s as i,v as a}from"./chunk-HYNGVTZG.js";var u=class t{auth=a(n);currentUser$=o(this.auth);async login(e,r){return(await s(this.auth,e,r)).user}logout(){return c(this.auth)}static \u0275fac=function(r){return new(r||t)};static \u0275prov=i({token:t,factory:t.\u0275fac,providedIn:"root"})};export{u as a};

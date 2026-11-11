@@ -1,0 +1,130 @@
+[
+ {
+  "id": "constitucion",
+  "nombre": "Constitución Española"
+ },
+ {
+  "id": "ue",
+  "nombre": "Unión Europea (Tratados)"
+ },
+ {
+  "id": "gobierno",
+  "nombre": "Ley 50/1997, del Gobierno"
+ },
+ {
+  "id": "ley40",
+  "nombre": "Ley 40/2015, de Régimen Jurídico del Sector Público"
+ },
+ {
+  "id": "ley39",
+  "nombre": "Ley 39/2015, del Procedimiento Administrativo Común"
+ },
+ {
+  "id": "regimen_local",
+  "nombre": "Ley 7/1985, de Bases del Régimen Local"
+ },
+ {
+  "id": "igualdad",
+  "nombre": "LO 3/2007, para la igualdad efectiva de mujeres y hombres"
+ },
+ {
+  "id": "violencia_genero",
+  "nombre": "LO 1/2004, de Medidas de Protección Integral contra la Violencia de Género"
+ },
+ {
+  "id": "igualdad_trato",
+  "nombre": "Ley 15/2022, integral para la igualdad de trato y la no discriminación"
+ },
+ {
+  "id": "tecnologias",
+  "nombre": "Tecnologías en la Administración de Justicia (Ley 18/2011 / RDL 6/2023)"
+ },
+ {
+  "id": "lopj",
+  "nombre": "LOPJ – Ley Orgánica del Poder Judicial"
+ },
+ {
+  "id": "reglamento_ingreso",
+  "nombre": "Reglamento de Ingreso (RD 1451/2005)"
+ },
+ {
+  "id": "reglamento_disciplinario",
+  "nombre": "Reglamento Disciplinario (RD 796/2005)"
+ },
+ {
+  "id": "permisos",
+  "nombre": "Jornada, permisos y licencias"
+ },
+ {
+  "id": "ebep",
+  "nombre": "EBEP y libertad sindical"
+ },
+ {
+  "id": "reglamento_laj",
+  "nombre": "Reglamento Orgánico del Cuerpo de LAJ"
+ },
+ {
+  "id": "reglamentos_cgpj",
+  "nombre": "Reglamentos del CGPJ"
+ },
+ {
+  "id": "carta_derechos",
+  "nombre": "Carta de Derechos de los Ciudadanos ante la Justicia"
+ },
+ {
+  "id": "estatuto_fiscal",
+  "nombre": "Estatuto Orgánico del Ministerio Fiscal"
+ },
+ {
+  "id": "registro_civil",
+  "nombre": "Registro Civil"
+ },
+ {
+  "id": "archivos",
+  "nombre": "Archivos judiciales y expurgo (RD 937/2003)"
+ },
+ {
+  "id": "asistencia_juridica",
+  "nombre": "Ley 1/1996, de Asistencia Jurídica Gratuita"
+ },
+ {
+  "id": "cooperacion",
+  "nombre": "Ley 29/2015, de Cooperación Jurídica Internacional"
+ },
+ {
+  "id": "lec",
+  "nombre": "LEC – Ley de Enjuiciamiento Civil"
+ },
+ {
+  "id": "jurisdiccion_voluntaria",
+  "nombre": "Ley 15/2015, de la Jurisdicción Voluntaria"
+ },
+ {
+  "id": "concursal",
+  "nombre": "Ley Concursal"
+ },
+ {
+  "id": "lecrim",
+  "nombre": "LECrim – Ley de Enjuiciamiento Criminal"
+ },
+ {
+  "id": "jurado",
+  "nombre": "LO 5/1995, del Tribunal del Jurado"
+ },
+ {
+  "id": "menores",
+  "nombre": "LO 5/2000, de Responsabilidad Penal de los Menores"
+ },
+ {
+  "id": "ljca",
+  "nombre": "LJCA – Jurisdicción Contencioso-administrativa"
+ },
+ {
+  "id": "lrjs",
+  "nombre": "LRJS – Jurisdicción Social"
+ },
+ {
+  "id": "otros",
+  "nombre": "Otras normas"
+ }
+]
