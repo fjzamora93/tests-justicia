@@ -1,0 +1,812 @@
+[
+ {
+  "page": 12,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 21,
+  "stem": "Según la LOPJ, habrá un Secretario de Gobierno:",
+  "ref": "(Gestión Procesal 2025 pregunta 10) Art. 464.1",
+  "options": [
+   "En el Tribunal Constitucional, en la Audiencia Nacional y en la Sala de Gobierno del Tribunal Superior de Justicia.",
+   "En el Tribunal Supremo, en la Audiencia Nacional y en cada Tribunal Superior de Justicia, así como en las ciudades de Ceuta y Melilla.",
+   "En el Tribunal Supremo, en la Audiencia Provincial y en cada Tribunal Superior de Justicia, así como en las ciudades de Ceuta y Melilla.",
+   "En el Tribunal Constitucional y en cada Tribunal Superior de Justicia, así como en las ciudades de Ceuta y Melilla."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 12,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 22,
+  "stem": "De conformidad con el artículo 439.3 de la Ley Orgánica del Poder Judicial, las Unidades Administrativas:",
+  "ref": "(Tramitación Procesal 2025 pregunta 24) Art. 439.3 NUEVA DIFÍCIL",
+  "options": [
+   "Se podrán crear para la prestación de servicios de medios adecuados de solución de controversias.",
+   "En ningún caso se podrán crear para la prestación de servicios de medios adecuados de solución de controversias.",
+   "Se podrán crear para la prestación de servicios de medios adecuados de solución de controversias, cuando así se establezca en las relaciones de puestos de trabajo.",
+   "Se podrán crear para la prestación de servicios de medios adecuados de solución de controversias, cuando así se establezca en su norma de creación."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 12,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 23,
+  "stem": "De conformidad con el artículo 436.5 de la Ley Orgánica 6/1985, del Poder Judicial, los servicios comunes de las oficinas judiciales podrán estructurarse en:",
+  "ref": "(Auxilio Judicial 2025 pregunta 81) Art. 436.5",
+  "options": [
+   "Áreas, y si el servicio lo requiere, en equipos.",
+   "Unidades Administrativas, y si el servicio lo requiere, en puestos de trabajo.",
+   "Unidades de apoyo, y si el servicio lo requiere, en jefaturas.",
+   "Servicios específicos, y si el servicio lo requiere, en puestos de trabajo."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 12,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 24,
+  "stem": "Los Letrados de la Administración de Justicia deberán abstenerse en los casos establecidos para Jueces y Magistrados. La abstención se formulará por escrito motivado dirigido:",
+  "ref": "(Tramitación Procesal 2025 pregunta 29) Art. 446.2",
+  "options": [
+   "Al Secretario Coordinador Provincial, quien decidirá la cuestión.",
+   "Al Ministerio de Justicia, quien decidirá la cuestión.",
+   "Al Juez Decano correspondiente , quien decidirá la cuestión.",
+   "Al Secretario de Gobierno, quien decidirá la cuestión."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 12,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 25,
+  "stem": "En virtud del artículo 456 de la Ley Orgánica 6/1985, del Poder Judicial, las resoluciones dictadas por el letrado de la Administración de Justicia necesaria para la tramitación del proceso se denominarán:",
+  "ref": "(Auxilio Judicial 2025 pregunta 104) Art. 456.2",
+  "options": [
+   "Diligencias.",
+   "Decretos.",
+   "Acuerdos.",
+   "Actas."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 13,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 26,
+  "stem": "De conformidad con el artículo 441.5 de la Ley Orgánica 6/1985, del Poder Judicial, ¿un letrado de la Administración de Justicia de tercera categoría podrá optar a una plaza de primera categoría?",
+  "ref": "(Auxilio Judicial 2025 pregunta 83) Art. 441.5",
+  "options": [
+   "Sí, por razones del servicio, con la autorización del Ministerio de Justicia.",
+   "Sí, por razones del servicio, con autorización del Secretario de Gobierno.",
+   "Sí, por razones del servicio, con la autorización del Secretario Coordinador.",
+   "En ningún caso."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 13,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 27,
+  "stem": "Según la Ley Orgánica del Poder Judicial, cuando en un Servicio Común Procesal prestaren servicios varios letrados de la Administración de Justicia:",
+  "ref": "(Tramitación Procesal 2025 pregunta 30) Art. 463.3",
+  "options": [
+   "El Juez Decano correspondiente determinará su dependencia jerárquica y funcional.",
+   "El Secretario Coordinador Provincial determinará su dependencia jerárquica y funcional.",
+   "La Relación de Puestos de Trabajo determinará su dependencia jerárquica y funcional.",
+   "El Secretario de Gobierno determinará su dependencia jerárquica y funcional."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 13,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 28,
+  "stem": "De conformidad con el artículo 443 de la Ley Orgánica 6/1985, del Poder Judicial, la condición de letrado de la Administración de Justicia se pierde:",
+  "ref": "(Auxilio Judicial 2025 pregunta 84) Art. 443.2. b",
+  "options": [
+   "Por renuncia forzosa manifestada por escrito y remitida al Ministerio de Justicia.",
+   "Por sanción disciplinaria de suspensión del servicio.",
+   "Por pérdida de la nacionalidad española.",
+   "Por condena a pena privativa de libertad superior a dos años por razón de delito."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 13,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 29,
+  "stem": "Según el Reglamento Orgánico del Cuerpo de Secretarios Judiciales ¿quién elabora los protocolos de actuación en el procedimiento a los que deberán atenerse los Secretarios Judiciales en el ejercicio de sus funciones?",
+  "ref": "(Tramitación procesal 2011 pregunta 50) Art. 18 n)",
+  "options": [
+   "El Secretario General de la Administración de Justicia.",
+   "El Secretario de Gobierno.",
+   "El Secretario Coordinador Provincial.",
+   "El Secretario Judicial responsable de un servicio común"
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 13,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 30,
+  "stem": "Los protocolos de actuación en el procedimiento a los que deben abstenerse los Letrados de la Administración de Justicia en el ejercicio de sus funciones como directores técnico-procesales de la Oficina Judicial, serán elaborados por:",
+  "ref": "(Auxilio Judicial 2022 concurso-oposición pregunta 24) Art. 18 n)",
+  "options": [
+   "El Secretario Coordinador Provincial y aprobados por el Secretario de Gobierno.",
+   "El Letrado de la Administración de Justicia y aprobados por el Secretario Coordinador.",
+   "El Secretario de Gobierno y aprobados por el Consejo General del Poder Judicial.",
+   "El Secretario de Gobierno y aprobados por el Ministerio de Justicia."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 14,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 31,
+  "stem": "¿Cuál de las siguientes funciones no podrá ejercer un Secretario de Gobierno en su calidad de superior jerárquico?",
+  "ref": "(Auxilio Judicial 2011 pregunta 98) Art. 21",
+  "options": [
+   "La inspección de los servicios de los que sean responsables los Secretarios Judiciales de su ámbito competencial.",
+   "Proponer al Ministerio de Justicia el nombramiento de Secretarios Judiciales de libre designación en su ámbito de competencia.",
+   "Impartir instrucciones particulares en casos concretos a un Secretario Judicial en el ejercicio de su función de ordenación y dirección del proceso.",
+   "Dirección y organización de los Secretarios Judiciales que de él dependan."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 14,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 32,
+  "stem": "Conforme al Artículo 18.f del Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 1608/2005, de 30 de diciembre, señale cuál de las siguientes funciones no es competencia de los Secretarios de Gobierno y sí de los Secretarios Coordinadores Provinciales:",
+  "ref": "(Gestión Procesal 2012 pregunta 11) Art. 18 f)",
+  "options": [
+   "Proponer al Ministerio de Justicia la lista de candidatos considerados idóneos para ejercer como Secretarios Judiciales sustitutos en el ámbito territorial de cada Comunidad Autónoma.",
+   "Coordinar el funcionamiento de cuantos Servicios Comunes Procesales se encuentren ubicados en su territorio.",
+   "Proponer el nombramiento y cese de los Secretarios Judiciales de libre designación.",
+   "Conceder los permisos, licencias y vacaciones a los Secretarios judiciales de su territorio."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 14,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 33,
+  "stem": "Según lo dispuesto en el artículo 21 del Real Decreto 1608/2005, de 30 de diciembre, por el que se aprueba el Reglamento Orgánico del Cuerpo de Secretarios Judiciales, es competencia designar a los Letrados de la Administración de Justicia que formen parte de las Juntas de Expurgo, de conformidad con lo prevenido en la normativa reguladora de la modernización de los archivos judiciales:",
+  "ref": "(Auxilio Judicial 2022 concurso-oposición pregunta 23) Art. 21.3 NUEVA PURA",
+  "options": [
+   "Del Secretario General de la Administración de Justicia.",
+   "Del Ministro de Justicia.",
+   "Del Ministro de la Presidencia, Justicia y relaciones con las Cortes.",
+   "De los Secretarios de Gobierno."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 14,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 34,
+  "stem": "En virtud del artículo 15 del Real Decreto 1608/2005, de 30 de diciembre, por el que se aprueba el Reglamento Orgánico del Cuerpo de Secretarios Judiciales la duración del nombramiento de los Secretarios de Gobierno de los Tribunales Superiores de Justicia será:",
+  "ref": "(Auxilio Judicial 2023 pregunta 91) Art. 15 NUEVA PURA",
+  "options": [
+   "Cuatro años renovable por periodo iguales.",
+   "Cuatro años sin renovación.",
+   "Cinco años renovable por periodo iguales.",
+   "Cinco años sin renovación."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 14,
+  "section": "LOPJ LIBRO V - REGLAMENTOS SECRETARIOS",
+  "n": 35,
+  "stem": "El Consejo del Secretario, como órgano de participación democrática de los Letrados de la Administración de Justicia, se constituye bajo la presidencia:",
+  "ref": "Reglamento Secretarios. (Tramitación Procesal 2016 Incidencias pregunta 84) Art. 22.2",
+  "options": [
+   "Del Secretario de Gobierno del Tribunal Supremo.",
+   "Del Ministro de Justicia.",
+   "Del titular de la Dirección General de Relaciones con la Administración de Justicia.",
+   "Del Secretario General de la Administración de Justicia."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 15,
+  "section": "Libro VI LOPJ",
+  "n": 1,
+  "stem": "El plazo de prescripción de las faltas se interrumpirá en el momento en que se inicie el procedimiento disciplinario volviendo a computarse el plazo si el expediente permaneciera paralizado durante más de:",
+  "ref": "Art. 540.3 LOPJ",
+  "options": [
+   "Dos años por causas no imputables al funcionario sujeto a procedimiento.",
+   "Tres meses por causas no imputables al funcionario sujeto a procedimiento.",
+   "Un año por causas no imputables al funcionario sujeto a procedimiento.",
+   "Seis meses por causas no imputables al funcionario sujeto a procedimiento."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 15,
+  "section": "Libro VI LOPJ",
+  "n": 2,
+  "stem": "Indique la afirmación correcta:",
+  "ref": "Art. 474.2, .3 y .4 LOPJ",
+  "options": [
+   "Al personal funcionario de otras Administraciones que preste servicios en la Administración de Justicia, para la realización de funciones concretas y especializadas, les será de aplicación las normas contenidas en la LOPJ, y, con carácter supletorio, en lo no regulado expresamente en las mismas, por la normativa del Estado sobre Función Pública.",
+   "El personal laboral se regirá por las disposiciones legales y reglamentarias, por el convenio colectivo que les sea de aplicación y por las estipulaciones de su contrato de trabajo.",
+   "A los funcionarios interinos les será aplicable el régimen de los funcionarios de carrera en lo que sea adecuado a la naturaleza de su condición y les será de aplicación el régimen de clases pasivas.",
+   "Todas las respuestas son correctas."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 15,
+  "section": "Libro VI LOPJ",
+  "n": 3,
+  "stem": "No le corresponde al Cuerpo de Gestión Procesal y Administrativa:",
+  "ref": "Art. 476.1 LOPJ",
+  "options": [
+   "Realizar las tareas de registro, recepción y distribución de escritos y documentos, relativos a asuntos que se estuvieran tramitando en Juzgados y Tribunales.",
+   "Expedir, con conocimiento del letrado de la Administración de Justicia, y a costa del interesado, copias simples de escritos y documentos que consten en autos no declarados secretos ni reservados.",
+   "Practicar y firmar las comparecencias que efectúen las partes en relación con los procedimientos que se sigan en el órgano judicial.",
+   "La formación de autos y expedientes, bajo la supervisión del superior jerárquico."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 15,
+  "section": "Libro VI LOPJ",
+  "n": 4,
+  "stem": "Según el apartado segundo del artículo 479 LOPJ existirá un Instituto de Medicina Legal y Ciencias Forenses en cada ciudad donde tenga su sede oficial:",
+  "ref": "Art. 479.2 LOPJ",
+  "options": [
+   "Un Tribunal Superior de Justicia.",
+   "Una Audiencia Provincial.",
+   "Un Tribunal de Instancia.",
+   "El Tribunal Supremo."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 15,
+  "section": "Libro VI LOPJ",
+  "n": 5,
+  "stem": "A la Comisión de Recursos Humanos de la Administración de Justicia le corresponde:",
+  "ref": "Art. 489.2 bis LOPJ",
+  "options": [
+   "Elaborar estudios e informes necesarios sobre empleo público en la Administración de Justicia.",
+   "Impulsar las actuaciones necesarias para garantizar la efectividad de los principios constitucionales en el acceso al empleo público, así como su integridad y coherencia, en el conjunto de las necesidades de la Administración de Justicia.",
+   "Emitir informe sobre cualquier proyecto normativo que las Administraciones Públicas le presenten.",
+   "Todas las respuestas son correctas."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 16,
+  "section": "Libro VI LOPJ",
+  "n": 6,
+  "stem": "Se determinarán las normas generales de organización y funcionamiento de los Institutos de Medicina Legal y Ciencias Forenses y de actuación de los médicos forenses y del resto del personal funcionario o laboral adscrito a los mismos:",
+  "ref": "Art. 479.3 LOPJ",
+  "options": [
+   "Mediante real decreto, a propuesta de las Comunidades Autónomas que han recibido los traspasos de medios para el funcionamiento de la Administración de Justicia y previo informe del Consejo General del Poder Judicial y del Ministro de Justicia.",
+   "Mediante real decreto, a propuesta de la Fiscalía General del Estado y previo informe del Consejo General del Poder Judicial y del Ministerio de Justicia.",
+   "Mediante real decreto, a propuesta del Consejo General del Poder Judicial y previo informe del Ministerio de Justicia y de las Comunidades Autónomas que han recibido los traspasos de medios para el funcionamiento de la Administración de Justicia.",
+   "Mediante real decreto, a propuesta del Ministro de Justicia y previo informe del Consejo General del Poder Judicial y de las Comunidades Autónomas que han recibido los traspasos de medios para el funcionamiento de la Administración de Justicia."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 16,
+  "section": "Libro VI LOPJ",
+  "n": 7,
+  "stem": "La estructura orgánica del Instituto Nacional de Toxicología y Ciencias Forenses se determinará mediante:",
+  "ref": "Art. 480.2 LOPJ",
+  "options": [
+   "Orden ministerial.",
+   "Ley Ordinaria.",
+   "Real decreto.",
+   "Ley Orgánica."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 16,
+  "section": "Libro VI LOPJ",
+  "n": 8,
+  "stem": "Indique la afirmación correcta:",
+  "ref": "Art. 481.1, .2, .3 y .5 LOPJ",
+  "options": [
+   "Las Comunidades Autónomas podrán establecer en sus ámbitos territoriales registros respecto del personal al servicio de la Administración de Justicia que preste servicios en los mismos.",
+   "El Consejo General del Poder Judicial aprobará las normas que determinarán la información que habrá de figurar en el Registro Central de Personal.",
+   "En cada comunidad autónoma con competencias en materia de justicia, existirá un Registro Central de personal funcionario al servicio de la Administración de Justicia, en el que se inscribirá a todo el personal funcionario de los Cuerpos al servicio de la Administración de Justicia.",
+   "Los funcionarios de carrera de la Administración de Justicia figurarán en el escalafón por orden alfabético."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 16,
+  "section": "Libro VI LOPJ",
+  "n": 9,
+  "stem": "Las pruebas selectivas de los cuerpos generales de la Administración de Justicia, se convocarán y resolverán por:",
+  "ref": "Art. 483.3 LOPJ",
+  "options": [
+   "La Comisión de Selección de Personal y se realizarán, de forma territorializada en los distintos ámbitos en los que se hayan agrupado las vacantes.",
+   "El Ministerio de Justicia y se realizarán, de forma territorializada en los distintos ámbitos en los que se hayan agrupado las vacantes.",
+   "Las comunidades autónomas con competencias en materia de justicia y se realizarán, de forma territorializada en los distintos ámbitos en los que se hayan agrupado las vacantes.",
+   "El Consejo General del Poder Judicial y se realizarán, de forma territorializada en los distintos ámbitos en los que se hayan agrupado las vacantes."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 17,
+  "section": "Libro VI LOPJ",
+  "n": 10,
+  "stem": "La suspensión de funciones impuesta al funcionario al servicio de la Administración de Justicia por la comisión de una falta muy grave no podrá ser:",
+  "ref": "Art. 538 LOPJ",
+  "options": [
+   "Superior a seis años ni inferior a cuatro años.",
+   "Superior a tres años ni inferior a un año.",
+   "Superior a cinco años ni inferior a tres años.",
+   "Superior a cuatro años ni inferior a dos años."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 17,
+  "section": "Libro VI LOPJ",
+  "n": 11,
+  "stem": "En las ofertas de empleo público de los Cuerpos de funcionarios al servicio de la Administración de Justicia se reservará un cupo:",
+  "ref": "Art. 482.5 LOPJ",
+  "options": [
+   "Inferior al quince por ciento de las vacantes para ser cubiertas entre personas con discapacidad.",
+   "No inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad.",
+   "Inferior al diez por ciento de las vacantes para ser cubiertas entre personas con discapacidad.",
+   "No inferior al cinco por ciento de las vacantes para ser cubiertas entre personas con discapacidad."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 17,
+  "section": "Libro VI LOPJ",
+  "n": 12,
+  "stem": "La Comisión de Selección de Personal a quien le corresponde la elaboración de los temarios y de las bases de convocatoria por las que han de regirse los procesos selectivos para ingreso en los cuerpos de funcionarios a que se refiere el libro VI LOPJ, estará formada por:",
+  "ref": "Art. 486.1 LOPJ",
+  "options": [
+   "Seis miembros.",
+   "Diez miembros.",
+   "Ocho miembros.",
+   "Doce miembros."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 17,
+  "section": "Libro VI LOPJ",
+  "n": 13,
+  "stem": "Para el acceso al Cuerpo de Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses se exigirá:",
+  "ref": "Art. 475 LOPJ",
+  "options": [
+   "Ser licenciado en una carrera universitaria en Ciencias Experimentales y de la Salud, que se determinará en las correspondientes convocatorias.",
+   "Estar en posesión del título de Técnico en Formación Profesional o equivalente de las familias profesionales que se determinen en las bases de las convocatorias de los procesos selectivos.",
+   "Estar en posesión de los títulos oficiales de Licenciado o Graduado en Medicina.",
+   "Estar en posesión del título de Técnico Superior en Formación Profesional o equivalente de las familias profesionales que se determinen en las bases de las convocatorias de los procesos selectivos."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 17,
+  "section": "Libro VI LOPJ",
+  "n": 14,
+  "stem": "Respecto a los Cuerpos Generales de la Administración de Justicia, el Ministerio de Presidencia, Justicia y Relaciones con las Cortes, previa autorización por parte del Ministerio para la Transformación Digital y de la Función Pública, convocará anualmente procesos de promoción interna para la cobertura de un número de plazas equivalente al:",
+  "ref": "Art. 490.2 LOPJ",
+  "options": [
+   "Cincuenta por ciento de las que, para cada cuerpo, sean objeto de la Oferta de Empleo Público.",
+   "Veinte por ciento de las que, para cada cuerpo, sean objeto de la Oferta de Empleo Público.",
+   "Treinta por ciento de las que, para cada cuerpo, sean objeto de la Oferta de Empleo Público.",
+   "Cuarenta por ciento de las que, para cada cuerpo, sean objeto de la Oferta de Empleo Público."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 18,
+  "section": "Libro VI LOPJ",
+  "n": 15,
+  "stem": "El incidente de recusación de los funcionarios al servicio de la Administración de Justicia se instruirá por:",
+  "ref": "Art. 499.2 LOPJ",
+  "options": [
+   "El Secretario General de la Administración de Justicia.",
+   "El Juez del que funcionalmente dependa.",
+   "El Ministerio de Justicia.",
+   "El LAJ del que funcionalmente dependa."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 18,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 16,
+  "stem": "Según el artículo 490 de la LOPJ, la promoción interna se efectuará mediante:",
+  "ref": "(Gestión Procesal 2025 pregunta 11) Art. 490.3",
+  "options": [
+   "Sistema de oposición libre. En todo caso, se respetarán los principios de igualdad, mérito, capacidad y publicidad.",
+   "Sistema de concurso-oposición. En todo caso, se respetarán los principios de igualdad, mérito, capacidad y publicidad.",
+   "Sistema de oposición libre. En todo caso, se respetarán los principios de paridad, mérito, capacidad y publicidad.",
+   "Sistema de concurso-oposición. En todo caso, se respetarán los principios de paridad, mérito, profesionalidad y publicidad."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 18,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 17,
+  "stem": "De conformidad con el artículo 479.5 de la Ley Orgánica 6/1985, del Poder Judicial, no es una función del médico forense:",
+  "ref": "(Auxilio Judicial 2025 pregunta 86) Art. 479.5",
+  "options": [
+   "Realizar los análisis solicitados por los particulares.",
+   "La realización de funciones de investigación que deriven de su propia función.",
+   "La vigilancia facultativa de los detenidos.",
+   "La emisión de informes a solicitud de los particulares."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 18,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 18,
+  "stem": "Según la Ley Orgánica del Poder Judicial los Cuerpos de funcionarios al servicio de la Administración de Justicia, tienen la consideración de (Señale la respuesta correcta):",
+  "ref": "(Tramitación Procesal 2025 pregunta 31) Art. 470.2",
+  "options": [
+   "Cuerpos Locales.",
+   "Cuerpos Autonómicos.",
+   "Cuerpos Nacionales.",
+   "Cuerpos Específicos."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 18,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 19,
+  "stem": "Según el artículo 495 de la Ley Orgánica del Poder Judicial, ¿cuál es un derecho profesional de los funcionarios de carrera?:",
+  "ref": "(Tramitación Procesal 2025 pregunta 34) Art. 495. 1.h NUEVA",
+  "options": [
+   "La libre asociación profesional.",
+   "La libre sindicación.",
+   "A vacaciones, permisos y licencias.",
+   "De reunión."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 18,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 20,
+  "stem": "Conforme a la Ley Orgánica 6/1985, del Poder Judicial, es una función del Cuerpo de Gestión Procesal y Administrativa:",
+  "ref": "(Auxilio Judicial 2025 pregunta 89) Art. 476.1.b",
+  "options": [
+   "Ordenar la dación en cuenta.",
+   "Registrar la correspondencia.",
+   "Formación de autos y expedientes.",
+   "Practicar y firmar las comparecencias que efectúen las partes en los procedimientos."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 19,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 21,
+  "stem": "Según el artículo 527 de la Ley Orgánica del Poder Judicial, los puestos de trabajo cubiertos en comisión de servicio, tienen la característica (Señale la respuesta incorrecta):",
+  "ref": "(Tramitación Procesal 2025 pregunta 36) Art. 527",
+  "options": [
+   "Pueden tener carácter voluntario o forzoso.",
+   "Conservan su puesto de origen.",
+   "Se cubren con carácter definitivo.",
+   "El personal funcionario debe reunir los requisitos exigidos para su desempeño."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 19,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 22,
+  "stem": "Según el artículo 507 de la Ley Orgánica del Poder Judicial, los funcionarios de los cuerpos a los que se refiere el Libro VI, cuando ocupen un puesto de trabajo en la Mutualidad General Judicial, adscrito a funcionarios de la Administración de Justicia, se hallarán en situación de:",
+  "ref": "(Auxilio Judicial 2025 pregunta 74) Art. 507.2.g NUEVA",
+  "options": [
+   "Servicios especiales.",
+   "Servicio activo.",
+   "Excedencia voluntaria por prestación de servicios en el sector público.",
+   "Excedencia temporal por servicios especiales."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 19,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 23,
+  "stem": "La excedencia por cuidado de hijos es un derecho individual de los funcionarios de los cuerpos generales de la administración de justicia; su concesión:",
+  "ref": "(Auxilio Judicial 2025 pregunta 75) Art. 509.1",
+  "options": [
+   "No estará condicionada hasta el tercer hijo y siguientes, precisando entonces la autorización del Secretario de Gobierno.",
+   "Estará condicionada por razones justificadas relacionadas con el funcionamiento de los servicios.",
+   "Estará condicionada a la previa declaración de no desempeñar otra actividad que impida o menoscabe el cuidado del hijo.",
+   "No estará condicionada bajo ninguna circunstancia."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 19,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 24,
+  "stem": "La duración de la excedencia por cuidado de familiar a cargo, para los funcionarios de los Cuerpos Generales, será:",
+  "ref": "(Gestión Procesal 2025 pregunta 13) Art. 509.2",
+  "options": [
+   "No superior a un año.",
+   "No superior a cinco años.",
+   "No superior a tres años.",
+   "No superior a seis meses."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 19,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 25,
+  "stem": "Tal y como establece el artículo 511 de la Ley Orgánica del Poder Judicial, la situación de suspensión provisional de funciones de un funcionario durante la tramitación de un expediente disciplinario será acordada por:",
+  "ref": "(Auxilio Judicial 2025 pregunta 76) Art. 511.3.b",
+  "options": [
+   "El juez que por turno le corresponda.",
+   "La autoridad que ordenó la incoación del expediente.",
+   "El letrado de la administración de justicia nombrado instructor del expediente.",
+   "El secretario de gobierno de referencia en la provincia de destino del funcionario expedientado."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 20,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 26,
+  "stem": "La duración de la suspensión provisional del funcionario durante la tramitación de un expediente disciplinario no podrá exceder de:",
+  "ref": "(Auxilio Judicial 2025 pregunta 77) Art. 511.3.b y REGLAMENTO DICIPLINARIO Art. 22",
+  "options": [
+   "Tres meses cuando se trate de falta muy grave.",
+   "Doce meses cuando se trate de falta grave.",
+   "Seis meses cuando se trate de falta muy grave.",
+   "Nueve meses cuando se trate de falta grave."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 20,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 27,
+  "stem": "¿Cuál es el sistema ordinario de provisión de puestos de trabajo, según el artículo 524 de la Ley Orgánica del Poder Judicial?:",
+  "ref": "(Tramitación Procesal 2025 pregunta 35) Art. 524. 1",
+  "options": [
+   "El concurso-oposición.",
+   "La oposición.",
+   "La libre designación.",
+   "El concurso."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 20,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 28,
+  "stem": "Conforme establece el artículo 483.1 de la Ley Orgánica 6/1985, del Poder Judicial, el personal funcionario de carrera será seleccionado con criterios de objetividad y con arreglo a los principios de igualdad, mérito, capacidad y también de:",
+  "ref": "(Auxilio Judicial 2025 pregunta 87) Art 483.1 NUEVA",
+  "options": [
+   "Imparcialidad.",
+   "Publicidad.",
+   "Responsabilidad.",
+   "Transparencia."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 20,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 29,
+  "stem": "De conformidad con el artículo 479.7 de la Ley Orgánica 6/1985, del Poder Judicial, los médicos forenses estarán destinados en:",
+  "ref": "(Auxilio Judicial 2025 pregunta 88) Art. 479.7",
+  "options": [
+   "Una oficina judicial.",
+   "Una oficinal fiscal.",
+   "Un Instituto de Medicina Legal y Ciencias Forenses.",
+   "Un tribunal de Instancia."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 20,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 30,
+  "stem": "¿Cuál de los siguientes Cuerpos no pertenece al de Especiales al servicio de la Administración de Justicia?:",
+  "ref": "(Tramitación Procesal 2025 pregunta 32) Art. 475. b",
+  "options": [
+   "Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.",
+   "Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.",
+   "Técnicos Especialistas del Instituto de Medicina Legal.",
+   "Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 20,
+  "section": "Libro VI LOPJ - OFICIALES",
+  "n": 31,
+  "stem": "De conformidad con el artículo 500.3 de la Ley Orgánica 6/1985, del Poder Judicial, la incorporación de un funcionario del Cuerpo de Auxilio Judicial a la jornada de mañana y tarde será:",
+  "ref": "(Auxilio Judicial 2025 pregunta 91) Art. 500.3",
+  "options": [
+   "Obligatoria, por razones de servicio.",
+   "No está contemplada la jornada de mañana y tarde en la Administración de Justicia.",
+   "Voluntaria.",
+   "Obligatoria, por razones de utilidad."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 21,
+  "section": "REGLAMENTO INGRESO",
+  "n": 1,
+  "stem": "Los aspirantes propuestos aportarán ante el Ministerio de Justicia, para su nombramiento como funcionarios en prácticas, los documentos acreditativos de los requisitos exigidos en la convocatoria, dentro del plazo de:",
+  "ref": "Art. 23.1 Reglamento Ingreso",
+  "options": [
+   "20 días hábiles desde que se publiquen en el Boletín Oficial del Estado las relaciones de aprobados",
+   "15 días naturales desde que se publiquen en el Boletín Oficial del Estado las relaciones de aprobados",
+   "10 días hábiles desde que se publiquen en el Boletín Oficial del Estado las relaciones de aprobados",
+   "20 días naturales desde que se publiquen en el Boletín Oficial del Estado las relaciones de aprobados"
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 21,
+  "section": "REGLAMENTO INGRESO",
+  "n": 2,
+  "stem": "Respecto al juramento o promesa y toma de posesión, señale la respuesta correcta:",
+  "ref": "Art. 29.1, .2 y .4 Reglamento Ingreso",
+  "options": [
+   "La condición de funcionario de carrera se adquirirá con la toma de posesión del primer destino, que tendrá lugar en el plazo de quince días naturales contados desde el día siguiente al de la publicación de su nombramiento en el Boletín Oficial del Estado, previo juramento o promesa.",
+   "En casos de fuerza mayor debidamente justificados, el Ministerio de Justicia o los órganos correspondientes de las comunidades autónomas con traspasos recibidos podrán, de oficio, prorrogar en la medida que estimen necesario el plazo anterior.",
+   "Los funcionarios que accedan a un nuevo cuerpo por el turno de promoción interna y que opten por continuar en activo en el cuerpo de procedencia se tendrán que desplazar a tomar posesión al puesto de trabajo adjudicado, no bastando con que dentro del plazo de toma de posesión comuniquen, en su caso, al órgano correspondiente del Ministerio de Justicia o de las comunidades autónomas con traspasos recibidos dicha opción.",
+   "El que se negare a prestar juramento o promesa, o sin justa causa dejare de tomar posesión, se entenderá que renuncia a adquirir la condición de funcionario en el cuerpo correspondiente, debiéndose dar cuenta de ello por el órgano respectivo al Ministerio de Justicia o, en su caso, al órgano competente de la comunidad autónoma con traspasos recibidos."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 21,
+  "section": "REGLAMENTO INGRESO",
+  "n": 3,
+  "stem": "Señale la incorrecta. Las relaciones de puestos de trabajo de los servicios comunes que radiquen en el mismo municipio deberán identificar, a efectos de provisión del puesto, los puestos correspondientes a:",
+  "ref": "Art 39.1 bis Reglamento Ingreso.",
+  "options": [
+   "Los servicios comunes de tramitación de las Audiencias Provinciales.",
+   "El servicio común de tramitación de la Audiencia Nacional.",
+   "Las áreas que se constituyan.",
+   "Los equipos que se constituyan, cuando así lo establezca las relaciones de puestos de trabajo, y, en todo caso, siempre que el número de efectivos en el equipo sea igual o superior a 40."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 21,
+  "section": "REGLAMENTO INGRESO",
+  "n": 4,
+  "stem": "Los puestos de trabajo genéricos, por razones organizativas, podrán ser provistos mediante:",
+  "ref": "Art. 40.4 Reglamento Ingreso",
+  "options": [
+   "Redistribución de efectivos",
+   "Comisión de servicios.",
+   "Adscripción provisional.",
+   "Todas son correctas."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 22,
+  "section": "REGLAMENTO INGRESO",
+  "n": 5,
+  "stem": "De acuerdo con el artículo 44 del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, señale la respuesta correcta:",
+  "ref": "Art. 44.1, .2, .3 y .4 Reglamento Ingreso",
+  "options": [
+   "El Ministerio de Justicia y los órganos correspondientes de las comunidades autónomas con traspasos recibidos convocarán, dentro del primer mes de cada año natural y en la misma fecha, concurso de ámbito estatal para la provisión de puestos de trabajo vacantes en todo el territorio del Estado.",
+   "Las convocatorias se harán públicas exclusivamente en el Boletín Oficial del Estado.",
+   "En los concursos se ofertarán las plazas vacantes que determinen el Ministerio de Justicia y las que resulten como consecuencia del propio concurso.",
+   "En la convocatoria para puestos de trabajo de las comunidades autónomas con competencias asumidas cuya lengua propia tenga carácter oficial, se valorará como mérito su conocimiento oral y escrito, en la forma establecida en el artículo 48 del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 22,
+  "section": "REGLAMENTO INGRESO",
+  "n": 6,
+  "stem": "El plazo máximo para la resolución de concursos para cubrir puestos genéricos será de:",
+  "ref": "Art 51.2 Reglamento Ingreso",
+  "options": [
+   "3 meses, contados desde el día siguiente al de la finalización de presentación de solicitudes.",
+   "1 año, contados desde el día siguiente al de la finalización de presentación de solicitudes.",
+   "6 meses, contados desde el día siguiente al de la finalización de presentación de solicitudes.",
+   "4 meses, contados desde el día siguiente al de la finalización de presentación de solicitudes."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 22,
+  "section": "REGLAMENTO INGRESO",
+  "n": 7,
+  "stem": "Los funcionarios nombrados para puestos de trabajo de libre designación:",
+  "ref": "Art. 62.1, .2 y .3 Reglamento Ingreso",
+  "options": [
+   "Podrán ser cesados con carácter discrecional, mediante resolución en la que la motivación se referirá exclusivamente a la competencia para adoptarla.",
+   "Podrán renunciar a dichos puestos de trabajo, mediante solicitud razonada en la que harán constar los motivos profesionales o personales para esta renuncia y siempre que hayan desempeñado el citado puesto al menos durante dos años.",
+   "Los funcionarios cesados en un puesto de libre designación o que hayan renunciado a él, serán adscritos provisionalmente, en tanto no obtengan otro puesto con carácter definitivo, a uno correspondiente a su cuerpo, dentro de la misma provincia y con efectos del día siguiente al de la resolución del cese o aceptación de la renuncia.",
+   "Los funcionarios cesados o que hayan renunciado a un puesto de libre designación gozarán de derecho preferente para ocupar, la primera vez que se anuncien a concurso, puestos de trabajo genéricos en la misma localidad donde servían cuando se produjo su cese, sin necesidad de solicitar todos los puestos de trabajo que se convoquen en aquélla."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 22,
+  "section": "REGLAMENTO INGRESO",
+  "n": 8,
+  "stem": "Según el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, el puesto de trabajo al que se acceda a través de la redistribución de efectivos tendrá carácter:",
+  "ref": "Art. 65.4 Reglamento Ingreso",
+  "options": [
+   "Voluntario y definitivo.",
+   "Forzoso y temporal.",
+   "Forzoso y definitivo.",
+   "Voluntario y temporal."
+  ],
+  "correct": 2,
+  "uncertain": false
+ }
+]

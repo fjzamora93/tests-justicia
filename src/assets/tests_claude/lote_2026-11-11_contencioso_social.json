@@ -1,0 +1,722 @@
+[
+ {
+  "id": "cl-ljca-ljca-001",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. DISPOSICIONES GENERALES",
+  "articulo": "Art. 33.2",
+  "enunciado": "Según el artículo 33.2 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, si el Juez o Tribunal, al dictar sentencia, estimare que la cuestión sometida a su conocimiento pudiera no haber sido apreciada debidamente por las partes, lo someterá a aquéllas:",
+  "opciones": [
+   "Mediante providencia, concediendo a los interesados un plazo común de diez días para alegaciones, con suspensión del plazo para pronunciar el fallo.",
+   "Mediante auto, concediendo a los interesados un plazo común de cinco días para alegaciones, sin suspensión del plazo para pronunciar el fallo.",
+   "Mediante providencia, concediendo a los interesados un plazo sucesivo de diez días para alegaciones, sin suspensión del plazo para pronunciar el fallo.",
+   "Mediante diligencia de ordenación, concediendo a los interesados un plazo común de quince días para alegaciones."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 33.2: «lo someterá a aquéllas mediante providencia [...] y concederá a los interesados un plazo común de diez días para que formulen las alegaciones que estimen oportunas, con suspensión del plazo para pronunciar el fallo. Contra la expresada providencia no cabrá recurso alguno».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-002",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ACUMULACIÓN",
+  "articulo": "Art. 36.2",
+  "enunciado": "De conformidad con el artículo 36 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, de la petición de ampliación del recurso a un acto, disposición o actuación conexos:",
+  "opciones": [
+   "No se dará traslado a las partes y no producirá la suspensión del curso del procedimiento.",
+   "Se dará traslado a las partes para alegaciones en el plazo común de diez días, sin que se suspenda el curso del procedimiento.",
+   "Se dará traslado a las partes para alegaciones en el plazo común de cinco días, y producirá la suspensión del curso del procedimiento.",
+   "Se dará traslado a las partes para alegaciones en el plazo común de tres días, quedando sin efecto los señalamientos ya acordados."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 36.2: «De esta petición, que producirá la suspensión del curso del procedimiento, el letrado o letrada de la Administración de Justicia dará traslado a las partes para que presenten alegaciones en el plazo común de cinco días».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-003",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ACUMULACIÓN",
+  "articulo": "Art. 36.4",
+  "enunciado": "Conforme al artículo 36.4 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, cuando en un recurso interpuesto contra un acto presunto la Administración dictare resolución expresa y el recurrente desistiera del recurso inicial, el plazo para recurrir la resolución expresa será de:",
+  "opciones": [
+   "Un mes, contado desde el día siguiente al de la notificación de la misma.",
+   "Dos meses, contados desde el día siguiente al del desistimiento.",
+   "Seis meses, contados desde el día siguiente al de la notificación de la misma.",
+   "Dos meses, contados desde el día siguiente al de la notificación de la misma."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 36.4: «Una vez producido el desistimiento del recurso inicialmente interpuesto, el plazo para recurrir la resolución expresa, que será de dos meses, se contará desde el día siguiente al de la notificación de la misma».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-004",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ACUMULACIÓN",
+  "articulo": "Art. 37.1",
+  "enunciado": "Según el artículo 37.1 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, interpuestos varios recursos contencioso-administrativos en los que concurra alguna de las circunstancias del artículo 34, el órgano jurisdiccional podrá acordar la acumulación:",
+  "opciones": [
+   "En cualquier momento procesal, de oficio o a instancia de parte, previa audiencia de las partes por plazo común de cinco días.",
+   "Sólo antes de la contestación a la demanda, a instancia de parte, previa audiencia de las partes por plazo común de diez días.",
+   "En cualquier momento procesal, únicamente a instancia de parte, sin necesidad de audiencia.",
+   "Sólo antes de la declaración de concluso para sentencia, de oficio, previa audiencia de las partes por plazo común de tres días."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 37.1: «el órgano jurisdiccional podrá en cualquier momento procesal, previa audiencia de las partes por plazo común de cinco días, acordar la acumulación de oficio o a instancia de alguna de ellas».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-005",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ORDINARIO",
+  "articulo": "Art. 53.2",
+  "enunciado": "De acuerdo con el artículo 53 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, si después de que la parte demandante hubiera pedido plazo para formalizar la demanda sin el expediente administrativo, éste se recibiera, el letrado de la Administración de Justicia lo pondrá de manifiesto a las partes para alegaciones complementarias por plazo:",
+  "opciones": [
+   "Sucesivo de cinco días.",
+   "Común de diez días.",
+   "Común de veinte días.",
+   "Sucesivo de quince días."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 53.2: «el Secretario judicial pondrá éste de manifiesto a las partes demandantes y, en su caso, demandadas por plazo común de diez días para que puedan efectuar las alegaciones complementarias que estimen oportunas».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-006",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ORDINARIO",
+  "articulo": "Art. 58.1",
+  "enunciado": "Según el artículo 58.1 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, las partes demandadas podrán alegar como alegaciones previas los motivos que pudieren determinar la incompetencia del órgano jurisdiccional o la inadmisibilidad del recurso:",
+  "opciones": [
+   "Dentro de los diez primeros días del plazo para contestar la demanda.",
+   "En el escrito de contestación a la demanda, exclusivamente.",
+   "Dentro de los primeros cinco días del plazo para contestar la demanda.",
+   "Dentro de los tres días siguientes a la recepción del expediente administrativo."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 58.1: «Las partes demandadas podrán alegar, dentro de los primeros cinco días del plazo para contestar la demanda, los motivos que pudieren determinar la incompetencia del órgano jurisdiccional o la inadmisibilidad del recurso».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-007",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ORDINARIO",
+  "articulo": "Art. 61.4",
+  "enunciado": "Conforme al artículo 61.4 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, si el Juez o Tribunal acordare de oficio la práctica de una prueba y las partes carecieran de oportunidad para alegar sobre ella en la vista o en el escrito de conclusiones, se pondrá de manifiesto su resultado a las partes, que podrán alegar acerca de su alcance e importancia en el plazo de:",
+  "opciones": [
+   "Tres días.",
+   "Diez días.",
+   "Quince días.",
+   "Cinco días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 61.4: «el Secretario judicial pondrá de manifiesto el resultado de la prueba a las partes, las cuales podrán, en el plazo de cinco días, alegar cuanto estimen conveniente acerca de su alcance e importancia».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-008",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ORDINARIO",
+  "articulo": "Art. 62.2",
+  "enunciado": "Según el artículo 62.2 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, la solicitud de que se celebre vista, se presenten conclusiones o el pleito sea declarado concluso para sentencia habrá de formularse:",
+  "opciones": [
+   "Por otrosí en los escritos de demanda o contestación o por escrito presentado en el plazo de cinco días desde que se notifique la diligencia de ordenación declarando concluso el período de prueba.",
+   "Únicamente por otrosí en el escrito de demanda.",
+   "Por escrito presentado en el plazo de diez días desde que se notifique la providencia declarando concluso el período de prueba.",
+   "Por comparecencia ante el letrado de la Administración de Justicia en el plazo de tres días desde la contestación a la demanda."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 62.2: «Dicha solicitud habrá de formularse por medio de otrosí en los escritos de demanda o contestación o por escrito presentado en el plazo de cinco días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-009",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. ORDINARIO",
+  "articulo": "Art. 63.4",
+  "enunciado": "De conformidad con el artículo 63.4 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, cuando se cuente con los medios tecnológicos que garanticen la autenticidad e integridad de lo grabado, la celebración de la vista no requerirá la presencia en la sala del letrado de la Administración de Justicia, salvo que lo hubieran solicitado las partes:",
+  "opciones": [
+   "Al menos cinco días antes de la celebración de la vista.",
+   "Al menos dos días antes de la celebración de la vista.",
+   "Al menos veinticuatro horas antes de la celebración de la vista.",
+   "En el escrito de demanda o de contestación."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 63.4: «la celebración del acto no requerirá la presencia en la sala del letrado de la Administración de Justicia salvo que lo hubieran solicitado las partes, al menos dos días antes de la celebración de la vista».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-010",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. SENTENCIA",
+  "articulo": "Art. 73",
+  "enunciado": "Según el artículo 73 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, las sentencias firmes que anulen un precepto de una disposición general no afectarán por sí mismas a la eficacia de las sentencias o actos administrativos firmes que lo hayan aplicado antes de que la anulación alcanzara efectos generales, salvo:",
+  "opciones": [
+   "Que así lo solicite el Ministerio Fiscal en el plazo de dos meses.",
+   "Que la sentencia que anula el precepto haya sido dictada por el Tribunal Supremo.",
+   "En el caso de que la anulación del precepto supusiera la exclusión o la reducción de las sanciones aún no ejecutadas completamente.",
+   "En materia tributaria y de personal al servicio de la Administración pública."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 73: «[...] salvo en el caso de que la anulación del precepto supusiera la exclusión o la reducción de las sanciones aún no ejecutadas completamente».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-011",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. OTROS MODOS DE TERMINACIÓN",
+  "articulo": "Art. 75.2",
+  "enunciado": "Conforme al artículo 75.2 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, producido el allanamiento, si la sentencia de conformidad con las pretensiones del demandante supusiere infracción manifiesta del ordenamiento jurídico, el órgano jurisdiccional comunicará a las partes los motivos que pudieran oponerse a la estimación y las oirá por plazo común de:",
+  "opciones": [
+   "Cinco días.",
+   "Quince días.",
+   "Veinte días.",
+   "Diez días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 75.2: «el órgano jurisdiccional comunicará a las partes los motivos que pudieran oponerse a la estimación de las pretensiones y las oirá por plazo común de diez días, dictando luego la sentencia que estime ajustada a Derecho».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-012",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. OTROS MODOS DE TERMINACIÓN",
+  "articulo": "Art. 76.2",
+  "enunciado": "Según el artículo 76 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, si la Administración demandada reconociese totalmente en vía administrativa las pretensiones del demandante, previa audiencia de las partes por plazo común de cinco días, el Juez o Tribunal, si el reconocimiento no infringiera manifiestamente el ordenamiento jurídico, dictará:",
+  "opciones": [
+   "Auto en el que declarará terminado el procedimiento y ordenará el archivo del recurso.",
+   "Sentencia estimatoria de las pretensiones del demandante.",
+   "Decreto declarando terminado el procedimiento.",
+   "Providencia acordando el archivo provisional de las actuaciones."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 76.2: «el juez, la jueza o Tribunal dictará auto en el que declarará terminado el procedimiento y ordenará el archivo del recurso, si el reconocimiento no infringiera manifiestamente el ordenamiento jurídico».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-013",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. OTROS MODOS DE TERMINACIÓN",
+  "articulo": "Art. 77.2",
+  "enunciado": "De acuerdo con el artículo 77.2 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, el intento de conciliación en primera o única instancia:",
+  "opciones": [
+   "Suspenderá en todo caso el curso de las actuaciones y sólo podrá producirse antes de la contestación a la demanda.",
+   "No suspenderá el curso de las actuaciones salvo que todas las partes personadas lo solicitasen y podrá producirse en cualquier momento anterior al día en que el pleito haya sido declarado concluso para sentencia.",
+   "No suspenderá el curso de las actuaciones salvo que lo solicite la Administración demandada y podrá producirse hasta la celebración de la vista.",
+   "Suspenderá el curso de las actuaciones por plazo máximo de un mes y podrá producirse hasta que se dicte sentencia."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 77.2: «El intento de conciliación no suspenderá el curso de las actuaciones salvo que todas las partes personadas lo solicitasen y podrá producirse en cualquier momento anterior al día en que el pleito haya sido declarado concluso para sentencia».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-014",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. RECURSOS",
+  "articulo": "Art. 83.1",
+  "enunciado": "Según el artículo 83.1 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, el recurso de apelación contra las sentencias es admisible:",
+  "opciones": [
+   "En un solo efecto, salvo que el Juez acuerde lo contrario.",
+   "En un solo efecto en todo caso.",
+   "En ambos efectos, salvo en los casos en que la propia Ley disponga otra cosa.",
+   "En ambos efectos sólo cuando la sentencia sea desestimatoria."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 83.1: «El recurso de apelación contra las sentencias es admisible en ambos efectos, salvo en los casos en que la presente Ley disponga otra cosa».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-015",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. EJECUCIÓN",
+  "articulo": "Art. 105.3",
+  "enunciado": "Conforme al artículo 105.3 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, señale la respuesta INCORRECTA en relación con las causas de utilidad pública o de interés social para expropiar los derechos reconocidos frente a la Administración en una sentencia firme:",
+  "opciones": [
+   "Lo es el temor fundado de guerra.",
+   "Lo es el quebranto de la integridad del territorio nacional.",
+   "La declaración de su concurrencia habrá de efectuarse dentro de los dos meses siguientes a la comunicación de la sentencia.",
+   "La declaración de su concurrencia corresponde en todo caso al Juez o Tribunal a quien competa la ejecución."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 105.3: «La declaración de la concurrencia de alguna de las causas citadas se hará por el Gobierno de la Nación; podrá también efectuarse por el Consejo de Gobierno de la Comunidad Autónoma [...]». El Juez o Tribunal sólo señala la indemnización por el trámite de los incidentes.",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-016",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. EJECUCIÓN",
+  "articulo": "Art. 106.2",
+  "enunciado": "Según el artículo 106.2 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, cuando la Administración fuere condenada al pago de cantidad líquida, a dicha cantidad se añadirá el interés legal del dinero, calculado desde:",
+  "opciones": [
+   "La fecha de notificación de la sentencia dictada en única o primera instancia.",
+   "La fecha de firmeza de la sentencia.",
+   "La fecha de interposición del recurso contencioso-administrativo.",
+   "La fecha en que la sentencia firme sea comunicada al órgano que deba cumplirla."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 106.2: «A la cantidad a que se refiere el apartado anterior se añadirá el interés legal del dinero, calculado desde la fecha de notificación de la sentencia dictada en única o primera instancia».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-017",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. EJECUCIÓN",
+  "articulo": "Art. 106.3",
+  "enunciado": "De conformidad con el artículo 106.3 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, transcurridos tres meses desde que la sentencia firme que condene al pago de cantidad sea comunicada al órgano que deba cumplirla, se podrá instar la ejecución forzosa y la autoridad judicial, si apreciase falta de diligencia en el cumplimiento, podrá:",
+  "opciones": [
+   "Imponer multas coercitivas de ciento cincuenta a mil quinientos euros.",
+   "Incrementar en dos puntos el interés legal a devengar.",
+   "Duplicar el interés legal a devengar.",
+   "Incrementar en un punto el interés legal a devengar."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 106.3: «la autoridad judicial, oído el órgano encargado de hacerla efectiva, podrá incrementar en dos puntos el interés legal a devengar, siempre que apreciase falta de diligencia en el cumplimiento».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-018",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. EJECUCIÓN",
+  "articulo": "Art. 110.1",
+  "enunciado": "Según el artículo 110.1 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, los efectos de una sentencia firme que hubiera reconocido una situación jurídica individualizada podrán extenderse a otras personas, en ejecución de sentencia, en materia:",
+  "opciones": [
+   "Tributaria, urbanística y de contratación pública.",
+   "De personal al servicio de la Administración pública, de extranjería y de responsabilidad patrimonial.",
+   "Tributaria, de personal al servicio de la Administración pública y de unidad de mercado.",
+   "Sancionadora, tributaria y de unidad de mercado."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 110.1: «En materia tributaria, de personal al servicio de la Administración pública y de unidad de mercado, los efectos de una sentencia firme [...] podrán extenderse a otras».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-019",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. EJECUCIÓN",
+  "articulo": "Art. 113.2",
+  "enunciado": "Conforme al artículo 113.2 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, si en el acuerdo alcanzado entre las partes conforme al artículo 77 no se hubiere fijado plazo para el cumplimiento de las obligaciones derivadas del mismo, la parte perjudicada podrá requerir a la otra su cumplimiento e instar su ejecución forzosa transcurridos:",
+  "opciones": [
+   "Diez días.",
+   "Un mes.",
+   "Tres meses.",
+   "Dos meses."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 113.2: «la parte perjudicada podrá requerir a la otra su cumplimiento y transcurridos dos meses podrá proceder a instar su ejecución forzosa».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-ljca-ljca-020",
+  "origen": "claude",
+  "tema": "ljca",
+  "bloque": "CONTENCIOSO. MEDIDAS CAUTELARES",
+  "articulo": "Art. 133.3",
+  "enunciado": "Según el artículo 133.3 de la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa, levantada la medida cautelar por sentencia o por cualquier otra causa, quien pretendiere tener derecho a indemnización de los daños sufridos podrá solicitarla ante el propio órgano jurisdiccional por el trámite de los incidentes:",
+  "opciones": [
+   "Dentro de los dos meses siguientes a la fecha del alzamiento.",
+   "Dentro del año siguiente a la fecha del alzamiento.",
+   "Dentro de los seis meses siguientes a la firmeza de la sentencia.",
+   "Dentro de los cinco años siguientes a la fecha del alzamiento."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 133.3: «podrá solicitar ésta ante el propio órgano jurisdiccional por el trámite de los incidentes, dentro del año siguiente a la fecha del alzamiento. Si no se formulase la solicitud dentro de dicho plazo [...] se cancelará la garantía constituida».",
+  "fuente": "Material: contencioso_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-001",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DISPOSICIONES GENERALES",
+  "articulo": "Art. 16.2",
+  "enunciado": "Según el artículo 16.2 de la Ley 36/2011, reguladora de la jurisdicción social, tendrán capacidad procesal los trabajadores autónomos económicamente dependientes:",
+  "opciones": [
+   "Mayores de dieciocho años.",
+   "Mayores de dieciséis años.",
+   "Mayores de catorce años, con autorización de sus padres o tutores.",
+   "Mayores de dieciséis años, siempre que estén emancipados."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 16.2: «Igualmente tendrán capacidad procesal los trabajadores autónomos económicamente dependientes mayores de dieciséis años».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-002",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ACUMULACIÓN",
+  "articulo": "Art. 27.1",
+  "enunciado": "Conforme al artículo 27.1 de la Ley 36/2011, reguladora de la jurisdicción social, si se ejercitaran acciones indebidamente acumuladas, el letrado de la Administración de Justicia requerirá al demandante para que subsane el defecto, eligiendo la acción que pretende mantener, en el plazo de:",
+  "opciones": [
+   "Cuatro días.",
+   "Cinco días.",
+   "Diez días.",
+   "Tres días."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 27.1: «el secretario judicial requerirá al demandante para que en el plazo de cuatro días subsane el defecto, eligiendo la acción que pretende mantener».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-003",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ACUMULACIÓN",
+  "articulo": "Art. 27.3",
+  "enunciado": "De acuerdo con el artículo 27.3 de la Ley 36/2011, reguladora de la jurisdicción social, si se hubiera acumulado indebidamente una acción sujeta a plazo de caducidad y otra u otras sometidas igualmente a dicho plazo, aunque el actor no opte, se seguirá la tramitación del juicio:",
+  "opciones": [
+   "Por la acción que elija el juez o tribunal, archivándose las demás.",
+   "Por la acción de mayor cuantía.",
+   "Por la primera de las pretensiones ejercitada en el suplico de la demanda, y en todo caso por la de despido si se hubiese hecho uso de ella.",
+   "Por todas ellas, al tratarse de acciones sometidas al mismo plazo de caducidad."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 27.3: «se seguirá la tramitación del juicio por la primera de las pretensiones ejercitada en el suplico de la demanda, y en todo caso por la de despido si se hubiese hecho uso de ella».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-004",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DISPOSICIONES GENERALES",
+  "articulo": "Art. 45.2",
+  "enunciado": "Según el artículo 45 de la Ley 36/2011, reguladora de la jurisdicción social, en relación con la presentación de escritos dirigidos al orden social:",
+  "opciones": [
+   "Podrán presentarse en el juzgado que preste el servicio de guardia el último día del plazo.",
+   "Podrán presentarse hasta las veinte horas del día hábil siguiente al del vencimiento del plazo.",
+   "Sólo podrán presentarse en el juzgado de guardia cuando se trate de demandas por despido.",
+   "En ningún caso se admitirá su presentación en el juzgado que preste el servicio de guardia."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 45.2: «En ningún caso se admitirá la presentación de escritos dirigidos al orden social en el juzgado que preste el servicio de guardia». El art. 45.1 fija el límite en las quince horas del día hábil siguiente.",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-005",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DISPOSICIONES GENERALES",
+  "articulo": "Art. 48.2",
+  "enunciado": "Conforme al artículo 48.2 de la Ley 36/2011, reguladora de la jurisdicción social, en caso de entrega material de las actuaciones, si transcurrido el plazo concedido para su examen no fueren devueltas, se impondrá al responsable:",
+  "opciones": [
+   "Mediante decreto del letrado de la Administración de Justicia, multa de veinte a doscientos euros diarios.",
+   "Mediante auto del juez, multa de cien a seiscientos euros diarios.",
+   "Mediante decreto del letrado de la Administración de Justicia, multa de seiscientos a seis mil euros.",
+   "Mediante providencia del juez, multa de treinta a trescientos euros diarios."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 48.2: «por el secretario judicial mediante decreto se impondrá al responsable multa de veinte a doscientos euros diarios».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-006",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ACTOS DE COMUNICACIÓN",
+  "articulo": "Art. 60.4",
+  "enunciado": "Según el artículo 60.4 de la Ley 36/2011, reguladora de la jurisdicción social, cuando los actos de comunicación deban practicarse con comités de empresa, las diligencias se entenderán:",
+  "opciones": [
+   "Únicamente con el presidente del comité.",
+   "Con su presidente o secretario y, en su defecto, con cualquiera de sus miembros.",
+   "Con el miembro de mayor antigüedad en la empresa.",
+   "Con el delegado sindical de la sección con mayor representación."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 60.4: «Cuando se trate de comités de empresa, las diligencias antedichas se entenderán con su presidente o secretario y, en su defecto, con cualquiera de sus miembros».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-007",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ORDINARIO",
+  "articulo": "Art. 86 bis.1",
+  "enunciado": "De conformidad con el artículo 86 bis de la Ley 36/2011, reguladora de la jurisdicción social, cuando estuviera pendiente una pluralidad de procesos con idéntico objeto y misma parte demandada que no fueran susceptibles de acumulación, el órgano jurisdiccional:",
+  "opciones": [
+   "Podrá tramitar uno o varios con carácter preferente, a su libre elección, sin audiencia de las partes.",
+   "Deberá acumularlos de oficio en todo caso.",
+   "Deberá tramitar preceptivamente uno o varios con carácter preferente, atendiendo al orden de presentación de las demandas, previa audiencia de las partes por plazo común de cinco días.",
+   "Deberá tramitar preceptivamente uno o varios con carácter preferente, atendiendo a la cuantía de las demandas, previa audiencia de las partes por plazo común de diez días."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 86 bis.1: «deberá tramitar preceptivamente uno o varios con carácter preferente, atendiendo al orden de presentación de las respectivas demandas, previa audiencia de las partes por plazo común de cinco días y suspendiendo el curso de los demás».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-008",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ORDINARIO",
+  "articulo": "Art. 88.1",
+  "enunciado": "Según el artículo 88.1 de la Ley 36/2011, reguladora de la jurisdicción social, cuando el juez o tribunal acuerde la práctica de pruebas como diligencias finales, el plazo dentro del cual haya de practicarse la prueba:",
+  "opciones": [
+   "No excederá de diez días.",
+   "No excederá de quince días.",
+   "No excederá de treinta días.",
+   "No excederá de veinte días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 88.1: «En la misma providencia se fijará el plazo dentro del cual haya de practicarse la prueba, que no excederá de veinte días, o se señalará comparecencia [...]».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-009",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ORDINARIO",
+  "articulo": "Art. 92.2",
+  "enunciado": "Conforme al artículo 92.2 de la Ley 36/2011, reguladora de la jurisdicción social, en relación con la prueba de interrogatorio de testigos:",
+  "opciones": [
+   "Los testigos no podrán ser tachados, y únicamente en conclusiones las partes podrán hacer las observaciones oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones.",
+   "Los testigos podrán ser tachados por escrito antes del acto del juicio.",
+   "Los testigos podrán ser tachados verbalmente en el acto del juicio, antes de su declaración.",
+   "Los testigos no podrán ser tachados, ni las partes podrán hacer observación alguna sobre la veracidad de sus manifestaciones."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 92.2: «Los testigos no podrán ser tachados, y únicamente en conclusiones, las partes podrán hacer las observaciones que sean oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-010",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. ORDINARIO",
+  "articulo": "Art. 98.1",
+  "enunciado": "Según el artículo 98.1 de la Ley 36/2011, reguladora de la jurisdicción social, en virtud del principio de inmediación, si el juez que presidió el acto del juicio no pudiese dictar sentencia:",
+  "opciones": [
+   "La dictará el juez que le sustituya, a la vista de la grabación del juicio.",
+   "Deberá celebrarse éste nuevamente.",
+   "La dictará el juez decano.",
+   "Se dará traslado a las partes para que manifiesten si consienten que la sentencia la dicte el juez sustituto."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 98.1: «Si el juez que presidió el acto del juicio no pudiese dictar sentencia, deberá celebrarse éste nuevamente».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-011",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DESPIDO",
+  "articulo": "Art. 111.1 b)",
+  "enunciado": "De acuerdo con el artículo 111.1.b) de la Ley 36/2011, reguladora de la jurisdicción social, si el empresario hubiera optado por la indemnización y la sentencia que resuelva el recurso interpuesto por el trabajador elevase su cuantía, el empresario podrá cambiar el sentido de su opción:",
+  "opciones": [
+   "Dentro de los diez días siguientes al de su notificación.",
+   "Dentro de los tres días siguientes al de su notificación.",
+   "Dentro de los cinco días siguientes al de su notificación.",
+   "En ningún caso, pues el sentido de la opción no puede alterarse."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 111.1.b): «el empresario, dentro de los cinco días siguientes al de su notificación, podrá cambiar el sentido de su opción y, en tal supuesto, la readmisión retrotraerá sus efectos económicos a la fecha en que tuvo lugar la primera elección».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-012",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DESPIDO",
+  "articulo": "Art. 116.1",
+  "enunciado": "Según el artículo 116.1 de la Ley 36/2011, reguladora de la jurisdicción social, el empresario, una vez firme la sentencia, podrá reclamar al Estado los salarios de tramitación pagados al trabajador cuando desde la fecha en que se tuvo por presentada la demanda por despido hasta la sentencia que por primera vez declare su improcedencia hubiesen transcurrido más de:",
+  "opciones": [
+   "Sesenta días naturales.",
+   "Sesenta días hábiles.",
+   "Noventa días naturales.",
+   "Noventa días hábiles."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 116.1: «hubiesen transcurrido más de noventa días hábiles, el empresario, una vez firme la sentencia, podrá reclamar al Estado los salarios pagados al trabajador que excedan de dicho plazo».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-013",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DESPIDO",
+  "articulo": "Art. 118.1",
+  "enunciado": "Conforme al artículo 118.1 de la Ley 36/2011, reguladora de la jurisdicción social, en el proceso de reclamación al Estado del pago de salarios de tramitación, admitida la demanda, el letrado de la Administración de Justicia señalará día para el juicio:",
+  "opciones": [
+   "En los cinco días siguientes, citando al trabajador, al empresario y al abogado del Estado, sin que se suspenda el procedimiento para que éste pueda elevar consulta.",
+   "En los diez días siguientes, citando al trabajador, al empresario y al abogado del Estado, con suspensión del procedimiento para que éste pueda elevar consulta.",
+   "En los quince días siguientes, citando únicamente al empresario y al abogado del Estado.",
+   "En los cinco días siguientes, citando al trabajador, al empresario y al Fondo de Garantía Salarial."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 118.1: «el secretario judicial señalará día para el juicio en los cinco siguientes, citando al efecto al trabajador, al empresario y al abogado del Estado, sin que se suspenda el procedimiento para que éste pueda elevar consulta a la Dirección General del Servicio Jurídico del Estado».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-014",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. DESPIDO",
+  "articulo": "Art. 121.1",
+  "enunciado": "Según el artículo 121.1 de la Ley 36/2011, reguladora de la jurisdicción social, el plazo para ejercitar la acción de impugnación de la decisión extintiva por causas objetivas será de:",
+  "opciones": [
+   "Veinte días, a contar desde la recepción de la comunicación empresarial de preaviso.",
+   "Veinte días, que en todo caso comenzará a contarse a partir del día siguiente a la fecha de extinción del contrato de trabajo.",
+   "Treinta días, a contar desde la fecha de extinción del contrato de trabajo.",
+   "Dos meses, a contar desde el día siguiente a la fecha de extinción del contrato de trabajo."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 121.1: «El plazo para ejercitar la acción de impugnación de la decisión extintiva será de veinte días, que en todo caso comenzará a contarse a partir del día siguiente a la fecha de extinción del contrato de trabajo. El trabajador podrá anticipar el ejercicio de su acción a partir del momento en que reciba la comunicación empresarial de preaviso».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-015",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. SEGURIDAD SOCIAL",
+  "articulo": "Art. 142.2",
+  "enunciado": "De conformidad con el artículo 142.2 de la Ley 36/2011, reguladora de la jurisdicción social, en los procesos para la determinación de contingencia o de la falta de medidas de seguridad en accidentes de trabajo, el informe que se interese de la Inspección Provincial de Trabajo y Seguridad Social será expedido necesariamente en el plazo máximo de:",
+  "opciones": [
+   "Cinco días.",
+   "Quince días.",
+   "Diez días.",
+   "Veinte días."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 142.2: «informe relativo a las circunstancias en que sobrevino el accidente o enfermedad [...] que será expedido necesariamente en el plazo máximo de diez días».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-016",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. SEGURIDAD SOCIAL",
+  "articulo": "Art. 144.2",
+  "enunciado": "Según el artículo 144.2 de la Ley 36/2011, reguladora de la jurisdicción social, si al demandante le conviniera la aportación del expediente administrativo no remitido, podrá solicitar la suspensión del juicio para que se reitere la orden de remisión en un nuevo plazo que, en los procesos de impugnación de altas médicas del artículo 140.3, será de:",
+  "opciones": [
+   "Tres días.",
+   "Diez días.",
+   "Quince días.",
+   "Cinco días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 144.2: «para que se reitere la orden de remisión del expediente en un nuevo plazo de diez días [...] Dicho plazo será de cinco días en los procesos de impugnación de altas médicas a los que se refiere el apartado 3 del artículo 140».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-017",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. RECURSOS",
+  "articulo": "Art. 187.1",
+  "enunciado": "Conforme al artículo 187.1 de la Ley 36/2011, reguladora de la jurisdicción social, el recurso de reposición deberá interponerse en el plazo de:",
+  "opciones": [
+   "Tres días contra las resoluciones dictadas en procedimientos seguidos ante un órgano unipersonal y cinco días ante un órgano colegiado.",
+   "Cinco días en todo caso.",
+   "Tres días en todo caso.",
+   "Cinco días contra las resoluciones dictadas en procedimientos seguidos ante un órgano unipersonal y diez días ante un órgano colegiado."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 187.1: «El recurso de reposición deberá interponerse en el plazo de tres días contra las resoluciones dictadas en procedimientos seguidos ante un órgano unipersonal y de cinco días contra las resoluciones dictadas en procedimientos seguidos ante un órgano colegiado».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-018",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. RECURSOS",
+  "articulo": "Art. 199",
+  "enunciado": "Según el artículo 199 de la Ley 36/2011, reguladora de la jurisdicción social, recibidos los autos en la Sala de lo Social del Tribunal Superior de Justicia, si se apreciaran defectos u omisiones subsanables en el recurso de suplicación y no se subsanaran en el plazo concedido, la Sala dictará auto declarando la inadmisión del recurso, contra el que:",
+  "opciones": [
+   "No cabe recurso alguno.",
+   "Sólo cabe recurso de reposición.",
+   "Cabe recurso de queja.",
+   "Cabe recurso de casación para la unificación de doctrina."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 199: «concederá a la parte el plazo de cinco días para que se aporten los documentos omitidos o se subsanen los defectos apreciados. De no efectuarse, la Sala dictará auto declarando la inadmisión del recurso [...] Contra dicho auto sólo cabe recurso de reposición».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-019",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. EJECUCIÓN",
+  "articulo": "Art. 279.2",
+  "enunciado": "De acuerdo con el artículo 279 de la Ley 36/2011, reguladora de la jurisdicción social, cuando el empresario no procediere a la readmisión del trabajador, la acción para instar la ejecución del fallo habrá de ejercitarse, en todo caso:",
+  "opciones": [
+   "Dentro del año siguiente a la firmeza de la sentencia.",
+   "Dentro de los veinte días siguientes a la firmeza de la sentencia.",
+   "Dentro de los tres meses siguientes a la firmeza de la sentencia.",
+   "Dentro de los dos meses siguientes a la notificación de la sentencia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 279.2: «la acción para instar esta última habrá de ejercitarse dentro de los tres meses siguientes a la firmeza de la sentencia». Según el art. 279.3, todos estos plazos son de prescripción.",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lrjs-lrjs-020",
+  "origen": "claude",
+  "tema": "lrjs",
+  "bloque": "SOCIAL. EJECUCIÓN",
+  "articulo": "Art. 281.2 b)",
+  "enunciado": "Según el artículo 281.2 de la Ley 36/2011, reguladora de la jurisdicción social, en el auto que resuelva el incidente de no readmisión, atendiendo a las circunstancias concurrentes y a los perjuicios ocasionados, el juez podrá fijar una indemnización adicional de hasta:",
+  "opciones": [
+   "Treinta y tres días de salario por año de servicio y un máximo de veinticuatro mensualidades.",
+   "Veinte días de salario por año de servicio y un máximo de doce mensualidades.",
+   "Quince días de salario por año de servicio y un máximo de seis mensualidades.",
+   "Quince días de salario por año de servicio y un máximo de doce mensualidades."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 281.2.b): «podrá fijar una indemnización adicional de hasta quince días de salario por año de servicio y un máximo de doce mensualidades».",
+  "fuente": "Material: social_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ }
+]

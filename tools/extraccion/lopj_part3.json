@@ -1,0 +1,632 @@
+[
+ {
+  "page": 23,
+  "section": "REGLAMENTO INGRESO",
+  "n": 9,
+  "stem": "Los declarados en situación de suspensión definitiva que hubieran perdido su puesto de trabajo deberán solicitar el reingreso al servicio activo en el plazo de:",
+  "ref": "Art. 71.1 Reglamento Ingreso.",
+  "options": [
+   "5 días desde la finalización del período de suspensión.",
+   "10 días desde la finalización del período de suspensión.",
+   "5 días desde el día siguiente a la finalización del período de suspensión.",
+   "10 días desde el día siguiente a la finalización del período de suspensión."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 23,
+  "section": "REGLAMENTO INGRESO",
+  "n": 10,
+  "stem": "Según el artículo 13 del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, podrán formar parte de los Tribunales Calificadores:",
+  "ref": "Art. 13.1 Reglamento Ingreso",
+  "options": [
+   "Quienes ostenten la condición de alto cargo.",
+   "Quienes hubieren realizado tareas de preparación de aspirantes a pruebas selectivas en los 5 años anteriores a la publicación de la correspondiente convocatoria",
+   "Aquellos que sean funcionarios de carrera del mismo cuerpo al que se refiere la convocatoria.",
+   "Los tribunales no podrán disponer la incorporación de asesores especialistas, que les asistan para todas o algunas de las pruebas."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 23,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 11,
+  "stem": "¿Cómo se adquirirá la condición de funcionario/a de carrera, según el artículo 29 del Real Decreto 1451/2005, de 7 de diciembre por el que se aprueba el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia?:",
+  "ref": "(Tramitación Procesal 2025 Pregunta 33) Art. 29.1",
+  "options": [
+   "Con el nombramiento publicado en el Boletín Oficial del Estado.",
+   "Con la toma de posesión del primer destino, previo juramento o promesa.",
+   "Con la adjudicación de un puesto de trabajo.",
+   "Con la petición de un puesto genérico ofertado."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 23,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 12,
+  "stem": "No podrán tomar parte en los concursos genéricos, específicos y de libre designación, entre otros, los sancionados con traslado forzoso, hasta que transcurran:",
+  "ref": "(Gestión Procesal 2024 incidencia pregunta 17) Art. 43.2",
+  "options": [
+   "Uno o tres años, para destino en la misma localidad en la que se les impuso la sanción, si se trata de falta grave o muy grave, respectivamente.",
+   "Dos o cinco años, para destino en la misma localidad en la que se les impuso la sanción, si se trata de falta grave o muy grave, respectivamente.",
+   "Uno o tres años, para destino en la misma o distinta localidad en la que se les impuso la sanción, si se trata de falta leve o grave, respectivamente.",
+   "Uno o cinco años, para destino en la misma o distinta localidad en la que se les impuso la sanción, si se trata de falta grave o muy grave, respectivamente."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 23,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 13,
+  "stem": "En el supuesto de traslado por causa de violencia sobre la mujer funcionaria, señale la respuesta correcta:",
+  "ref": "(Tramitación 2023 incidencias pregunta 38) Art. 63.3)",
+  "options": [
+   "El traslado tiene una duración indefinida.",
+   "La funcionaria pasará a desempeñar el puesto de trabajo de forma definitiva.",
+   "La funcionaria desempeñará el nuevo puesto de trabajo en comisión de servicio.",
+   "No se reservará el puesto de trabajo que ocupaba anteriormente la funcionaria durante ningún período de tiempo."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 24,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 14,
+  "stem": "De conformidad con lo dispuesto en el artículo 62 del Real Decreto 1451/2005, de 7 de diciembre, por el que se aprueba el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, los funcionarios nombrados para puestos de trabajo de libre designación:",
+  "ref": "(Tramitación Procesal Promoción interna 2024 incidencia pregunta 84) Art. 62.1",
+  "options": [
+   "Podrán ser cesados con carácter discrecional, mediante resolución en la que la motivación se referirá exclusivamente a la competencia para adoptarla.",
+   "Podrán renunciar a dichos puestos de trabajo mediante solicitud razonada y siempre que hayan desempeñado el citado puesto al menos durante dos años.",
+   "No podrán renunciar a dichos puestos de trabajo sin la previa autorización de su superior jerárquico.",
+   "Podrán ser cesados con carácter discrecional sin necesidad de motivación."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 24,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 15,
+  "stem": "Según el artículo 60 del Real Decreto 1451/2005, por el que se aprueba el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, ¿en qué plazo máximo deberán efectuarse los nombramientos para puestos de trabajo por el sistema de libre designación una vez finalizado el plazo de presentación de solicitudes?",
+  "ref": "(Auxilio Judicial 2024 pregunta 14) Art. 60.1 NUEVA PURA",
+  "options": [
+   "Tres meses, prorrogables hasta dos meses más.",
+   "Dos meses, prorrogables hasta un mes más.",
+   "Dos meses, prorrogables hasta dos meses más.",
+   "Tres meses, prorrogables hasta un mes más."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 24,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 16,
+  "stem": "Según el artículo 17 del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, aprobado por Real Decreto 1451/2005, de 7 de diciembre, desde la total conclusión de un ejercicio o prueba del proceso selectivo hasta el comienzo del siguiente deberá transcurrir un plazo:",
+  "ref": "(Gestión Procesal 2016 pregunta 88) Art. 17",
+  "options": [
+   "Mínimo de 24 horas y máximo de 60 días naturales.",
+   "Mínimo de 48 horas y máximo de 45 días naturales.",
+   "Mínimo de 72 horas y máximo de 45 días naturales.",
+   "Mínimo de 48 horas y máximo de 60 días naturales."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 24,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 17,
+  "stem": "El artículo 81 del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia dispone que, el plazo máximo para resolver el procedimiento de rehabilitación y notificar la resolución será de:",
+  "ref": "(Auxilio Judicial 2020-21-22 Incidencias pregunta 10) Art. 81.2",
+  "options": [
+   "Tres meses.",
+   "Seis meses.",
+   "Nueve meses.",
+   "Doce meses."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 25,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 18,
+  "stem": "De conformidad con lo dispuesto en el artículo 76 del Real Decreto 1451/2005, de 7 de diciembre, por el que se aprueba el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, podrán ser rehabilitados:",
+  "ref": "(Tramitación Procesal Promoción interna 2024 incidencia pregunta 85) Art. 76.1",
+  "options": [
+   "Los funcionarios que no tengan reserva de puesto de trabajo y accedan a uno mediante la participación en los procedimientos de concurso general o específico o por la adjudicación de un puesto de libre designación.",
+   "Los funcionarios que hayan accedido a la jubilación voluntaria y no hayan alcanzado la edad de jubilación obligatoria.",
+   "Los funcionarios que hubiesen perdido la condición de tales como consecuencia de la incapacidad permanente para el servicio, una vez desaparecida la causa que la motivó.",
+   "Los ciudadanos extranjeros que soliciten participar en los procesos selectivos para adquirir la condición de funcionarios."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 25,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 19,
+  "stem": "Señale la afirmación correcta respecto a la promoción interna del personal funcionario al servicio de la Administración de Justicia, de acuerdo con la regulación efectuada en el Real Decreto 1451/2005, de 7 de diciembre:",
+  "ref": "(Gestión Procesal 2015 Incidencias pregunta 59) Art. 34",
+  "options": [
+   "Se efectuará mediante el sistema de concurso-oposición, celebrándose en primer lugar la fase de oposición, que no será eliminatoria.",
+   "Las pruebas selectivas no se realizarán de forma territorializada en las Comunidades Autónomas con traspasos recibidos salvo si se llevan a cabo en convocatorias independientes.",
+   "Los funcionarios que accedan por promoción interna tendrán, en todo caso, preferencia sobre los aspirantes que no procedan de este turno para la elección de los puestos de trabajo vacantes ofertados.",
+   "La puntación obtenida en la fase de concurso podrá aplicarse para superar los ejercicios de la fase de oposición"
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 25,
+  "section": "REGLAMENTO INGRESO - OFICIALES",
+  "n": 20,
+  "stem": "De conformidad al art. 29.1 del Reglamento de Ingreso Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia, la condición de funcionario de carrera se adquiere con:",
+  "ref": "(Auxilio Judicial 2020-21-22 pregunta 93) Art. 29.1",
+  "options": [
+   "El nombramiento en el BOE.",
+   "El nombramiento en los diarios oficiales de las comunidades autónomas con competencias asumidas.",
+   "Con la superación del curso selectivo.",
+   "La toma de posesión del primer destino previo juramento o promesa."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 25,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 1,
+  "stem": "Se consideran faltas muy graves:",
+  "ref": "Art. 7 Reglamento Disciplinario.",
+  "options": [
+   "La tercera falta injustificada de asistencia en un período de tres meses.",
+   "Causar daño grave en los documentos o material de trabajo, así como en los locales destinados a la prestación del servicio.",
+   "Las acciones u omisiones dirigidas a eludir los sistemas de control de horarios o a impedir que sean detectados los incumplimientos injustificados de la jornada de trabajo.",
+   "El incumplimiento del deber de atender los servicios esenciales en caso de huelga."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 26,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 2,
+  "stem": "La incoación de un procedimiento penal:",
+  "ref": "Art. 4.3 Reglamento Disciplinario.",
+  "options": [
+   "Será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos.",
+   "No será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, pero no se dictará resolución en este hasta tanto no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal. En todo caso, la declaración de hechos probados contenida en la resolución que pone término al procedimiento penal vinculará a la resolución que se dicte en el expediente disciplinario, sin perjuicio de la distinta calificación jurídica que puedan merecer en una y otra vía.",
+   "No será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, pero no se dictará resolución en este hasta tanto no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal. La declaración de hechos probados contenida en la resolución que pone término al procedimiento penal no vinculará a la resolución que se dicte en el expediente disciplinario.",
+   "No será obstáculo para la iniciación de un expediente disciplinario por los mismos hechos, y se podrá dictar resolución en este aunque no haya recaído sentencia o auto de sobreseimiento firmes en la causa penal."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 26,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 3,
+  "stem": "Indique la respuesta correcta:",
+  "ref": "Art. 4.4 Reglamento Disciplinario.",
+  "options": [
+   "Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos cuando no hubiera identidad de fundamento jurídico y bien jurídico protegido.",
+   "Sólo podrá recaer sanción penal y disciplinaria sobre los mismos hechos cuando hubiera identidad de fundamento jurídico y bien jurídico protegido.",
+   "La sanción disciplinaria podrá imponerse en cualquier caso, independientemente de la existencia de una sanción penal.",
+   "La sanción penal siempre prevalece sobre la sanción disciplinaria, impidiendo la imposición de la segunda."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 26,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 4,
+  "stem": "Indique la respuesta correcta respecto a la imposición de sanciones disciplinarias:",
+  "ref": "Art. 11 Reglamento Disciplinario",
+  "options": [
+   "No podrá imponerse sanción por la comisión de falta muy grave, grave o leve sino en virtud de expediente disciplinario instruido al efecto.",
+   "Para la imposición de sanciones por faltas leves no será preceptiva la previa instrucción del expediente, salvo el trámite de audiencia al interesado.",
+   "Para la imposición de sanciones por faltas muy graves o graves no será preceptiva la previa instrucción del expediente disciplinario, salvo el trámite de audiencia el interesado.",
+   "La imposición de sanciones por faltas leves requiere la apertura de un expediente disciplinario y la instrucción completa del procedimiento, sin excepciones."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 26,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 5,
+  "stem": "Las sanciones que se pueden imponer a los funcionarios por las faltas cometidas en el desempeño de sus puestos de trabajo son:",
+  "ref": "Art. 12 Reglamento disciplinario.",
+  "options": [
+   "Traslado forzosos fuera de la Comunidad Autónoma de destino.",
+   "Sanción económica.",
+   "Suspensión de sueldo pero no de empleo.",
+   "Apercibimiento."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 27,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 6,
+  "stem": "Las faltas muy graves podrán ser sancionadas con:",
+  "ref": "Art. 13.3 Reglamento Disciplinario.",
+  "options": [
+   "Suspensión sueldo hasta tres años.",
+   "Traslado forzoso fuera de la provincia.",
+   "Separación del servicio.",
+   "Sanción económica."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 27,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 7,
+  "stem": "Los funcionarios a los que se sancione con traslado forzoso por falta grave no podrán obtener nuevo destino en el municipio de origen durante:",
+  "ref": "Art. 13.4 Reglamento Disciplinario.",
+  "options": [
+   "1 año.",
+   "2 años.",
+   "3 años.",
+   "4 años."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 27,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 8,
+  "stem": "Los funcionarios a los que se sancione con traslado forzoso por falta muy grave no podrán obtener nuevo destino en el municipio de origen durante:",
+  "ref": "Art. 13.4 Reglamento Disciplinario.",
+  "options": [
+   "1 año.",
+   "2 años.",
+   "3 años.",
+   "4 años."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 27,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 9,
+  "stem": "Será órgano competente para imponer la sanción de separación del servicio:",
+  "ref": "Art 15.1 a Reglamento Disciplinario.",
+  "options": [
+   "El Ministerio de Justicia, a través del titular de la Dirección General de Relaciones con la Administración de Justicia, y los órganos que se determinen por las comunidades autónomas que hayan recibido los traspasos de medios personales para el funcionamiento de la Administración de Justicia.",
+   "El Ministro de Justicia, previo informe favorable de la comunidad autónoma a cuyo territorio se traslada al funcionario sancionado",
+   "El Ministro de Justicia.",
+   "El Ministro de Justicia, previo informe favorable del Consejo General del Poder Judicial."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 27,
+  "section": "REGLAMENTO DISCIPLINARIO",
+  "n": 10,
+  "stem": "La responsabilidad disciplinaria se extingue por:",
+  "ref": "Art. 16 Reglamento Disciplinario",
+  "options": [
+   "El fallecimiento del funcionario.",
+   "La prescripción de la falta o de la sanción,.",
+   "La amnistía.",
+   "Todas son correctas."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 27,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 11,
+  "stem": "El artículo 31.4 del Reglamento general de régimen disciplinario del personal al servicio de la Administración de Justicia recoge que, para la práctica de las pruebas del procedimiento disciplinario se dispondrá del plazo máximo de:",
+  "ref": "(Auxilio Judicial 2023 incidencias pregunta 3) Art. 31.4 NUEVA PURA",
+  "options": [
+   "Diez días.",
+   "Quince días.",
+   "Un mes.",
+   "Dos meses."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 28,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 12,
+  "stem": "Conforme al artículo 32 del Reglamento general de régimen disciplinario del personal al servicio de la Administración de Justicia, el instructor pondrá de manifiesto el expediente al interesado para formular alegaciones en el plazo de:",
+  "ref": "(Auxilio Judicial 2023 incidencias pregunta 11) Art. 32.1 NUEVA PURA",
+  "options": [
+   "Cinco días.",
+   "Diez días.",
+   "Quince días.",
+   "Veinte días."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 28,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 13,
+  "stem": "Conforme al artículo 18.1 del Reglamento general de régimen disciplinario del personal al servicio de la Administración de Justicia, aprobado por Real Decreto 796/2005, de 1 de julio, de entre las siguientes afirmaciones, señale la incorrecta:",
+  "ref": "(Gestión Procesal 2012 pregunta 34) Art. 540.1 LOPJ y 18.1 Reglamento Disciplinario",
+  "options": [
+   "Las faltas leves prescribirán a los dos meses; las graves, a los seis meses, y las muy graves, al año. El plazo se computará a partir del día siguiente a la fecha de su comisión.",
+   "En los casos en los que un hecho dé lugar a la apertura de causa penal, los plazos de prescripción no comenzarán a computarse sino desde la firmeza de la resolución por la que se concluya la causa.",
+   "El plazo de prescripción se interrumpirá en el momento en que se inicie el procedimiento disciplinario. El plazo de prescripción volverá a computarse si el expediente permaneciera paralizado durante más de seis meses por causas no imputables al funcionario sujeto a procedimiento.",
+   "En los supuestos de paralización de las actuaciones, el simple acto recordatorio que apremie la inactividad no será eficaz para interrumpir el transcurso de la prescripción."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 28,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 14,
+  "stem": "En base a lo establecido en el R.D. 796/2005 por el que se aprueba el Reglamento General de Régimen Disciplinario del Personal al servicio de la Administración de Justicia, las faltas graves, prescribirán a los:",
+  "ref": "(Tramitación Procesal 2016 pregunta 75) Art 540 LOPJ y Art. 18.1 REGLAMENTO DISCIPLINARIO",
+  "options": [
+   "Dos meses.",
+   "Cuatro meses.",
+   "Seis meses.",
+   "Un año."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 28,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 15,
+  "stem": "De conformidad con el artículo 22 del Real Decreto 796/2005, de 1 de julio, por el que aprueba el Reglamento general de régimen disciplinarlo del personal al servicio de la Administración de Justicia, la suspensión provisional de un funcionario durante la tramitación de expediente disciplinario:",
+  "ref": "(Gestión Procesal 2020-21-22 pregunta 74) Art. 22.5 NUEVA",
+  "options": [
+   "Sólo podrá acordarse cuando existan indicios racionales de la comisión de una falta muy grave.",
+   "La duración de la medida no podrá exceder de tres meses en ningún caso.",
+   "De ser confirmada, el tiempo que el funcionario hubiera permanecido en la situación de suspensión provisional será abonado para el cómputo de la suspensión definitiva.",
+   "Cuando la suspensión no sea declarada definitiva, el funcionario tendrá derecho a la indemnización por los daños sufridos que deberán cuantificarse en la resolución que ponga fin al expediente disciplinarlo."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 29,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 16,
+  "stem": "Según el Real Decreto 796/05, una vez agotada la vía administrativa, las sanciones disciplinarias impuestas a un funcionario de la Administración de Justicia -con carácter general- se ejecutarán en el plazo máximo de:",
+  "ref": "(Gestión Procesal 2008 pregunta 25) Art. 40",
+  "options": [
+   "Un mes desde la notificación de la resolución al interesado.",
+   "Quince días desde la notificación de la resolución al interesado.",
+   "Dos meses desde la notificación de la resolución al interesado.",
+   "Tres meses desde la notificación de la resolución al interesado."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 29,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 17,
+  "stem": "Conforme el artículo 30 del Reglamento general de régimen disciplinario del personal al servicio de la Administración de Justicia, contra la resolución que deniegue la práctica de las pruebas propuestas por el interesado en el procedimiento:",
+  "ref": "(Auxilio Judicial 2023 pregunta 7) Art. 30.2 NUEVA PURA",
+  "options": [
+   "Cabrá recurso de reposición.",
+   "Cabrá recurso de alzada.",
+   "Cabrá recurso de revisión.",
+   "No cabrá recurso."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 29,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 18,
+  "stem": "Para las faltas graves, el reglamento general de régimen disciplinario del personal al servicio de la administración de justicia, aprobado por Real Decreto 796/2005, contempla como tiempo máximo para la sanción de suspensión de empleo y sueldo un plazo de:",
+  "ref": "(Tramitación Procesal 2016 Incidencias pregunta 99) Art. 13.2",
+  "options": [
+   "Un año.",
+   "Dos años.",
+   "Tres años.",
+   "Cuatro años"
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 29,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 19,
+  "stem": "Conforme al artículo 33 del Reglamento general de régimen disciplinario del personal al servicio de la Administración de Justicia, el instructor notificará la propuesta de resolución del expediente al interesado para que formule alegaciones en el plazo de:",
+  "ref": "(Auxilio Judicial 2023 pregunta 8) Art. 33.2 NUEVA PURA",
+  "options": [
+   "Cinco días.",
+   "Diez días.",
+   "Quince días",
+   "Veinte días"
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 29,
+  "section": "REGLAMENTO DISCIPLINARIO - OFICIALES",
+  "n": 20,
+  "stem": "El reglamento general de régimen disciplinario del personal al servicio de la administración de justicia, aprobado por Real Decreto 796/2005, no contempla en su ámbito de aplicación a uno de los siguientes cuerpos:",
+  "ref": "(Tramitación Procesal 2016 Incidencias pregunta 73) Art. 2.1",
+  "options": [
+   "Letrados de la Administración de Justicia.",
+   "Gestión Procesal y Administrativa.",
+   "Tramitación Procesal y Administrativa.",
+   "Ayudantes de laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 30,
+  "section": "PERMISOS Y EXCEDENCIAS",
+  "n": 1,
+  "stem": "Indique la afirmación incorrecta respecto al permiso por nacimiento para la madre biológica:",
+  "ref": "Art. 49 a) Real Decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la ley del estatuto básico del empleado público",
+  "options": [
+   "En el supuesto de monoparentalidad, por existir una única persona progenitora, el permiso será de treinta y dos semanas.",
+   "Durante el disfrute de este permiso, una vez finalizado el período de descanso obligatorio, se podrá participar en los cursos de formación que convoque la Administración.",
+   "Tendrá una duración de dieciséis semanas.",
+   "En los casos de parto prematuro y en aquellos en que, por cualquier otra causa, el neonato deba permanecer hospitalizado a continuación del parto, este permiso se ampliará en tantos días como el neonato se encuentre hospitalizado, con un máximo de trece semanas adicionales."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 30,
+  "section": "PERMISOS Y EXCEDENCIAS",
+  "n": 2,
+  "stem": "Los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+  "ref": "Art. 89.2 Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+  "options": [
+   "Cinco años inmediatamente anteriores.",
+   "Tres años inmediatamente anteriores.",
+   "Cuatro años inmediatamente anteriores.",
+   "Dos años inmediatamente anteriores."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 30,
+  "section": "PERMISOS Y EXCEDENCIAS",
+  "n": 3,
+  "stem": "Dentro del permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija, el permiso de cada uno de los progenitores por el cuidado de menor se distribuye de la siguiente manera:",
+  "ref": "Art. 49 c) Real Decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la ley del estatuto básico del empleado público",
+  "options": [
+   "Dos semanas, cuatro en el caso de monoparentalidad, para el cuidado del menor que podrán distribuirse a voluntad de aquellos, en períodos semanales de forma acumulada o interrumpida hasta que el hijo o la hija cumpla los ocho años.",
+   "Once semanas, veintidós en el caso de monoparentalidad, que podrán distribuirse a voluntad de aquellos, en períodos semanales a disfrutar de forma acumulada o interrumpida.",
+   "Seis semanas ininterrumpidas inmediatamente posteriores a la resolución judicial por la que se constituye la adopción o bien de la decisión administrativa de guarda con fines de adopción o de acogimiento, serán obligatorias y habrán de disfrutarse a jornada completa.",
+   "Todas las afirmaciones son correctas."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 30,
+  "section": "PERMISOS Y EXCEDENCIAS",
+  "n": 4,
+  "stem": "Las Administraciones Públicas podrán establecer hasta dos días adicionales de permiso por asuntos particulares al cumplir el sexto trienio, incrementándose, como máximo, en un día adicional por cada trienio cumplido a partir del:",
+  "ref": "Disposición adicional decimotercera Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+  "options": [
+   "Décimo.",
+   "Noveno.",
+   "Séptimo.",
+   "Octavo."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 31,
+  "section": "PERMISOS Y EXCEDENCIAS",
+  "n": 5,
+  "stem": "Indique la afirmación incorrecta respecto al teletrabajo:",
+  "ref": "Art. 47.2, .3 y .4 bis Real Decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la ley del estatuto básico del empleado público",
+  "options": [
+   "En todo caso, tendrá carácter forzoso y reversible salvo en supuestos excepcionales debidamente justificados.",
+   "La prestación del servicio mediante teletrabajo habrá de ser expresamente autorizada y será compatible con la modalidad presencial.",
+   "El personal que preste sus servicios mediante teletrabajo tendrá los mismos deberes y derechos, individuales y colectivos, recogidos en el presente Estatuto que el resto del personal que preste sus servicios en modalidad presencial, salvo aquellos que sean inherentes a la realización de la prestación del servicio de manera presencial.",
+   "La Administración proporcionará y mantendrá a las personas que trabajen en esta modalidad, los medios tecnológicos necesarios para su actividad."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 31,
+  "section": "PERMISOS Y EXCEDENCIAS - OFICIALES",
+  "n": 6,
+  "stem": "Según la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en la suspensión del contrato de trabajo por paternidad en el supuesto de parto múltiple, además de los trece días ininterrumpidos tendrán derecho a:",
+  "ref": "(Tramitación Procesal 2020-21-22 Incidencias pregunta 10) Art. 48 bis EETT NUEVA FUERA",
+  "options": [
+   "1 día adicional por cada hijo a partir del segundo.",
+   "2 días adicionales por cada hijo a partir del segundo.",
+   "3 días adicionales por cada hijo a partir del segundo.",
+   "5 días adicionales independientemente del número de hijos."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 31,
+  "section": "PERMISOS Y EXCEDENCIAS - OFICIALES",
+  "n": 7,
+  "stem": "En la excedencia regulada en el artículo 89 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, para las funcionarias víctimas de violencia de género o violencia sexual:",
+  "ref": "(Auxilio Judicial 2022 concurso-oposición Incidencias pregunta 6) Art. 89.5",
+  "options": [
+   "Durante los dos primeros meses se tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo.",
+   "Durante los tres primeros meses se tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo.",
+   "Se reservará el puesto durante los seis primeros meses, pudiendo prorrogarse este periodo por otros seis meses más, con un máximo de doce meses.",
+   "El puesto desempeñado se reservará los tres primeros meses. Transcurrido este periodo, dicha reserva lo será a un puesto en la misma localidad y de igual retribución."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 31,
+  "section": "PERMISOS Y EXCEDENCIAS - OFICIALES",
+  "n": 8,
+  "stem": "El permiso de paternidad por el acogimiento de un hijo contemplado en el Estatuto Básico del Empleado Público tendrá una duración:",
+  "ref": "(Tramitación Procesal 2011 pregunta 40) Art. 49 EBEP",
+  "options": [
+   "De quince días.",
+   "De doce semanas.",
+   "De diecinueve semanas.",
+   "El Estatuto Básico del Empleado Público no contempla el permiso de paternidad por el acogimiento de un hijo."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 32,
+  "section": "PERMISOS Y EXCEDENCIAS - OFICIALES",
+  "n": 9,
+  "stem": "Señale cuál es el periodo mínimo de permanencia en situación de excedencia voluntaria por interés particular de un funcionario del Cuerpo de Gestión Procesal y Administrativa cuando sea declarada a petición del interesado:",
+  "ref": "(Gestión Procesal 2016 Incidencias pregunta 88) Art. 16 Real Decreto 365/1995",
+  "options": [
+   "No hay periodo mínimo.",
+   "Un año.",
+   "Dos años continuados.",
+   "Cinco años continuados."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 32,
+  "section": "PERMISOS Y EXCEDENCIAS - OFICIALES",
+  "n": 10,
+  "stem": "El permiso de paternidad por el acogimiento de un hijo contemplado en el Estatuto Básico del Empleado Público tendrá una duración:",
+  "ref": "(Tramitación Procesal 2011 pregunta 40) Art. 49 EBEP",
+  "options": [
+   "De quince días.",
+   "De doce semanas.",
+   "De diecinueve semanas.",
+   "El Estatuto Básico del Empleado Público no contempla el permiso de paternidad por el acogimiento de un hijo."
+  ],
+  "correct": 2,
+  "uncertain": false
+ }
+]

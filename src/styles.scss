@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	color-scheme: light;
+	--paper: #f5f4ed;
+	--ink: #242a24;
+	--muted: #667064;
+	--line: #d9ddd2;
+	--green: #2f664c;
+	--green-dark: #204535;
+	--lime: #d4ef6a;
+	--coral: #e88769;
+	font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+	color: var(--ink);
+	background: var(--paper);
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	min-width: 320px;
+	min-height: 100vh;
+	margin: 0;
+	background-image: radial-gradient(#dce0d4 0.7px, transparent 0.7px);
+	background-size: 15px 15px;
+}
+
+button,
+input {
+	font: inherit;
+}
+
+button,
+a {
+	-webkit-tap-highlight-color: transparent;
+}
+
+.wrap {
+	width: min(900px, calc(100% - 32px));
+	margin: 0 auto;
+}
+
+.eyebrow {
+	margin: 0;
+	color: var(--green-dark);
+	font-size: 11px;
+	font-weight: 700;
+	letter-spacing: 0.12em;
+}
+
+.muted {
+	color: var(--muted);
+}
+
+.aviso {
+	padding: 12px 14px;
+	border-left: 3px solid var(--coral);
+	background: #fff;
+}
+
+.primary {
+	min-height: 44px;
+	padding: 0 20px;
+	border: 0;
+	border-radius: 6px;
+	background: var(--green);
+	color: #fff;
+	font-weight: 700;
+	cursor: pointer;
+
+	&:disabled {
+		opacity: 0.4;
+		cursor: default;
+	}
+}

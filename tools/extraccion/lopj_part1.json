@@ -1,0 +1,797 @@
+[
+ {
+  "page": 1,
+  "section": "LOPJ LIBRO I",
+  "n": 1,
+  "stem": "La Justicia:",
+  "ref": "Art 1 LOPJ",
+  "options": [
+   "Emana del pueblo y se administra en nombre del Rey por Jueces, Magistrados y Fiscales integrantes del Poder Judicial, independientes, movibles, responsables y sometidos únicamente a la Constitución.",
+   "Emana del Rey y se administra en nombre del Pueblo por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley.",
+   "Emana del rey y se administra en nombre Pueblo por Jueces, Magistrados y Fiscales integrantes del Poder Judicial, independientes, movibles, responsables y sometidos únicamente al imperio de la ley.",
+   "Emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 1,
+  "section": "LOPJ LIBRO I",
+  "n": 2,
+  "stem": "Los Jueces y Magistrados que se consideren inquietados o perturbados en su independencia lo pondrán en conocimiento del:",
+  "ref": "Art 14.1 LOPJ",
+  "options": [
+   "Ministerio Fiscal",
+   "Consejo General del Poder Judicial",
+   "Tribunal Constitucional",
+   "Rey"
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 1,
+  "section": "LOPJ LIBRO I",
+  "n": 3,
+  "stem": "Las plazas judiciales que integran los Tribunales de Instancia dentro de la misma sección, se designarán por:",
+  "ref": "Art 27.2 LOPJ",
+  "options": [
+   "Numeración cardinal.",
+   "Numeración ordinal.",
+   "Numeración par.",
+   "Numeración impar."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 1,
+  "section": "LOPJ LIBRO I",
+  "n": 4,
+  "stem": "La demarcación judicial, que determinará la circunscripción territorial de los órganos judiciales, se establecerá por ley o, en los casos expresamente contemplados en esta norma, por:",
+  "ref": "Art 35.1 LOPJ",
+  "options": [
+   "Ley orgánica.",
+   "Por reglamento.",
+   "Por real decreto.",
+   "Ninguna respuesta es correcta."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 1,
+  "section": "LOPJ LIBRO I",
+  "n": 5,
+  "stem": "Los componentes de los órganos colegiados decisorios de los conflictos de jurisdicción entre los Juzgados y la Administración, se renovarán:",
+  "ref": "Art 40 LOPJ",
+  "options": [
+   "Semestralmente.",
+   "Anualmente.",
+   "Bimestralmente.",
+   "Cada dos años."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 2,
+  "section": "LOPJ LIBRO I",
+  "n": 6,
+  "stem": "¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra Magistrados de la Audiencia Nacional o de un Tribunal Superior de Justicia o Fiscales europeos delegados?",
+  "ref": "Art 57.1.3º LOPJ",
+  "options": [
+   "La sala de lo penal de la Audiencia Nacional.",
+   "La sala de lo civil del Tribunal Supremo.",
+   "La sala de apelación de la Audiencia Nacional.",
+   "La sala de lo penal del Tribunal Supremo."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 2,
+  "section": "LOPJ LIBRO I",
+  "n": 7,
+  "stem": "Cuando la sensible y continuada diferencia en el volumen de trabajo lo aconseje, los magistrados de la Sala Apelaciones, podrán ser adscritos a otra Sala de diferente orden:",
+  "ref": "Art 64.2 bis LOPJ",
+  "options": [
+   "Por el Consejo General del Poder Judicial, con el acuerdo favorable de la Presidente del Tribunal.",
+   "Por el Consejo General del Poder Judicial, con el acuerdo favorable de la Sala de Gobierno, previa propuesta del Presidente del Tribunal.",
+   "Por el Presidente del Tribunal, con el acuerdo favorable de la Sala de Gobierno.",
+   "No podrán ser adscritos a ninguna sala de diferente orden."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 2,
+  "section": "LOPJ LIBRO I",
+  "n": 8,
+  "stem": "De las cuestiones de competencia entre órganos jurisdiccionales del orden civil con sede en la comunidad autónoma que no tenga otro superior común, conocerá:",
+  "ref": "Art 73.2 LOPJ",
+  "options": [
+   "La Sala de lo Civil y Penal del Tribunal Superior de Justicia, como Sala de lo Penal.",
+   "La Sala de lo Civil y Penal de la Audiencia Provincial, como Sala de lo Civil.",
+   "La Sala de lo Civil y Penal del Tribunal Superior de Justicia, como Sala de lo Civil.",
+   "b) La Sala de lo Civil y Penal de la Audiencia Nacional, como Sala de lo Civil."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 2,
+  "section": "LOPJ LIBRO I",
+  "n": 9,
+  "stem": "El Gobierno por Real Decreto, a propuesta del Consejo General del Poder Judicial con informe favorable previo de la Comunidad Autónoma con competencias en materia de Justicia, podrá extender a esa provincia la jurisdicción del Juzgado de lo Mercantil de otra provincia limítrofe perteneciente a la misma Comunidad Autónoma, cuando una provincia tenga:",
+  "ref": "Art 86.2 LOPJ",
+  "options": [
+   "Una población inferior a los 500.000 habitantes.",
+   "Una población inferior a los 250.000 habitantes.",
+   "Una población superior a los 500.000 habitantes.",
+   "Una población superior a los 250.000 habitantes."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 2,
+  "section": "LOPJ LIBRO I",
+  "n": 10,
+  "stem": "Habrá un Juzgado de Paz:",
+  "ref": "Art 99.1 LOPJ",
+  "options": [
+   "En cada municipio donde exista Tribunal de Instancia.",
+   "En cada municipio.",
+   "En cada municipio donde no exista Tribunal de Instancia.",
+   "En cada municipio donde no exista Oficina judicial."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 3,
+  "section": "LOPJ LIBRO I",
+  "n": 11,
+  "stem": "Señale la respuesta incorrecta:",
+  "ref": "Art 19 LOPJ",
+  "options": [
+   "Los ciudadanos de nacionalidad española podrán ejercer la acción popular, en los casos y formas establecidos en la ley.",
+   "Los ciudadanos, podrán participar en la Administración de Justicia, mediante la institución del Jurado, en los Tribunales consuetudinarios y tradicionales y en los demás casos previstos en esta Ley.",
+   "Tiene el carácter de Tribunal consuetudinario y tradicional el Tribunal de las Aguas de la Vega Murciana.",
+   "Se reconoce el carácter de tribunal consuetudinario y tradicional al denominado Juzgado Privativo de Aguas de Orihuela y Pueblos de su Marco."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 3,
+  "section": "LOPJ LIBRO I",
+  "n": 12,
+  "stem": "En las Salas de los Tribunales en las que existan dos o más Secciones, se designarán por numeración:",
+  "ref": "Art 27 LOPJ",
+  "options": [
+   "Escalonada.",
+   "Cardinal.",
+   "Ordinal.",
+   "No será por numeración."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 3,
+  "section": "LOPJ LIBRO I",
+  "n": 13,
+  "stem": "Los conflictos de jurisdicción entre los Juzgados o Tribunales y la Administración serán resueltos por un órgano colegiado constituido por el Presidente del Tribunal Supremo, que lo presidirá, y por:",
+  "ref": "Art 38.1 LOPJ",
+  "options": [
+   "Dos vocales",
+   "Tres vocales",
+   "Cinco vocales",
+   "Ocho vocales"
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 3,
+  "section": "LOPJ LIBRO I",
+  "n": 14,
+  "stem": "Conocerá de los incidentes de recusación del Presidente del Tribunal Supremo, o de los Presidentes de Sala, o de más de dos Magistrados de una Sala:",
+  "ref": "Art 61.1 LOPJ",
+  "options": [
+   "Una Sala formada por el Presidente de Audiencia Nacional, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.",
+   "Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo de cada una de ellas.",
+   "Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado el más moderno de cada una de ellas.",
+   "Una Sala formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 3,
+  "section": "LOPJ LIBRO I",
+  "n": 15,
+  "stem": "El Presidente de la Audiencia Nacional, que tendrá la consideración de Presidente de Sala del Tribunal Supremo, es:",
+  "ref": "Art 63.2 LOPJ",
+  "options": [
+   "El Presidente nato de todas sus Salas.",
+   "El Presidente de la Sala Penal.",
+   "El Presidente de la sala de lo Contencioso-Administrativo y de lo Social.",
+   "El Presidente de la Sala de Apelaciones."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 4,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 16,
+  "stem": "La Sala de lo Penal del Tribunal Supremo no conocerá de la instrucción y enjuiciamiento de las causas contra:",
+  "ref": "(Gestión Procesal 2025 pregunta 3) Art. 57.1.2º",
+  "options": [
+   "Vocales del Consejo General del Poder Judicial.",
+   "Adjuntos del Defensor del Pueblo.",
+   "Consejeros del Consejo de Estado.",
+   "Fiscales europeos delegados."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 4,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 17,
+  "stem": "El Tribunal Supremo, conforme a lo dispuesto en la Ley Orgánica del Poder Judicial (Señale la respuesta correcta):",
+  "ref": "(Tramitación Procesal 2025 pregunta 15) Art. 54 DIFÍCIL",
+  "options": [
+   "Se compondrá de su Presidente, de los Presidentes de Sala y los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones en que las mismas puedan articularse.",
+   "Se compondrá de su Presidente, Vicepresidente, de los Presidentes de Sala y los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones en que las mismas puedan articularse.",
+   "Se compondrá de su Presidente y los Presidentes de las Secciones Civil y Penal.",
+   "Se compondrá de su Presidente, de los Presidentes de Sala y los Presidentes de las Secciones Civil y Penal."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 4,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 18,
+  "stem": "Conforme al artículo 83 de la ley Orgánica 6/1985, del Poder Judicial, el juicio del Jurado",
+  "ref": "(Auxilio Judicial 2025 pregunta 3) Art. 83",
+  "options": [
+   "Se celebrará en el ámbito de la Sección Penal del Tribunal de Instancia y en la forma que establezca la ley.",
+   "Se celebrará en el ámbito de la Audiencia Provincial u otros Tribunales y en la forma que establezca la ley.",
+   "Se celebrará en el ámbito de la Audiencia Nacional u otros Tribunales y en la forma que establezca la ley.",
+   "Se celebrará en el ámbito de la Sección de lo Penal del Tribunal Central de Instancia y en la forma que establezca la ley."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 4,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 19,
+  "stem": "La sala de lo Social del Tribunal Supremo conocerá (Señale la respuesta correcta):",
+  "ref": "(Tramitación Procesal 2025 pregunta 16) Art. 59 NUEVA PURA",
+  "options": [
+   "Exclusivamente de los recursos de casación y revisión.",
+   "De los recursos de casación y revisión y otros extraordinarios que establezca la ley en materias propias de este orden jurisdiccional.",
+   "De los recursos de casación y revisión y de los procesos que la ley establezca sobre controversias que afecten a intereses de los trabajadores y trabajadoras y empresarios y empresarias.",
+   "De los recursos de casación y revisión y de las cuestiones de competencia que se susciten entre las Secciones de lo Social de los Tribunales de Instancia de la comunidad autónoma."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 5,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 20,
+  "stem": "La Sala Especial del Tribunal Supremo, regulada en el artículo 61 de la Ley Orgánica 6/1985 del Poder Judicial, está constituida por:",
+  "ref": "(Auxilio Judicial 2025 pregunta 1) Art. 61.1",
+  "options": [
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más moderno de cada una de ellas.",
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo de cada una de ellas.",
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.",
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y todos los Magistrados del Tribunal Supremo."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 5,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 21,
+  "stem": "El Gobierno podrá establecer Secciones de Familia, Infancia y Capacidad que extiendan su jurisdicción a dos o más partidos dentro de la misma provincia:",
+  "ref": "(Gestión Procesal 2025 pregunta 5) Art. 86.2 DIFÍCIL",
+  "options": [
+   "Oído el Consejo General del Poder Judicial.",
+   "A propuesta del Consejo General del Poder Judicial.",
+   "Con el informe favorable de la comunidad autónoma.",
+   "A propuesta del Ministerio de Justicia."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 5,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 22,
+  "stem": "El Gabinete Técnico del Tribunal Supremo estará integrado por (Señale la respuesta correcta):",
+  "ref": "(Tramitación Procesal 2025 pregunta 17) Art. 61.2 bis DIFÍCIL",
+  "options": [
+   "Un Director y por miembros que pertenezcan exclusivamente a la Carrera judicial.",
+   "Un Director y por miembros que pertenezcan exclusivamente a la Carrera judicial y Fiscal.",
+   "Un Director y por miembros de la Carrera judicial y otros juristas con más de 10 años de ejercicio profesional que ostentarán la denominación de Letrados del Gabinete Técnico.",
+   "Un Director y por miembros de la Carrera judicial y otros juristas que ostentarán la denominación de Letrados del Gabinete Técnico."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 5,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 23,
+  "stem": "La Sala Especial del Tribunal Supremo, regulada en el artículo 61 de la Ley Orgánica 6/1985 del Poder Judicial, está constituida por:",
+  "ref": "(Auxilio Judicial 2025 pregunta 1) Art. 61.1",
+  "options": [
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más moderno de cada una de ellas.",
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo de cada una de ellas.",
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.",
+   "El Presidente del Tribunal Supremo, los Presidentes de Sala y todos los Magistrados del Tribunal Supremo."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 5,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 24,
+  "stem": "Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia no conocerán, en única instancia, de los recursos que se deduzcan en relación con:",
+  "ref": "(Gestión Procesal 2025 pregunta 4) Art. 74.1 f y Art. 10.1.f LJCA NUEVA",
+  "options": [
+   "Los actos de las Entidades locales, cuyo conocimiento no esté atribuido a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.",
+   "Las disposiciones generales emanadas de las Entidades locales.",
+   "Los actos y resoluciones dictados por los Tribunales Económico-Administrativos Locales que pongan fin a la vía económico-administrativa.",
+   "Los actos y disposiciones de las Juntas Electorales Locales."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 6,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 25,
+  "stem": "Las Audiencias Provinciales conocerán en el orden penal:",
+  "ref": "(Tramitación Procesal 2025 pregunta 18) Art. 82.1.2º",
+  "options": [
+   "De los recursos que establezca la ley contra las resoluciones dictadas por las Secciones de Instrucción y de lo Penal de los Tribunales de Instancia de la provincia.",
+   "De los procedimientos de habeas corpus.",
+   "Del conocimiento y fallo de los juicios por delito leve.",
+   "De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Secciones de lo Penal de los Tribunales de Instancia."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 6,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 26,
+  "stem": "Según la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia, la planta de los tribunales se establecerá por ley. Será revisada con base en la evolución de las cargas de trabajo, población y otros parámetros que se consideren relevantes, al menos, cada:",
+  "ref": "(Tramitación Procesal 2025 pregunta 19) Art. 29.1 LOPJ",
+  "options": [
+   "Tres años.",
+   "Cuatro años.",
+   "Cinco años.",
+   "Diez años."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 6,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 27,
+  "stem": "La Sala de lo Civil del Tribunal Supremo no conocerá de las demandas de responsabilidad civil por hechos realizados en el ejercicio de su cargo, dirigidas contra:",
+  "ref": "(Gestión Procesal 2025 pregunta 2) Art. 56.2",
+  "options": [
+   "Consejeros del Tribunal de Cuentas.",
+   "Consejeros del Consejo de Estado.",
+   "Consejeros de una Comunidad Autónoma, cuando así lo determinen su Estatuto de Autonomía.",
+   "Presidentes de las Diputaciones Provinciales."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 6,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 28,
+  "stem": "Las Salas de lo Contencioso-Administrativo del Tribunal Superior de Justicia conocerán, según el artículo 74 de la Ley Orgánica 6/1985, del Poder Judicial:",
+  "ref": "(Auxilio Judicial 2025 pregunta 2) Art. 74.1 b)",
+  "options": [
+   "De los recursos contencioso-administrativos contra los actos dictados por la Comisión de Vigilancia de Actividades de Financiación del Terrorismo.",
+   "De los recursos que se deduzcan en relación con las disposiciones generales emanadas de las comunidades autónomas y de las Entidades locales.",
+   "De los recursos devolutivos que la ley establezca contra las resoluciones de la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.",
+   "De los recursos contencioso-administrativos contra disposiciones y actos de los Ministros, Ministras, Secretarios y Secretarias de Estado."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 7,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 29,
+  "stem": "¿Qué órgano judicial es competente para conocer del enjuiciamiento de tráfico de drogas o estupefacientes, fraudes alimentarios y de sustancias farmacéuticas o medicinales, siempre que sean cometidos por bandas o grupos organizados y produzcan efectos en lugares pertenecientes a distintas Audiencias conforme al artículo 65 de la Ley Orgánica 6/1985 del Poder Judicial?",
+  "ref": "(Auxilio Judicial 2025 pregunta 4) Art. 65",
+  "options": [
+   "La Sala de lo Penal de la Audiencia Nacional.",
+   "La Sala de lo Penal del Tribunal Supremo.",
+   "El Tribunal Constitucional.",
+   "Sala de lo Civil y Penal del Tribunal Superior de Justicia."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 7,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 30,
+  "stem": "El Gobierno podrá extender a una provincia la jurisdicción de la Sección de lo Mercantil de otra provincia limítrofe perteneciente a la misma comunidad autónoma, cuando esa provincia tenga una población inferior a los:",
+  "ref": "(Gestión Procesal 2025 pregunta 6) Art. 87.3",
+  "options": [
+   "500.000 habitantes.",
+   "400.000 habitantes.",
+   "600.000 habitantes.",
+   "300.000 habitantes."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 7,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 31,
+  "stem": "De conformidad con el artículo 84.3 de la Ley Orgánica 6/1985, del Poder Judicial, las Secciones del Tribunal de Instancia contarán con una Presidencia de Sección cuando concurran las siguientes circunstancias:",
+  "ref": "(Auxilio Judicial 2025 pregunta 5) Art. 84.3 NUEVA",
+  "options": [
+   "Que en la Sección de que se trate existan seis o más plazas judiciales.",
+   "Que en la Sección de que se trate existan ocho o más plazas judiciales.",
+   "Que el número total de plazas judiciales del Tribunal de Instancia sea igual o superior a diez.",
+   "Que el número total de plazas judiciales del Tribunal de Instancia sea superior a diez."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 7,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 32,
+  "stem": "Señale la respuesta incorrecta. Las Secciones de Violencia contra la Infancia y la Adolescencia conocerán, en el orden penal, de conformidad en todo caso con los procedimientos y recursos previstos en la LECrim, de la instrucción de los procesos para exigir responsabilidad penal por los delitos recogidos en los Títulos del Código Penal relativos a:",
+  "ref": "(Gestión Procesal 2025 pregunta 71) Art. 89.5 bis",
+  "options": [
+   "Delito de trata de seres humanos del artículo 177 bis del CP, cuando al menos una de las víctimas sea niño, niña o adolescente.",
+   "Tráfico de drogas cuando al menos, una de los investigados sea un niño, niña o adolescente.",
+   "Homicidio, aborto, cometidos contra niños, niñas o adolescentes.",
+   "Lesiones o lesiones al feto, cometidos contra niños, niñas o adolescentes."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 7,
+  "section": "LOPJ LIBRO I - OFICIALES",
+  "n": 33,
+  "stem": "Según la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia, los Tribunales de Instancia estarán integrados por una Sección Única, de Civil y de Instrucción. En los supuestos determinados por la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, el Tribunal de Instancia estará integrado por:",
+  "ref": "(Tramitación Procesal 2025 pregunta 20) Art. 84.2 NUEVA",
+  "options": [
+   "Una sección civil y otra de Instrucción.",
+   "Sólo una sección civil.",
+   "Una sección de instrucción.",
+   "Una sección de Instrucción y otra de contencioso administrativo."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 8,
+  "section": "LOPJ LIBRO V",
+  "n": 1,
+  "stem": "La Oficina judicial es la organización de carácter instrumental que:",
+  "ref": "Art 435.1 LOPJ",
+  "options": [
+   "Sirve de soporte y apoyo a la actividad jurisdiccional de jueces y tribunales.",
+   "Sirve de soporte y apoyo a la actividad de la administración general del Estado.",
+   "Sin estar integrada en un órgano judicial concreto, asume labores centralizadas de gestión.",
+   "Que directamente asiste a jueces y magistrados."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 8,
+  "section": "LOPJ LIBRO V",
+  "n": 2,
+  "stem": "Las suplencias por ausencia, enfermedad, suspensión o vacante de Letrados de la Administración de Justicia:",
+  "ref": "Art 451.1 LOPJ",
+  "options": [
+   "Serán cubiertas por quien designe el titular del juzgado en todo caso.",
+   "Serán cubiertas por funcionarios del Cuerpo de Gestión Procesal y administrativa con mayor antigüedad.",
+   "Serán cubiertas por quien designe su inmediato superior jerárquico.",
+   "Serán cubiertas por funcionarios del Cuerpo de Gestión Procesal y administrativa por comisión."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 8,
+  "section": "LOPJ LIBRO V",
+  "n": 3,
+  "stem": "Los Letrados de la Administración de Justicia, cuando así lo prevean las leyes procesales, tendrán competencias en las siguientes materias:",
+  "ref": "Art 456.6 LOPJ",
+  "options": [
+   "Ejecución, jurisdicción voluntaria, conciliación, tramitación y, en su caso, resolución de los procedimientos monitorios, mediación y cualesquiera otras que expresamente se prevean.",
+   "Ejecución, jurisdicción voluntaria, conciliación, tramitación y, en su caso, resolución de los procedimientos monitorios y cambiarios, mediación y cualesquiera otras que expresamente se prevean.",
+   "Ejecución, jurisdicción voluntaria, conciliación, tramitación y, en todo caso, resolución de los procedimientos monitorios, mediación y cualesquiera otras que expresamente se prevean.",
+   "Ejecución, jurisdicción voluntaria, conciliación, tramitación y, en su caso, resolución de los procedimientos monitorios, cambiarios, mediación, filiación y cualesquiera otras que expresamente se prevean."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 8,
+  "section": "LOPJ LIBRO V",
+  "n": 4,
+  "stem": "¿A quién le corresponde la determinación de los libros de registro que han de existir en los juzgados y tribunales y establecer las normas reguladoras de la llevanza de los mismos mediante los reglamentos oportunos?",
+  "ref": "Art 458.3 LOPJ",
+  "options": [
+   "Al Secretario de Gobierno",
+   "Al Letrado de la Administración de Justicia",
+   "Al Ministerio de Justicia",
+   "AL Consejo General del Poder Judicial"
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 8,
+  "section": "LOPJ LIBRO V",
+  "n": 5,
+  "stem": "¿Cuál de las siguientes funciones no le corresponde a los Secretarios de Gobierno?",
+  "ref": "Art 465 LOPJ",
+  "options": [
+   "Proponer al Ministerio de Justicia el nombramiento de los letrados de la Administración de Justicia de libre designación en su ámbito territorial.",
+   "Control y seguimiento estadístico.",
+   "Resolver los incidentes de abstención de los Letrados de la Administración de Justicia.",
+   "Conocer de los incidentes de recusación de los Letrados de la Administración de Justicia."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 9,
+  "section": "LOPJ LIBRO V",
+  "n": 6,
+  "stem": "En cuál de las siguientes islas no existirá un Secretario Coordinador:",
+  "ref": "Art 466.1 LOPJ",
+  "options": [
+   "Menorca e Ibiza",
+   "Lanzarote",
+   "La Palma",
+   "El hierro"
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 9,
+  "section": "LOPJ LIBRO V",
+  "n": 7,
+  "stem": "¿A quién le corresponde la tramitación de los expedientes disciplinarios de los funcionarios del Cuerpo de letrados de la Administración de Justicia?",
+  "ref": "Art 469.1 LOPJ",
+  "options": [
+   "Al Secretario de Gobierno",
+   "Al Secretario Coordinador",
+   "El Letrado de la Administración de Justicia asignado por el Ministerio de Justicia.",
+   "Al Ministro de Justicia"
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 9,
+  "section": "LOPJ LIBRO V",
+  "n": 8,
+  "stem": "El diseño de la Oficina judicial será:",
+  "ref": "Art 436.3 LOPJ",
+  "options": [
+   "Rígida. Su dimensión y organización se determinarán, por la Administración de Justicia.",
+   "Flexible. Su dimensión y organización se determinarán, por la Administración de Justicia.",
+   "Rígida. Su dimensión y organización se determinarán, por la Administración pública competente.",
+   "Flexible. Su dimensión y organización se determinarán, por la Administración pública competente."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 9,
+  "section": "LOPJ LIBRO V",
+  "n": 9,
+  "stem": "El Ministerio de Justicia y las comunidades autónomas en sus respectivos territorios podrán crear servicios comunes procesales que asuman otras funciones distintas a las de registro y reparto, de apoyo, actos de comunicación, auxilio judicial nacional e internacional, de ordenación de procesos de ejecución y jurisdicción voluntaria:",
+  "ref": "Art. 438 LOPJ",
+  "options": [
+   "En cuyo caso será preciso el informe favorable de la Fiscalía General del Estado.",
+   "En cuyo caso será preciso el informe favorable del Comité Técnico Estatal de la Administración de Justicia.",
+   "En cuyo caso será preciso el informe favorable del Tribunal Supremo.",
+   "En cuyo caso será preciso el informe favorable del Consejo General del Poder Judicial."
+  ],
+  "correct": 3,
+  "uncertain": false
+ },
+ {
+  "page": 9,
+  "section": "LOPJ LIBRO V",
+  "n": 10,
+  "stem": "Señale la respuesta correcta:",
+  "ref": "Art 441 LOPJ",
+  "options": [
+   "Los puestos de trabajo cuyo desempeño esté reservado al Cuerpo de Letrados de la Administración de Justicia, se clasifican en tres categorías, teniendo lugar el ingreso en el mismo por la primera categoría.",
+   "La consolidación de la categoría personal exige el desempeño de puestos de trabajo correspondientes a dicha categoría al menos durante siete años continuados o cinco con interrupción.",
+   "No se podrá comenzar a consolidar una categoría superior sin previamente haber consolidado la inferior.",
+   "Un Letrado de la Administración de Justicia de la tercera categoría podrá optar a una plaza de la primera."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 9,
+  "section": "LOPJ LIBRO V",
+  "n": 11,
+  "stem": "¿Quien decidirá la cuestión de la abstención de los Letrados de la Administración de Justicia?",
+  "ref": "Art 446.1 LOPJ",
+  "options": [
+   "El Secretario Coordinador Provincial.",
+   "El Secretario de Gobierno.",
+   "El Ministro de Justicia.",
+   "El Letrado de la Administración de Justicia de más antigüedad."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 10,
+  "section": "LOPJ LIBRO V",
+  "n": 12,
+  "stem": "en todo caso Los letrados de la Administración de Justicia desempeñarán sus funciones con sujeción al principio de:",
+  "ref": "Art 452.1 LOPJ",
+  "options": [
+   "Igualdad y legalidad.",
+   "Unidad e imparcialidad.",
+   "Legalidad e imparcialidad.",
+   "Unidad e igualdad."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 10,
+  "section": "LOPJ LIBRO V",
+  "n": 13,
+  "stem": "Los letrados de la Administración de Justicia garantizarán que el reparto de asuntos se realiza de conformidad con las normas que a tal efecto aprueben:",
+  "ref": "Art 454.3 LOPJ",
+  "options": [
+   "La Sala de Justicia del Consejo General del Poder Judicial.",
+   "El Secretario de Gobierno.",
+   "Las Salas de Gobierno de los Tribunales de Justicia.",
+   "Los propios letrados de la Administración de Justicia."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 10,
+  "section": "LOPJ LIBRO V",
+  "n": 14,
+  "stem": "La Comisión Nacional de Estadística Judicial estará integrada por:",
+  "ref": "Art 461.3 LOPJ",
+  "options": [
+   "El Ministerio de Justicia, el Consejo General del Poder Judicial y la Fiscalía General del Estado.",
+   "Las Comunidades Autónomas, el Consejo General del Poder Judicial y la Fiscalía General del Estado.",
+   "El Ministerio de Justicia, una representación de las Comunidades Autónomas con competencias en la materia, el Consejo General del Poder Judicial y la Fiscalía General del Estado.",
+   "El Ministerio de Justicia, una representación de las Comunidades Autónomas con competencias en la materia y el Consejo General del Poder Judicial."
+  ],
+  "correct": 2,
+  "uncertain": false
+ },
+ {
+  "page": 10,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 15,
+  "stem": "Los municipios cuyas Oficinas de Justicia formen parte de una Agrupación de Oficinas de Justicia en los municipios:",
+  "ref": "(Gestión Procesal 2025 pregunta 7) Art. 439.3 quinquies y Art. 2.1, párrafo 2º RD 530/25. NUEVA",
+  "options": [
+   "Deberán ser limítrofes y formar parte de un mismo partido judicial.",
+   "Podrán ser limítrofes y deberán formar parte de un mismo partido judicial.",
+   "Deberán ser limítrofes y podrán formar parte de un mismo partido judicial.",
+   "Deberán ser limítrofes, en los casos en que así se establezca por resolución de la persona titular del centro directivo que tenga atribuida esta facultad en cada Administración con competencias en materia de Justicia o por disposición general, según corresponda en cada caso."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 10,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 16,
+  "stem": "De conformidad con el artículo 435.4 de la Ley Orgánica 6/1985, del Poder Judicial, los puestos de trabajo de la Oficina Judicial podrán ser cubiertos:",
+  "ref": "(Auxilio Judicial 2025 pregunta 85) Art. 435.4",
+  "options": [
+   "Solo por personal de los cuerpos de funcionarios al servicio de Administración de Justicia.",
+   "Por cuerpos de funcionarios al servicio de la Administración de Justicia y por funcionarios de las Comunidades Autónomas.",
+   "Por cuerpos de funcionarios al servicio de la Administración de Justicia y por funcionarios de la Administración General del Estado.",
+   "Por cuerpos de funcionarios al servicio de la Administración de Justicia y por funcionarios de la Administración Local."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 11,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 17,
+  "stem": "En las Comunidades Autónomas uniprovinciales, las funciones del Secretario Coordinador (Señale la respuesta correcta):",
+  "ref": "(Tramitación Procesal 2025 pregunta 28) Art. 466.1",
+  "options": [
+   "Serán asumidas por el Secretario de Gobierno, salvo en aquellas que, por razón del servicio, sea aconsejable su existencia.",
+   "Serán asumidas por el Secretario de Gobierno siempre.",
+   "Serán asumidas entre el Secretario de Gobierno y el Secretario Coordinador.",
+   "Serán asumidas por el Letrado de la Administración de Justicia más antiguo de la Comunidad Autónoma correspondiente."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 11,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 18,
+  "stem": "Los Letrados de la Administración de Justicia son funcionarios públicos que constituyen un Cuerpo Superior Jurídico, único, de carácter nacional, al servicio:",
+  "ref": "(Gestión Procesal 2025 pregunta 9) Art. 440",
+  "options": [
+   "Del CGPJ, dependientes del Ministerio de Justicia, y que ejercen sus funciones con el carácter de autoridad, ostentando la dirección de la Oficina judicial.",
+   "De la Administración de Justicia, dependiente del Ministerio de Justicia, y que ejercen sus funciones con el carácter de autoridad, ostentando la dirección de la Oficina judicial.",
+   "De la Administración de Justicia, dependiente del CGPJ, y que ejercen sus funciones con el carácter de autoridad, ostentando la dirección de la Oficina judicial.",
+   "De la Administración de Justicia, dependiente del Ministerio de Justicia, y que ejercen sus funciones con el carácter de director, ostentando la jefatura de la Oficina judicial."
+  ],
+  "correct": 1,
+  "uncertain": false
+ },
+ {
+  "page": 11,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 19,
+  "stem": "En relación a la ordenación del Cuerpo de Secretarios, conforme establece el artículo 464.1 de la Ley Orgánica 6/1985, del Poder Judicial, en la ciudad de Ceuta y Melilla habrá:",
+  "ref": "(Auxilio Judicial 2025 pregunta 82) Art. 464.1",
+  "options": [
+   "Un Secretario de Gobierno.",
+   "Un Secretario General.",
+   "Un Secretario Coordinador.",
+   "Un letrado de la Administración de Justicia director."
+  ],
+  "correct": 0,
+  "uncertain": false
+ },
+ {
+  "page": 11,
+  "section": "LOPJ LIBRO V - OFICIALES",
+  "n": 20,
+  "stem": "De conformidad con el artículo 437.5 de la Ley Orgánica del Poder Judicial, quien ocupe la dirección del Servicio Común de Tramitación:",
+  "ref": "(Tramitación Procesal 2025 pregunta 23) Art 437.5 NUEVA DIFÍCIL",
+  "options": [
+   "Asumirá las facultades de coordinación con la Presidencia del Tribunal, así como con la dirección del resto de servicios comunes para el eficaz funcionamiento de la Oficina judicial.",
+   "Asumirá también las facultades de dirección de la Presidencia del Tribunal, así como la dirección del resto de servicios comunes para el eficaz funcionamiento de la Oficina judicial.",
+   "Asumirá las facultades de coordinación con la Secretaría del Tribunal, así como con la dirección del resto de servicios comunes para el eficaz funcionamiento de la Oficina judicial.",
+   "Asumirá las facultades de coordinación con las Salas de Gobierno de los Tribunales Superiores de Justicia, así como con la dirección del resto de servicios comunes para el eficaz funcionamiento de la Oficina judicial."
+  ],
+  "correct": 0,
+  "uncertain": false
+ }
+]

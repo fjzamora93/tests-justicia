@@ -1,0 +1,63 @@
+<section class="wrap">
+  <header class="intro">
+    <p class="eyebrow">OPOSICIONES JUSTICIA</p>
+    <h1>Prepara tu test</h1>
+    <p class="muted">Elige la norma, el origen de las preguntas y cuántas quieres responder.</p>
+  </header>
+
+  @if (datos.error(); as error) {
+    <p class="aviso">{{ error }}</p>
+  } @else if (!datos.cargado()) {
+    <p class="muted">Cargando preguntas…</p>
+  } @else {
+    <form class="panel" (submit)="$event.preventDefault(); empezar()">
+      <fieldset>
+        <legend>1 · Modalidad</legend>
+        <div class="chips modos">
+          @for (m of modalidades; track m.id) {
+            <button type="button" class="chip" [class.on]="modalidad() === m.id" (click)="modalidad.set(m.id)">
+              <strong>{{ m.nombre }}</strong>
+              <small>{{ m.detalle }}</small>
+            </button>
+          }
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>2 · Tema (norma)</legend>
+        <div class="temas">
+          <button type="button" class="tema" [class.on]="tema() === 'todos'" (click)="tema.set('todos')">
+            <span>Todos los temas</span>
+          </button>
+          @for (t of datos.temasConRecuento(); track t.id) {
+            <button
+              type="button"
+              class="tema"
+              [class.on]="tema() === t.id"
+              [disabled]="recuento(t) === 0"
+              (click)="tema.set(t.id)">
+              <span>{{ t.nombre }}</span>
+              <small>{{ recuento(t) }}</small>
+            </button>
+          }
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>3 · Número de preguntas</legend>
+        <div class="chips">
+          @for (c of cantidades; track c) {
+            <button type="button" class="chip small" [class.on]="cantidad() === c" (click)="cantidad.set(c)">
+              {{ c === 0 ? 'Todas' : c }}
+            </button>
+          }
+        </div>
+      </fieldset>
+
+      <div class="start">
+        <span class="muted">{{ disponibles() }} preguntas disponibles</span>
+        <button class="primary" type="submit" [disabled]="disponibles() === 0">Empezar test →</button>
+      </div>
+    </form>
+  }
+</section>

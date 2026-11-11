@@ -1,0 +1,73 @@
+<section class="wrap">
+  <a class="volver" routerLink="/">← Cambiar tema</a>
+
+  <header class="cabecera">
+    <p class="eyebrow">{{ nombreModalidad }}</p>
+    <h1>{{ nombreTema() }}</h1>
+  </header>
+
+  @if (cargando()) {
+    <p class="muted">Cargando preguntas…</p>
+  } @else if (preguntas().length === 0) {
+    <p class="aviso">No hay preguntas para esta combinación de tema y modalidad.</p>
+  } @else {
+    <div class="marcador" aria-live="polite">
+      <span>Vistas <strong>{{ totalReveladas() }}/{{ preguntas().length }}</strong></span>
+      <span>Aciertos <strong>{{ aciertos() }}</strong></span>
+      <span>Fallos <strong>{{ totalReveladas() - aciertos() }}</strong></span>
+    </div>
+
+    <ol class="lista">
+      @for (p of preguntas(); track p.id; let i = $index) {
+        <li class="pregunta">
+          <div class="meta">
+            <span class="num">{{ i + 1 }}</span>
+            <span class="origen" [class.claude]="p.origen === 'claude'">{{ p.origen === 'oficial' ? 'Oficial' : 'Claude' }}</span>
+            @if (p.bloque) { <span class="bloque">{{ p.bloque }}</span> }
+          </div>
+          <p class="enunciado">{{ p.enunciado }}</p>
+
+          <div class="opciones" role="radiogroup">
+            @for (op of p.opciones; track $index; let j = $index) {
+              <button
+                type="button"
+                role="radio"
+                class="opcion {{ estadoOpcion(p, j) }}"
+                [attr.aria-checked]="seleccion()[p.id] === j"
+                [disabled]="reveladas()[p.id]"
+                (click)="seleccionar(p, j)">
+                <span class="letra">{{ letras[j] }})</span>
+                <span>{{ op }}</span>
+              </button>
+            }
+          </div>
+
+          @if (!reveladas()[p.id]) {
+            <button type="button" class="ver" (click)="verRespuesta(p)">Ver respuesta</button>
+          } @else {
+            <div class="solucion" [class.ok]="seleccion()[p.id] === p.correcta">
+              <strong>
+                @if (seleccion()[p.id] === undefined) {
+                  Sin responder.
+                } @else if (seleccion()[p.id] === p.correcta) {
+                  ¡Correcta!
+                } @else {
+                  Incorrecta.
+                }
+                Respuesta: {{ letras[p.correcta] }})
+              </strong>
+              @if (p.articulo) { <span> · {{ p.articulo }}</span> }
+              @if (p.explicacion) { <p>{{ p.explicacion }}</p> }
+              <small>{{ p.fuente }}</small>
+            </div>
+          }
+        </li>
+      }
+    </ol>
+
+    <div class="pie">
+      <span class="muted">{{ aciertos() }} aciertos de {{ totalReveladas() }} vistas</span>
+      <button type="button" class="primary" (click)="nuevoTest()">Nuevo test ↻</button>
+    </div>
+  }
+</section>

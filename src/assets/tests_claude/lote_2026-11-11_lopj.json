@@ -1,0 +1,722 @@
+[
+ {
+  "id": "cl-lopj-lopj-001",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO I",
+  "articulo": "Art. 35.3",
+  "enunciado": "Según el artículo 35 de la Ley Orgánica del Poder Judicial, la disposición normativa de demarcación judicial que redacte el Ministerio de Justicia, vistas las propuestas de las Comunidades Autónomas, será informada por el Consejo General del Poder Judicial en el plazo de:",
+  "opciones": [
+   "Dos meses.",
+   "Un mes.",
+   "Tres meses.",
+   "Seis meses."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 35.3 LOPJ: «El Ministerio de Justicia, vistas las propuestas de las Comunidades Autónomas, redactará la correspondiente disposición normativa, que será informada por el Consejo General del Poder Judicial en el plazo de dos meses.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-002",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO I",
+  "articulo": "Art. 81.2",
+  "enunciado": "Conforme al artículo 81.2 de la LOPJ, cuando por el escaso número de asuntos la plantilla de una Audiencia Provincial conste de uno a dos magistrados, incluido el Presidente, la Audiencia se completará para el enjuiciamiento y fallo con:",
+  "opciones": [
+   "Magistrados del Tribunal Superior de Justicia, conforme al turno que la Sala de Gobierno establezca para cada año judicial.",
+   "Jueces de la Sección Civil y de Instrucción del Tribunal de Instancia de la capital, designados por el Presidente de la Audiencia.",
+   "Magistrados de una Audiencia Provincial limítrofe, designados por el Consejo General del Poder Judicial.",
+   "Magistrados suplentes no profesionales, conforme a la relación aprobada anualmente por el Ministerio de Justicia."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 81.2 LOPJ: «la Audiencia Provincial se completará para el enjuiciamiento y fallo... con el número de magistrados que se precisen del Tribunal Superior de Justicia. A estos efectos, la Sala de Gobierno establecerá un turno para cada año judicial.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-003",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO I",
+  "articulo": "Art. 86.5",
+  "enunciado": "De acuerdo con el artículo 86.5 de la LOPJ, la jurisdicción de las Secciones de Familia, Infancia y Capacidad de los Tribunales de Instancia será exclusiva y excluyente en las siguientes materias, excepto en:",
+  "opciones": [
+   "Las relativas a los alimentos entre parientes.",
+   "Los expedientes de jurisdicción voluntaria relativos a la declaración de ausencia y fallecimiento.",
+   "Las que versen sobre el reconocimiento de eficacia civil de resoluciones o decisiones eclesiásticas en materia matrimonial.",
+   "La oposición a las resoluciones de la Dirección General de Seguridad Jurídica y Fe Pública en materia de Registro Civil tramitada por el procedimiento del artículo 781 bis de la LEC."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 86.5.j) LOPJ: son exclusivos «los expedientes de jurisdicción voluntaria en materia de personas y familia, con excepción de los regulados en los capítulos IX y X del título I de la Ley 15/2015» (declaración de ausencia y fallecimiento y extracción de órganos). Las demás opciones figuran en las letras e), k) e i).",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-004",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO I",
+  "articulo": "Art. 87.4",
+  "enunciado": "Según el artículo 87.4 de la LOPJ, el Gobierno podrá crear una Sección de lo Mercantil en el Tribunal de Instancia de un partido judicial que, perteneciendo a la misma provincia, no sea limítrofe con el de su capital, cuando dicho partido cuente con más de:",
+  "opciones": [
+   "100.000 habitantes.",
+   "150.000 habitantes.",
+   "250.000 habitantes.",
+   "500.000 habitantes."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 87.4 LOPJ: «Cuando un partido judicial cuente con más de 250.000 habitantes y, perteneciendo a la misma provincia, no sea limítrofe con el de su capital, el Gobierno... podrá crear una Sección de lo Mercantil en el Tribunal de Instancia de aquel partido judicial». La cifra de 500.000 es la del apartado 3 (extensión de jurisdicción a provincia limítrofe).",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-005",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO I",
+  "articulo": "Art. 93.6",
+  "enunciado": "Conforme al artículo 93 de la LOPJ, la autorización para la entrada en domicilios acordada por la Administración Tributaria en el marco de un procedimiento de aplicación de los tributos, cuando su titular se oponga o exista riesgo de tal oposición, compete a:",
+  "opciones": [
+   "La Sección de Instrucción del Tribunal de Instancia.",
+   "La Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia.",
+   "La Sección de lo Contencioso-Administrativo del Tribunal de Instancia.",
+   "La Sección Civil del Tribunal de Instancia del lugar del domicilio."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 93.6 LOPJ: «A dichas Secciones [de lo Contencioso-Administrativo] les compete igualmente la autorización para la entrada en domicilios y otros lugares constitucionalmente protegidos, que haya sido acordada por la Administración Tributaria...»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-006",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO I",
+  "articulo": "Art. 101.4",
+  "enunciado": "Conforme al artículo 101.4 de la LOPJ, si el Ayuntamiento no efectuase la propuesta de nombramiento de Juez de Paz:",
+  "opciones": [
+   "En el plazo de dos meses desde que se produjo la vacante, lo designará el Juez de Primera Instancia e Instrucción.",
+   "En el plazo de tres meses desde que se produjo la vacante, lo designará el Consejo General del Poder Judicial.",
+   "En el plazo de seis meses desde que se produjo la vacante, lo designará el Presidente del Tribunal Superior de Justicia.",
+   "En el plazo de tres meses desde que se produjo la vacante, lo designará la Sala de Gobierno del Tribunal Superior de Justicia."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 101.4 LOPJ: «Si en el plazo de tres meses, a contar desde que se produjera la vacante en un Juzgado de Paz, el Ayuntamiento correspondiente no efectuase la propuesta..., la Sala de Gobierno del Tribunal Superior de Justicia procederá a designar al Juez de Paz.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-007",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO II",
+  "articulo": "Art. 151.2",
+  "enunciado": "Según el artículo 151.2 de la LOPJ, a los efectos de la elección de los miembros de las Salas de Gobierno existirá en cada Tribunal una Junta Electoral, integrada por:",
+  "opciones": [
+   "Su Presidente y los Presidentes de Sala del Tribunal correspondiente.",
+   "Su Presidente, el Magistrado más antiguo y el más moderno del Tribunal correspondiente.",
+   "El Presidente de Sala más antiguo y dos Magistrados elegidos por sorteo.",
+   "Su Presidente, el Secretario de Gobierno y el Magistrado más moderno del Tribunal."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 151.2 LOPJ: «existirá en cada Tribunal una Junta Electoral, presidida por su Presidente e integrada, además, por el Magistrado más antiguo y el más moderno del Tribunal Supremo, de la Audiencia Nacional o del Tribunal Superior de Justicia correspondiente.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-008",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO II",
+  "articulo": "Art. 153.2",
+  "enunciado": "Según el artículo 153 de la LOPJ, las Salas de Gobierno de los Tribunales Superiores de Justicia, constituidas en Comisión, se reunirán:",
+  "opciones": [
+   "Al menos, dos veces por mes.",
+   "Quincenalmente.",
+   "Trimestralmente.",
+   "Semanalmente."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 153.2 LOPJ: «Las Salas de Gobierno de los Tribunales Superiores de Justicia, constituidas en Comisión, se reunirán semanalmente. La Comisión trimestralmente, pondrá en conocimiento del Pleno... todos aquellos asuntos que han sido tratados y resueltos.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-009",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO II",
+  "articulo": "Art. 166.1",
+  "enunciado": "Conforme al artículo 166.1 de la LOPJ, para formular la propuesta de nombramiento de quien haya de ostentar la Presidencia del Tribunal de Instancia, quienes integren dicho Tribunal elegirán a uno de ellos:",
+  "opciones": [
+   "Por mayoría absoluta en primera votación y, de no obtenerse, por mayoría simple en la segunda, resolviéndose los empates a favor del de mayor edad.",
+   "Por mayoría de dos tercios; de no obtenerse, la Sala de Gobierno propondrá libremente a cualquiera de ellos.",
+   "Por mayoría de tres quintos; de no obtenerse en la primera votación, bastará la mayoría simple en la segunda, resolviéndose los empates a favor de quien ocupe el mejor puesto en el escalafón.",
+   "Por mayoría simple, resolviéndose los empates a favor de quien tenga mayor antigüedad en el Tribunal de Instancia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 166.1 LOPJ: «Quienes integren el Tribunal de Instancia elegirán por mayoría de tres quintos a uno o una de ellos para su propuesta. De no obtenerse dicha mayoría en la primera votación, bastará la mayoría simple en la segunda, resolviéndose los empates a favor de quien ocupe el mejor puesto en el escalafón.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-010",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO III",
+  "articulo": "Art. 180.1",
+  "enunciado": "Según el artículo 180 de la LOPJ, durante el período en que los Tribunales interrumpan su actividad ordinaria, se formará en los mismos una Sala compuesta por su Presidente y el número de Magistrados que determine:",
+  "opciones": [
+   "La Sala de Gobierno respectiva.",
+   "El Presidente del Tribunal Supremo.",
+   "El Ministerio de Justicia.",
+   "El Consejo General del Poder Judicial."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 180.1 LOPJ: «se formará en los mismos una Sala compuesta por su Presidente y el número de Magistrados que determine el Consejo General del Poder Judicial, la cual asumirá las atribuciones de las Salas de Gobierno y de Justicia».",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-011",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO III",
+  "articulo": "Art. 235 ter.2",
+  "enunciado": "De acuerdo con el artículo 235 ter de la LOPJ, cuando sea público el acceso a los datos personales contenidos en los fallos de sentencias firmes condenatorias por delitos de defraudación a la Hacienda Pública, la publicación del certificado en el «Boletín Oficial del Estado» se ordenará:",
+  "opciones": [
+   "Por el Letrado de la Administración de Justicia mediante diligencia de ordenación.",
+   "Por el Juez o Tribunal mediante providencia.",
+   "Por el Letrado de la Administración de Justicia mediante decreto.",
+   "Por el Juez o Tribunal mediante auto, previa audiencia del condenado."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 235 ter.2 LOPJ: «Mediante diligencia de ordenación el Letrado de la Administración de Justicia ordenará su publicación en el \"Boletín Oficial del Estado\".»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-012",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO III",
+  "articulo": "Art. 248.5",
+  "enunciado": "Según el artículo 248.5 de la LOPJ, todas las resoluciones judiciales serán firmadas por el juez o magistrado que las dicte, si bien bastará con la firma del ponente en el caso de:",
+  "opciones": [
+   "Los autos y providencias dictados por Salas de Justicia.",
+   "Las providencias dictadas por Salas de Justicia.",
+   "Las sentencias dictadas en apelación por Salas de Justicia.",
+   "Cualquier resolución dictada por un Tribunal colegiado."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 248.5 LOPJ: «Todas las resoluciones judiciales serán firmadas por el juez, jueza, magistrado o magistrada que las dicten. En el caso de providencias dictadas por Salas de Justicia, bastará con la firma del o de la ponente.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-013",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO IV",
+  "articulo": "Art. 386.1",
+  "enunciado": "Conforme al artículo 386.1 de la LOPJ, los Jueces y Magistrados podrán solicitar la prolongación de la permanencia en el servicio activo hasta que cumplan como máximo setenta y dos años de edad, presentando la solicitud con una antelación de:",
+  "opciones": [
+   "Dos meses.",
+   "Un mes.",
+   "Tres meses.",
+   "Seis meses."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 386.1 LOPJ: «podrán solicitar con dos meses de antelación a dicho momento la prolongación de la permanencia en el servicio activo hasta que cumplan como máximo setenta y dos años de edad». Los seis meses se refieren a la jubilación voluntaria a partir de los 65 (art. 386.2).",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-014",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO IV",
+  "articulo": "Art. 381.2",
+  "enunciado": "Según el artículo 381.2 de la LOPJ, si se denegare la rehabilitación solicitada por quien hubiera perdido la condición de Juez o Magistrado, no podrá iniciarse nuevo procedimiento para obtenerla en:",
+  "opciones": [
+   "El año siguiente, computado desde la notificación de la denegación.",
+   "Los tres años siguientes, plazo que se computará a partir de la resolución denegatoria inicial del Consejo General del Poder Judicial.",
+   "Los dos años siguientes, plazo que se computará desde la firmeza de la resolución denegatoria.",
+   "Los cinco años siguientes, plazo que se computará a partir de la resolución denegatoria inicial del Consejo General del Poder Judicial."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 381.2 LOPJ: «Si la rehabilitación se denegare, no podrá iniciarse nuevo procedimiento para obtenerla en los tres años siguientes, plazo que se computará a partir de la resolución denegatoria inicial del Consejo General del Poder Judicial.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-015",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO IV",
+  "articulo": "Art. 401",
+  "enunciado": "De acuerdo con el artículo 401 de la LOPJ, sobre las asociaciones profesionales de jueces y magistrados, señale la respuesta incorrecta:",
+  "opciones": [
+   "Deberán tener ámbito nacional, sin perjuicio de la existencia de secciones cuyo ámbito coincida con el de un Tribunal Superior de Justicia.",
+   "Ningún juez o magistrado podrá estar afiliado a más de una asociación profesional.",
+   "Sólo podrán formar parte de las mismas quienes ostenten la condición de jueces y magistrados en servicio activo.",
+   "Quedarán válidamente constituidas desde que se inscriban en el registro que será llevado al efecto por el Ministerio de Justicia."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 401.6.ª LOPJ: las asociaciones «quedarán válidamente constituidas desde que se inscriban en el registro que será llevado al efecto por el Consejo General del Poder Judicial», no por el Ministerio de Justicia. Las demás opciones reproducen las reglas 3.ª y 5.ª.",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-016",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO V",
+  "articulo": "Art. 439 sexies.2",
+  "enunciado": "Conforme al artículo 439 sexies de la LOPJ, la estructura básica de la Oficina fiscal, que podrá dividirse en áreas y equipos, será homogénea en todo el territorio del Estado y estará basada en los principios de:",
+  "opciones": [
+   "Unidad de actuación, dependencia jerárquica y legalidad.",
+   "Jerarquía, división de funciones y coordinación.",
+   "Eficacia, eficiencia y racionalización del trabajo.",
+   "Jerarquía, especialización y cooperación."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 439 sexies.2 LOPJ: «La estructura básica de la Oficina fiscal, que podrá dividirse en áreas y equipos, será homogénea en todo el territorio del Estado y estará basada en los principios de jerarquía, división de funciones y coordinación.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-017",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO V",
+  "articulo": "Art. 439 ter.3",
+  "enunciado": "Según el artículo 439 ter de la LOPJ, las instalaciones y medios instrumentales de las Oficinas de Justicia en los municipios estarán a cargo, salvo cuando fuere conveniente su gestión total o parcial por otra Administración, de:",
+  "opciones": [
+   "El Ministerio de Justicia o la comunidad autónoma con competencias asumidas en materia de Justicia.",
+   "La Diputación Provincial correspondiente.",
+   "El Ayuntamiento respectivo.",
+   "La Gerencia Territorial del Ministerio de Justicia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 439 ter.3 LOPJ: «Las instalaciones y medios instrumentales de estas Oficinas estarán a cargo del Ayuntamiento respectivo, salvo cuando fuere conveniente su gestión total o parcial por el Ministerio de Justicia o la comunidad autónoma con competencias asumidas en materia de Justicia.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-018",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VI",
+  "articulo": "Art. 490.2",
+  "enunciado": "Según el artículo 490.2 de la LOPJ, las plazas convocadas por el turno de promoción interna en los Cuerpos al servicio de la Administración de Justicia que no resulten cubiertas:",
+  "opciones": [
+   "Acrecerán a las convocadas por el turno libre en la misma convocatoria.",
+   "Se incorporarán automáticamente a la Oferta de Empleo Público del ejercicio siguiente.",
+   "Se ofertarán a los funcionarios interinos que reúnan los requisitos de titulación exigidos.",
+   "No podrán en ningún caso acrecer a las convocadas por turno libre ni incorporarse a la Oferta de Empleo Público."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 490.2 LOPJ: «las plazas convocadas por el turno de promoción interna que no resulten cubiertas, no podrán en ningún caso acrecer a las convocadas por turno libre ni incorporarse a la Oferta de Empleo Público.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-019",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VI",
+  "articulo": "Art. 533.1",
+  "enunciado": "Conforme al artículo 533 de la LOPJ, los méritos de los concursos específicos serán comprobados y valorados por una comisión constituida por:",
+  "opciones": [
+   "Cuatro miembros en representación de la Administración convocante designados por la misma, de los que al menos uno será funcionario al servicio de la Administración de Justicia.",
+   "Tres miembros en representación de la Administración convocante, todos ellos funcionarios al servicio de la Administración de Justicia.",
+   "Cuatro miembros designados por la Administración convocante y otros cuatro a propuesta de las organizaciones sindicales más representativas.",
+   "Cinco miembros designados por la Administración convocante, de los que al menos dos serán Letrados de la Administración de Justicia."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 533.1 LOPJ: «una comisión, que estará constituida por cuatro miembros en representación de la Administración convocante designados por la misma, de los que al menos uno será funcionario al servicio de la Administración de Justicia». Los sindicatos participan «en número inferior al de los miembros designados a propuesta de la Administración».",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-020",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VII",
+  "articulo": "Art. 553",
+  "enunciado": "Según el artículo 553 de la LOPJ, los abogados y procuradores serán corregidos disciplinariamente por su actuación ante los juzgados y tribunales cuando renuncien injustificadamente a la defensa o representación que ejerzan en un proceso dentro de los:",
+  "opciones": [
+   "Siete días anteriores a la celebración del juicio o vistas señaladas.",
+   "Tres días anteriores a la celebración del juicio o vistas señaladas.",
+   "Cinco días anteriores a la celebración del juicio o vistas señaladas.",
+   "Diez días anteriores a la celebración del juicio o vistas señaladas."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 553.4.º LOPJ: «Cuando renuncien injustificadamente a la defensa o representación que ejerzan en un proceso, dentro de los siete días anteriores a la celebración del juicio o vistas señaladas.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-021",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VII",
+  "articulo": "Art. 556",
+  "enunciado": "Según el artículo 556 de la LOPJ, contra el acuerdo de imposición de una corrección a abogados o procuradores podrá interponerse:",
+  "opciones": [
+   "Recurso de reposición, en el plazo de tres días, ante el mismo órgano que impuso la corrección.",
+   "Recurso de alzada, en el plazo de un mes, ante el Consejo General del Poder Judicial.",
+   "Recurso de audiencia en justicia, en el plazo de cinco días, ante el letrado de la Administración de Justicia, el juez o la sala, que lo resolverán en el siguiente día.",
+   "Recurso de audiencia en justicia, en el plazo de diez días, ante la Sala de Gobierno, que lo resolverá en la primera reunión que celebre."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 556 LOPJ: «Contra el acuerdo de imposición de la corrección podrá interponerse, en el plazo de cinco días, recurso de audiencia en justicia ante el letrado de la Administración de Justicia, el juez o la sala, que lo resolverán en el siguiente día.» Después cabe alzada ante la Sala de Gobierno en cinco días.",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-022",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VIII",
+  "articulo": "Art. 586",
+  "enunciado": "Conforme al artículo 586 de la LOPJ, en relación con la elección del Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, señale la respuesta correcta:",
+  "opciones": [
+   "La sesión constitutiva del Consejo será presidida por el Vocal de menor edad.",
+   "Cada Vocal podrá proponer un máximo de tres nombres.",
+   "El Presidente prestará juramento o promesa ante el Pleno del Consejo General del Poder Judicial.",
+   "La elección tendrá lugar en una sesión a celebrar entre tres y siete días más tarde, siendo elegido quien obtenga el apoyo de la mayoría de tres quintos de los miembros del Pleno."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 586.3 LOPJ: «La elección tendrá lugar en una sesión a celebrar entre tres y siete días más tarde, siendo elegido quien en votación nominal obtenga el apoyo de la mayoría de tres quintos de los miembros del Pleno.» La sesión constitutiva la preside el Vocal de más edad, cada Vocal propone un solo nombre y el juramento se presta ante el Rey.",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-023",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VIII",
+  "articulo": "Art. 576.2",
+  "enunciado": "Según el artículo 576 de la LOPJ, la Junta Electoral encargada de proclamar las candidaturas a Vocales del Consejo General del Poder Judicial por el turno judicial estará presidida por:",
+  "opciones": [
+   "El Presidente del Tribunal Supremo.",
+   "El Vicepresidente del Tribunal Supremo.",
+   "El Presidente de Sala más antiguo del Tribunal Supremo.",
+   "El Magistrado más antiguo del Tribunal Supremo."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 576.2 LOPJ: «La Junta Electoral estará integrada por el Presidente de Sala más antiguo del Tribunal Supremo, quien la presidirá, y por dos Vocales: el Magistrado más antiguo y el más moderno del Tribunal Supremo...»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lopj-lopj-024",
+  "origen": "claude",
+  "tema": "lopj",
+  "bloque": "LOPJ. LIBRO VIII",
+  "articulo": "Art. 589.3",
+  "enunciado": "De acuerdo con el artículo 589 de la LOPJ, la propuesta de Vicepresidente del Tribunal Supremo realizada por el Presidente deberá comunicarse a los Vocales, y hacerse pública, con una antelación mínima de:",
+  "opciones": [
+   "Siete días.",
+   "Tres días.",
+   "Cinco días.",
+   "Diez días."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 589.3 LOPJ: «La propuesta realizada por el Presidente del Tribunal Supremo deberá comunicarse a los Vocales al menos con siete días de antelación, y se hará pública.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_disciplinario-lopj-025",
+  "origen": "claude",
+  "tema": "reglamento_disciplinario",
+  "bloque": "REGLAMENTO DISCIPLINARIO",
+  "articulo": "Art. 5.1",
+  "enunciado": "Conforme al artículo 5 del Reglamento general de régimen disciplinario del personal al servicio de la Administración de Justicia (RD 796/2005), la incoación de expediente disciplinario a un funcionario que haya tenido la condición de delegado sindical deberá notificarse a la sección sindical, junta de personal o central sindical correspondiente cuando se practique dentro de:",
+  "opciones": [
+   "Los seis meses siguientes a su cese en dicha condición.",
+   "El año siguiente a su cese en dicha condición.",
+   "Los dos años siguientes a su cese en dicha condición.",
+   "El mes siguiente a su cese en dicha condición."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 5.1 RD 796/2005: «Dicha notificación deberá, asimismo, realizarse cuando la incoación del expediente se practique dentro del año siguiente al cese del expedientado en alguna de las condiciones enumeradas en el párrafo anterior.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_disciplinario-lopj-026",
+  "origen": "claude",
+  "tema": "reglamento_disciplinario",
+  "bloque": "REGLAMENTO DISCIPLINARIO",
+  "articulo": "Art. 15.2",
+  "enunciado": "Según el artículo 15.2 del RD 796/2005, cuando la sanción de traslado forzoso suponga la movilidad del territorio de una comunidad autónoma al de otra con competencias asumidas, será competente para acordarla:",
+  "opciones": [
+   "El órgano competente de la comunidad autónoma de origen, previa comunicación a la de destino.",
+   "El titular de la Dirección General de Relaciones con la Administración de Justicia, oídas ambas comunidades autónomas.",
+   "La Conferencia Sectorial de Administración de Justicia.",
+   "El Ministro de Justicia, previo informe favorable de la comunidad autónoma a cuyo territorio se traslada al funcionario sancionado."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 15.2 RD 796/2005: «cuando la sanción de traslado forzoso suponga la movilidad del territorio de una comunidad autónoma al de otra con competencias asumidas, será competente para acordarla el Ministro de Justicia, previo informe favorable de la comunidad autónoma a cuyo territorio se traslada al funcionario sancionado.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_disciplinario-lopj-027",
+  "origen": "claude",
+  "tema": "reglamento_disciplinario",
+  "bloque": "REGLAMENTO DISCIPLINARIO",
+  "articulo": "Art. 14.3",
+  "enunciado": "De conformidad con el artículo 14.3 del RD 796/2005, la sanción de suspensión de empleo y sueldo no podrá exceder de la mitad de su duración máxima cuando:",
+  "opciones": [
+   "El funcionario expedientado hubiera procedido a reparar o disminuir las consecuencias de la falta cometida.",
+   "Se trate de la primera falta cometida por el funcionario en su vida administrativa.",
+   "Los hechos hubieran sido cometidos por negligencia y el perjuicio ocasionado a la Administración o a los ciudadanos no merezca el calificativo de grave.",
+   "La falta se hubiera agotado en un único acto."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 14.3 RD 796/2005: «La sanción de suspensión de empleo y sueldo no podrá exceder de la mitad de su duración máxima cuando los hechos objeto del expediente hubieran sido cometidos por negligencia y el perjuicio ocasionado a la Administración o a los ciudadanos no merezca el calificativo de grave.» Las opciones a) y d) son circunstancias del apartado 4 para fijar la duración concreta.",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_disciplinario-lopj-028",
+  "origen": "claude",
+  "tema": "reglamento_disciplinario",
+  "bloque": "REGLAMENTO DISCIPLINARIO",
+  "articulo": "Art. 23.b)",
+  "enunciado": "Según el artículo 23 del RD 796/2005, en el trámite de audiencia para la imposición de sanciones por faltas leves, si la prueba fuese testifical y los testigos propuestos se negasen a comparecer a instancia del funcionario, este lo comunicará a la unidad administrativa, para que sean citados de oficio, con una antelación, al menos, de:",
+  "opciones": [
+   "72 horas a la fecha señalada para el trámite de audiencia.",
+   "24 horas a la fecha señalada para el trámite de audiencia.",
+   "48 horas a la fecha señalada para el trámite de audiencia.",
+   "Siete días a la fecha señalada para el trámite de audiencia."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 23.b) RD 796/2005: «Si la prueba fuese testifical y los testigos propuestos se negasen a comparecer a su instancia, lo comunicará a la unidad administrativa con una antelación, al menos, de 72 horas a la fecha señalada para el trámite de audiencia». Los siete días son la antelación mínima de la citación (letra a).",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_ingreso-lopj-029",
+  "origen": "claude",
+  "tema": "reglamento_ingreso",
+  "bloque": "REGLAMENTO INGRESO",
+  "articulo": "Art. 9.1",
+  "enunciado": "Según el artículo 9.1 del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia (RD 1451/2005), en la Comisión de Selección de Personal la presidencia, con voto dirimente en caso de empate, corresponde a:",
+  "opciones": [
+   "Uno de los representantes de las comunidades autónomas con traspasos recibidos.",
+   "Uno de los vocales representantes del Ministerio de Justicia, que será un magistrado-juez, fiscal o secretario judicial.",
+   "El Director General de Relaciones con la Administración de Justicia.",
+   "Un funcionario del Ministerio de Justicia designado directamente por el Ministro."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 9.1 RD 1451/2005: «Cuatro vocales representantes del Ministerio de Justicia, uno de los cuales será un magistrado-juez, fiscal o secretario judicial, que asumirá la presidencia y tendrá voto dirimente en caso de empate...». Uno de los representantes autonómicos asume la vicepresidencia.",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_ingreso-lopj-030",
+  "origen": "claude",
+  "tema": "reglamento_ingreso",
+  "bloque": "REGLAMENTO INGRESO",
+  "articulo": "Art. 20.1",
+  "enunciado": "Conforme al artículo 20 del RD 1451/2005, en la resolución por la que se aprueba la lista provisional de admitidos y excluidos en los procesos selectivos se señalará, para la subsanación, un plazo de:",
+  "opciones": [
+   "Cinco días hábiles.",
+   "Diez días naturales.",
+   "Diez días hábiles.",
+   "Quince días hábiles."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 20.1 RD 1451/2005: «...con indicación de la causa de exclusión, señalándose un plazo de diez días hábiles para su subsanación.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_ingreso-lopj-031",
+  "origen": "claude",
+  "tema": "reglamento_ingreso",
+  "bloque": "REGLAMENTO INGRESO",
+  "articulo": "Art. 21",
+  "enunciado": "Según el artículo 21 del RD 1451/2005, una vez comenzados los procesos selectivos, los anuncios de celebración de las restantes pruebas deberán hacerse públicos por el tribunal con una antelación mínima al comienzo de estas de:",
+  "opciones": [
+   "Veinticuatro horas si se trata del mismo ejercicio, o de cuarenta y ocho horas si se trata de uno nuevo.",
+   "Doce horas si se trata del mismo ejercicio, o de veinticuatro horas si se trata de uno nuevo.",
+   "Setenta y dos horas en todo caso.",
+   "Cuarenta y ocho horas en todo caso."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 21 RD 1451/2005: los anuncios «deberán hacerse públicos por el tribunal... con doce horas al menos de antelación al comienzo de éste, si se trata del mismo ejercicio, o de veinticuatro horas, si se trata de uno nuevo.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_ingreso-lopj-032",
+  "origen": "claude",
+  "tema": "reglamento_ingreso",
+  "bloque": "REGLAMENTO INGRESO",
+  "articulo": "Art. 55",
+  "enunciado": "De acuerdo con el artículo 55 del RD 1451/2005, las permutas de puestos de trabajo entre funcionarios al servicio de la Administración de Justicia:",
+  "opciones": [
+   "Podrán autorizarse entre funcionarios del mismo cuerpo con destino definitivo en distinta localidad.",
+   "Podrán autorizarse siempre que a ninguno de los permutantes le falten menos de diez años para la jubilación forzosa.",
+   "Serán autorizadas por la Administración competente, previo informe del Secretario de Gobierno.",
+   "En ningún caso serán autorizadas."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 55 RD 1451/2005 (Permutas): «En ningún caso serán autorizadas las permutas.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-permisos-lopj-033",
+  "origen": "claude",
+  "tema": "permisos",
+  "bloque": "PERMISOS Y EXCEDENCIAS",
+  "articulo": "Art. 50 TREBEP",
+  "enunciado": "Según el artículo 50 del texto refundido de la Ley del Estatuto Básico del Empleado Público, cuando una situación de incapacidad temporal impida iniciar el disfrute de las vacaciones dentro del año natural al que correspondan, el periodo vacacional podrá disfrutarse aunque haya terminado dicho año siempre que no hayan transcurrido más de:",
+  "opciones": [
+   "Doce meses a partir del final del año en que se hayan originado.",
+   "Quince meses a partir del final del año en que se hayan originado.",
+   "Dieciocho meses a partir del final del año en que se hayan originado.",
+   "Veinticuatro meses a partir del final del año en que se hayan originado."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 50 TREBEP: «el periodo vacacional se podrá disfrutar aunque haya terminado el año natural a que correspondan y siempre que no hayan transcurrido más de dieciocho meses a partir del final del año en que se hayan originado.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-permisos-lopj-034",
+  "origen": "claude",
+  "tema": "permisos",
+  "bloque": "PERMISOS Y EXCEDENCIAS",
+  "articulo": "Art. 49.g) TREBEP",
+  "enunciado": "Conforme al artículo 49 g) del TREBEP, el permiso parental para el cuidado de hijo, hija o menor acogido por tiempo superior a un año, hasta el momento en que el menor cumpla ocho años:",
+  "opciones": [
+   "No tendrá carácter retribuido y tendrá una duración no superior a ocho semanas, continuas o discontinuas.",
+   "Tendrá carácter retribuido y una duración no superior a ocho semanas, que habrán de disfrutarse de forma ininterrumpida.",
+   "No tendrá carácter retribuido y tendrá una duración no superior a dieciséis semanas, continuas o discontinuas.",
+   "Podrá transferirse su ejercicio al otro progenitor cuando ambos presten servicios en la misma Administración."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 49.g) TREBEP: «no tendrá carácter retribuido y tendrá una duración no superior a ocho semanas, continuas o discontinuas... Este permiso, constituye un derecho individual de las personas progenitoras... sin que pueda transferirse su ejercicio.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-permisos-lopj-035",
+  "origen": "claude",
+  "tema": "permisos",
+  "bloque": "PERMISOS Y EXCEDENCIAS",
+  "articulo": "Art. 49.e) TREBEP",
+  "enunciado": "Según el artículo 49 e) del TREBEP, la reducción de jornada por cuidado de hijo menor afectado por cáncer u otra enfermedad grave se mantendrá hasta que la persona a su cargo cumpla 26 años si, antes de alcanzar los 23 años, acreditara además un grado de discapacidad igual o superior al:",
+  "opciones": [
+   "33 por ciento.",
+   "45 por ciento.",
+   "50 por ciento.",
+   "65 por ciento."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 49.e) TREBEP: «se mantendrá el derecho a esta reducción de jornada hasta que la persona a su cargo cumpla 26 años si, antes de alcanzar los 23 años, acreditara, además, un grado de discapacidad igual o superior al 65 por ciento.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-permisos-lopj-036",
+  "origen": "claude",
+  "tema": "permisos",
+  "bloque": "PERMISOS Y EXCEDENCIAS",
+  "articulo": "DA 14.ª TREBEP",
+  "enunciado": "De acuerdo con la disposición adicional decimocuarta del TREBEP, cada Administración Pública podrá establecer días adicionales de vacaciones en función del tiempo de servicios prestados por los funcionarios públicos hasta un máximo de:",
+  "opciones": [
+   "Dos días.",
+   "Cuatro días.",
+   "Tres días.",
+   "Seis días."
+  ],
+  "correcta": 1,
+  "explicacion": "DA 14.ª TREBEP: «Cada Administración Pública podrá establecer hasta un máximo de cuatro días adicionales de vacaciones en función del tiempo de servicios prestados por los funcionarios públicos.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_laj-lopj-037",
+  "origen": "claude",
+  "tema": "reglamento_laj",
+  "bloque": "REGLAMENTO SECRETARIOS (LAJ)",
+  "articulo": "Art. 14.4",
+  "enunciado": "Según el artículo 14 del Reglamento Orgánico del Cuerpo de Secretarios Judiciales (RD 1608/2005), el Vicesecretario de Gobierno que podrá existir en el Tribunal Supremo, la Audiencia Nacional y los Tribunales Superiores de Justicia:",
+  "opciones": [
+   "Será nombrado por el Ministerio de Justicia por libre designación y sustituirá al Secretario Coordinador Provincial en sus ausencias.",
+   "Será elegido por la Sala de Gobierno entre los Secretarios Judiciales de primera categoría y quedará relevado de las funciones de su puesto de trabajo.",
+   "Recaerá en el Secretario Judicial más moderno de los destinados en dichos órganos y sustituirá al Secretario de Gobierno en todas sus funciones.",
+   "Recaerá en el Secretario Judicial más antiguo de los destinados en dichos órganos y ejercerá exclusivamente las funciones de Secretario de la Sala de Gobierno en ausencia del Secretario de Gobierno."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 14.4 RD 1608/2005: «podrá existir un Vicesecretario de Gobierno, que ejercerá exclusivamente las funciones de Secretario de la Sala de Gobierno, en ausencia del Secretario de Gobierno... El nombramiento recaerá en el Secretario Judicial más antiguo de los destinados en dichos órganos y compatibilizará dicha función con las que le correspondan en el puesto de trabajo del que es titular.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_laj-lopj-038",
+  "origen": "claude",
+  "tema": "reglamento_laj",
+  "bloque": "REGLAMENTO SECRETARIOS (LAJ)",
+  "articulo": "Art. 22.2",
+  "enunciado": "Conforme al artículo 22 del RD 1608/2005, respecto de los vocales del Consejo del Secretariado elegidos democráticamente por y entre los Secretarios Judiciales en servicio activo, señale la respuesta correcta:",
+  "opciones": [
+   "Son cuatro, elegidos por un período de cinco años, uno de ellos perteneciente necesariamente a la primera categoría.",
+   "Son seis, elegidos por un período de cuatro años, uno de ellos perteneciente de modo necesario a la tercera categoría.",
+   "Son seis, elegidos por un período de cinco años, sin exigencia de pertenencia a una categoría determinada.",
+   "Son cuatro, elegidos por un período de cuatro años, uno de ellos perteneciente de modo necesario a la segunda categoría."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 22.2 RD 1608/2005: el Consejo «estará formado, además, por cuatro vocales natos y seis elegidos democráticamente por y entre los Secretarios Judiciales en servicio activo por un período de cuatro años, uno de ellos perteneciente de modo necesario a la tercera categoría.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_laj-lopj-039",
+  "origen": "claude",
+  "tema": "reglamento_laj",
+  "bloque": "REGLAMENTO SECRETARIOS (LAJ)",
+  "articulo": "Art. 19.2",
+  "enunciado": "Según el artículo 19 del RD 1608/2005, los Secretarios de Gobierno y los Secretarios Coordinadores Provinciales que cesaren en su cargo podrán optar con carácter preferente a cualquier plaza de su categoría de las que deban proveerse por concurso voluntario durante:",
+  "opciones": [
+   "El año posterior a la fecha de su cese.",
+   "Los tres años posteriores a la fecha de su cese.",
+   "Los dos años posteriores a la fecha de su cese.",
+   "Los cinco años posteriores a la fecha de su cese."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 19.2 RD 1608/2005: «Durante los dos años posteriores a la fecha de su cese podrán optar con carácter preferente a cualquier plaza de su categoría de las que deban proveerse por concurso voluntario, poniendo fin así a la situación de adscripción provisional...»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-reglamento_laj-lopj-040",
+  "origen": "claude",
+  "tema": "reglamento_laj",
+  "bloque": "REGLAMENTO SECRETARIOS (LAJ)",
+  "articulo": "Art. 15.2",
+  "enunciado": "Conforme al artículo 15.2 del RD 1608/2005, los Secretarios de Gobierno nombrados prestarán juramento o promesa y tomarán posesión de su cargo:",
+  "opciones": [
+   "Ante el Ministro de Justicia, en la fecha que se determine en la Orden Ministerial de nombramiento, y posteriormente ante la Sala de Gobierno del Tribunal o Audiencia en el que desempeñarán las funciones de Secretarios de Sala de Gobierno.",
+   "Ante el Presidente del Tribunal Superior de Justicia respectivo, en el plazo de veinte días desde la publicación de su nombramiento.",
+   "Ante el Secretario General de la Administración de Justicia y posteriormente ante el Consejo del Secretariado.",
+   "Ante la Sala de Gobierno del Tribunal Supremo, en todo caso."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 15.2 RD 1608/2005: «Los nombrados prestarán juramento o promesa y tomarán posesión de su cargo ante el Ministro de Justicia en la fecha que se determine en la Orden Ministerial en la que se acuerden sus nombramientos y posteriormente ante la Sala de Gobierno del Tribunal o Audiencia en el que desempeñarán las funciones de Secretarios de Sala de Gobierno.»",
+  "fuente": "Material: lopj_y_reglamentos_completo.pdf",
+  "fecha": "2026-11-11"
+ }
+]

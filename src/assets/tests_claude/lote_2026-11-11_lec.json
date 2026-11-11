@@ -1,0 +1,722 @@
+[
+ {
+  "id": "cl-lec-lec-001",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. PARTES PROCESALES",
+  "articulo": "Art. 17.1",
+  "enunciado": "Según el artículo 17.1 de la Ley de Enjuiciamiento Civil, cuando se haya transmitido, pendiente un juicio, lo que sea objeto del mismo y el adquirente solicite que se le tenga como parte en la posición que ocupaba el transmitente, el Letrado de la Administración de Justicia:",
+  "opciones": [
+   "Dictará diligencia de ordenación por la que acordará la suspensión de las actuaciones y otorgará un plazo de diez días a la otra parte para que alegue lo que a su derecho convenga.",
+   "Dictará decreto por el que acordará la suspensión de las actuaciones y otorgará un plazo de cinco días a la otra parte para que alegue lo que a su derecho convenga.",
+   "Dará cuenta al tribunal, que resolverá mediante auto, previa audiencia de la otra parte por plazo de diez días, sin suspensión de las actuaciones.",
+   "Dictará providencia por la que acordará la suspensión de las actuaciones y otorgará un plazo de veinte días a la otra parte para que formule oposición."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 17.1 LEC: «El Letrado de la Administración de Justicia dictará diligencia de ordenación por la que acordará la suspensión de las actuaciones y otorgará un plazo de diez días a la otra parte para que alegue lo que a su derecho convenga». Si no se opone, alza la suspensión por decreto.",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-002",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. TERMINACIÓN ANORMAL DEL PROCESO",
+  "articulo": "Art. 22.3",
+  "enunciado": "Conforme al artículo 22 de la Ley de Enjuiciamiento Civil, en los supuestos de terminación del proceso por satisfacción extraprocesal o carencia sobrevenida de objeto, contra el auto que ordene la continuación del juicio:",
+  "opciones": [
+   "Cabrá recurso de reposición.",
+   "Cabrá recurso de apelación.",
+   "No cabrá recurso alguno.",
+   "Cabrá recurso de revisión."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 22.3 LEC: «Contra el auto que ordene la continuación del juicio no cabrá recurso alguno. Contra el que acuerde su terminación, cabrá recurso de apelación».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-003",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. TERMINACIÓN ANORMAL DEL PROCESO",
+  "articulo": "Art. 22.4",
+  "enunciado": "Según el artículo 22.4 de la Ley de Enjuiciamiento Civil, la terminación del proceso de desahucio por enervación no será de aplicación cuando el arrendador hubiese requerido de pago al arrendatario por cualquier medio fehaciente, y el pago no se hubiese efectuado al tiempo de presentarse la demanda, con una antelación a dicha presentación de, al menos:",
+  "opciones": [
+   "Veinte días.",
+   "Treinta días.",
+   "Dos meses.",
+   "Quince días."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 22.4 LEC: no procede la enervación «cuando el arrendador hubiese requerido de pago al arrendatario por cualquier medio fehaciente con, al menos, treinta días de antelación a la presentación de la demanda y el pago no se hubiese efectuado al tiempo de dicha presentación».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-004",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. REPRESENTACIÓN Y DEFENSA",
+  "articulo": "Art. 31.2",
+  "enunciado": "De acuerdo con el artículo 31.2 de la Ley de Enjuiciamiento Civil, no será necesaria la firma de abogado en:",
+  "opciones": [
+   "La demanda de juicio verbal cuya cuantía, determinada por razón de la misma, sea de 2.500 euros.",
+   "El escrito de interposición del recurso de apelación contra una sentencia dictada en juicio verbal.",
+   "La demanda de juicio ordinario que se tramite por razón de la materia, cualquiera que sea su cuantía.",
+   "Los escritos que tengan por objeto acreditar ante la Oficina judicial o Tribunal el cumplimiento de las actividades materiales del proceso de ejecución que hayan sido expresamente delegadas a los procuradores."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 31.2.3.º LEC: se exceptúan de la firma de abogado «los escritos que tengan por objeto acreditar ante la Oficina judicial o Tribunal el cumplimiento de las actividades materiales del proceso de ejecución que les hayan sido expresamente delegadas a los procuradores por el juez, jueza o Tribunal».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-005",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. ACUMULACIÓN DE ACCIONES",
+  "articulo": "Art. 73.3",
+  "enunciado": "Según el artículo 73.3 de la Ley de Enjuiciamiento Civil, si se hubieren acumulado varias acciones indebidamente:",
+  "opciones": [
+   "El Tribunal inadmitirá la demanda mediante auto, sin más trámite.",
+   "El Letrado de la Administración de Justicia requerirá al actor, antes de proceder a admitir la demanda, para que subsane el defecto en el plazo de cinco días, manteniendo las acciones cuya acumulación fuere posible.",
+   "El Letrado de la Administración de Justicia requerirá al actor para que en el plazo de cuatro días elija la acción que pretende mantener, teniéndose por desistido de las demás.",
+   "El Letrado de la Administración de Justicia requerirá al actor para que subsane el defecto en el plazo de diez días y, si no lo hiciere, archivará la demanda mediante decreto."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 73.3 LEC: «el Letrado de la Administración de Justicia requerirá al actor, antes de proceder a admitir la demanda, para que subsane el defecto en el plazo de cinco días, manteniendo las acciones cuya acumulación fuere posible». Si no se subsana, da cuenta al Tribunal para que resuelva sobre la admisión.",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-006",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. ACUMULACIÓN DE PROCESOS",
+  "articulo": "Art. 77.5",
+  "enunciado": "Conforme al artículo 77.5 de la Ley de Enjuiciamiento Civil, para que sea admisible la acumulación de procesos será preciso que éstos se encuentren en primera instancia y:",
+  "opciones": [
+   "Que en ninguno de ellos se haya celebrado la audiencia previa.",
+   "Que en ninguno de ellos se haya dictado sentencia.",
+   "Que en ninguno de ellos haya finalizado el juicio a que se refiere el artículo 433 de la ley.",
+   "Que en ninguno de ellos haya transcurrido el plazo para contestar a la demanda."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 77.5 LEC: «será preciso que éstos se encuentren en primera instancia, y que en ninguno de ellos haya finalizado el juicio a que se refiere el artículo 433 de esta ley».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-007",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. ACTOS DE COMUNICACIÓN",
+  "articulo": "Art. 154.1",
+  "enunciado": "Según el artículo 154.1 de la Ley de Enjuiciamiento Civil, los actos de comunicación con los procuradores se realizarán en la sede del tribunal o en el servicio común de recepción organizado por el Colegio de Procuradores. El régimen interno de este servicio será competencia:",
+  "opciones": [
+   "Del Letrado de la Administración de Justicia del servicio común procesal de actos de comunicación.",
+   "Del Ministerio de Justicia o de la Comunidad Autónoma con competencias transferidas.",
+   "Del Consejo General del Poder Judicial.",
+   "Del Colegio de Procuradores, de conformidad con la ley."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 154.1 LEC: «El régimen interno de este servicio será competencia del Colegio de Procuradores, de conformidad con la ley».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-008",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. ACTOS DE COMUNICACIÓN",
+  "articulo": "Art. 160.5",
+  "enunciado": "De conformidad con el artículo 160.5 de la Ley de Enjuiciamiento Civil, la falta de práctica del aviso al dispositivo electrónico o a la dirección de correo electrónico del destinatario, informándole de la puesta a su disposición del acto de comunicación:",
+  "opciones": [
+   "No impedirá que el acto de comunicación sea considerado plenamente válido.",
+   "Determinará la nulidad del acto de comunicación.",
+   "Obligará a repetir el acto de comunicación por entrega en el domicilio.",
+   "Hará que el acto de comunicación se tenga por practicado transcurridos diez días."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 160.5 LEC: «La falta de práctica de este aviso no impedirá que el acto de comunicación sea considerado plenamente válido».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-009",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. VISTAS Y SEÑALAMIENTOS",
+  "articulo": "Art. 183.3 bis",
+  "enunciado": "Conforme al artículo 183.3 bis de la Ley de Enjuiciamiento Civil, si una de las partes o de las personas que han de intervenir en la vista tiene una determinada edad o más, podrá solicitar, y así se acordará por el Letrado de la Administración de Justicia, que se practique el señalamiento en las primeras horas de audiencia o bien en las últimas. ¿Cuál es esa edad?",
+  "opciones": [
+   "Setenta y cinco años.",
+   "Setenta años.",
+   "Ochenta años.",
+   "Sesenta y cinco años."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 183.3 bis LEC: «Si una de las partes o de las personas que han de intervenir en la vista es una persona con una edad de ochenta años o más, podrá solicitar y así se acordará por el letrado o la letrada de la Administración de Justicia que se practique el señalamiento en las primeras horas de audiencia o bien en las últimas».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-010",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. VISTAS Y SEÑALAMIENTOS",
+  "articulo": "Art. 183.6",
+  "enunciado": "Según el artículo 183.6 de la Ley de Enjuiciamiento Civil, cuando el Letrado de la Administración de Justicia, al resolver sobre la solicitud de nuevo señalamiento, entendiera que el abogado o el litigante han podido proceder con dilación injustificada o sin fundamento alguno:",
+  "opciones": [
+   "Podrá imponerles una multa de ciento ochenta a seiscientos euros.",
+   "Dará cuenta al Juez o Tribunal, quien podrá imponerles multa de hasta seiscientos euros, sin perjuicio de lo que el Letrado resuelva sobre el nuevo señalamiento.",
+   "Dará cuenta al Juez o Tribunal, quien podrá imponerles multa de ciento cincuenta a seiscientos euros y condenarles en costas.",
+   "Denegará el nuevo señalamiento e impondrá multa de hasta trescientos euros."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 183.6 LEC: el LAJ «dará cuenta al Juez o Tribunal, quien podrá imponerles multa de hasta seiscientos euros, sin perjuicio de lo que el Letrado resuelva sobre el nuevo señalamiento».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-011",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. VISTAS Y SEÑALAMIENTOS",
+  "articulo": "Art. 188.1.5.º",
+  "enunciado": "De acuerdo con el artículo 188.1.5.º de la Ley de Enjuiciamiento Civil, si la muerte, enfermedad o imposibilidad absoluta afectare al procurador de una de las partes y el hecho se hubiera producido sin la oportunidad de poder designar en ese momento profesional que le sustituya, se suspenderá la vista, que no podrá volver a señalarse hasta:",
+  "opciones": [
+   "Dos días después.",
+   "Cinco días después.",
+   "Diez días después.",
+   "Tres días después."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 188.1.5.º LEC: «se suspenderá igualmente la celebración de la vista, que no podrá volver a señalarse hasta tres días después, con objeto de que el Colegio de Procuradores pueda, en su caso, organizar debidamente su sustitución».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-012",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. VISTAS Y SEÑALAMIENTOS",
+  "articulo": "Art. 190.2",
+  "enunciado": "Según el artículo 190.2 de la Ley de Enjuiciamiento Civil, la recusación formulada verbalmente en el acto de la vista contra el Juez o Magistrado que haya pasado a formar parte del tribunal tras el señalamiento deberá formalizarse por escrito en el plazo de:",
+  "opciones": [
+   "Tres días; si así no se hiciere, no será admitida y se impondrá al recusante una multa de ciento cincuenta a seiscientos euros, condenándole además al pago de las costas ocasionadas con la suspensión.",
+   "Cinco días; si así no se hiciere, no será admitida y se impondrá al recusante una multa de ciento ochenta a seiscientos euros.",
+   "Tres días; si así no se hiciere, no será admitida y se impondrá al recusante una multa de noventa a seis mil euros.",
+   "Dos días; si así no se hiciere, no será admitida, sin imposición de multa ni costas."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 190.2 LEC: la recusación verbal «deberá formalizarse por escrito en el plazo de tres días. Si así no se hiciere dentro de dicho plazo, no será admitida y se impondrá al recusante una multa de ciento cincuenta a seiscientos euros condenándole, además, al pago de las costas ocasionadas con la suspensión».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-013",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. PRUEBA. INTERROGATORIO DE LAS PARTES",
+  "articulo": "Art. 315.1",
+  "enunciado": "Según el artículo 315.1 de la Ley de Enjuiciamiento Civil, cuando sean parte en un proceso el Estado, una Comunidad Autónoma, una Entidad local u otro organismo público, y el tribunal admita su declaración:",
+  "opciones": [
+   "Se les citará al juicio o a la vista para que declare la autoridad o funcionario que designen.",
+   "Se les remitirá, sin esperar al juicio o a la vista, una lista con las preguntas que el tribunal declare pertinentes, para que sean respondidas por escrito y entregada la respuesta al tribunal antes de la fecha señalada para aquellos actos.",
+   "Se practicará la declaración en la sede del organismo, mediante comisión al Letrado de la Administración de Justicia.",
+   "Se les remitirá, una vez celebrado el juicio, una lista de preguntas para que sean respondidas por escrito en el plazo de diez días como diligencia final."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 315.1 LEC: «se les remitirá, sin esperar al juicio o a la vista, una lista con las preguntas que [...] el tribunal declare pertinentes, para que sean respondidas por escrito y entregada la respuesta al tribunal antes de la fecha señalada para aquellos actos».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-014",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. PRUEBA. PERITOS",
+  "articulo": "Art. 343.1",
+  "enunciado": "Conforme al artículo 343.1 de la Ley de Enjuiciamiento Civil, los peritos no recusables podrán ser objeto de tacha cuando concurra en ellos, entre otras circunstancias, la de ser cónyuge o pariente por consanguinidad o afinidad de una de las partes o de sus abogados o procuradores dentro del:",
+  "opciones": [
+   "Segundo grado civil.",
+   "Tercer grado civil.",
+   "Cuarto grado civil.",
+   "Quinto grado civil."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 343.1.1.º LEC: «Ser cónyuge o pariente por consanguinidad o afinidad, dentro del cuarto grado civil de una de las partes o de sus abogados o procuradores».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-015",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. PRUEBA. PERITOS",
+  "articulo": "Art. 343",
+  "enunciado": "En relación con la recusación y tacha de peritos, según el artículo 343 de la Ley de Enjuiciamiento Civil, señale la respuesta incorrecta:",
+  "opciones": [
+   "Al formular tachas de peritos se podrá proponer cualquier prueba conducente a justificarlas, incluida la testifical.",
+   "En los juicios verbales, las tachas no podrán formularse después del juicio o de la vista.",
+   "En el juicio ordinario, las tachas de los peritos autores de dictámenes aportados con demanda o contestación se propondrán en la audiencia previa al juicio.",
+   "Sólo podrán ser objeto de recusación los peritos designados judicialmente."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 343.2 LEC: «Al formular tachas de peritos, se podrá proponer la prueba conducente a justificarlas, excepto la testifical». Las demás opciones reproducen los apartados 1 y 2 del artículo.",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-016",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. PRUEBA. TESTIGOS",
+  "articulo": "Art. 363",
+  "enunciado": "Según el artículo 363 de la Ley de Enjuiciamiento Civil, las partes podrán proponer cuantos testigos estimen conveniente, pero los gastos de los que excedan de un determinado número por cada hecho discutido serán en todo caso de cuenta de la parte que los haya presentado. Dicho número es:",
+  "opciones": [
+   "Dos.",
+   "Cinco.",
+   "Cuatro.",
+   "Tres."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 363 LEC: «los gastos de los que excedan de tres por cada hecho discutido serán en todo caso de cuenta de la parte que los haya presentado».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-017",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. PRUEBA. TESTIGOS",
+  "articulo": "Art. 370.1",
+  "enunciado": "De acuerdo con el artículo 370.1 de la Ley de Enjuiciamiento Civil, una vez contestadas las preguntas generales, el testigo será examinado por la parte que le hubiera propuesto, y si hubiera sido propuesto por ambas partes:",
+  "opciones": [
+   "Se comenzará por las preguntas que formule el demandante.",
+   "Se comenzará por las preguntas que formule el demandado.",
+   "Se comenzará por las preguntas que formule el tribunal.",
+   "Se comenzará por las preguntas de la parte que primero lo hubiera propuesto."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 370.1 LEC: «si hubiera sido propuesto por ambas partes, se comenzará por las preguntas que formule el demandante».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-018",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. JUICIO ORDINARIO. DEMANDA",
+  "articulo": "Art. 410",
+  "enunciado": "Conforme al artículo 410 de la Ley de Enjuiciamiento Civil, la litispendencia, con todos sus efectos procesales, se produce:",
+  "opciones": [
+   "Desde la admisión de la demanda.",
+   "Desde la interposición de la demanda, si después es admitida.",
+   "Desde el emplazamiento del demandado.",
+   "Desde la contestación a la demanda."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 410 LEC: «La litispendencia, con todos sus efectos procesales, se produce desde la interposición de la demanda, si después es admitida».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-019",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. JUICIO ORDINARIO. AUDIENCIA PREVIA",
+  "articulo": "Art. 418.1",
+  "enunciado": "Según el artículo 418.1 de la Ley de Enjuiciamiento Civil, cuando en la audiencia previa se aduzcan defectos de capacidad o representación subsanables que no pudieran subsanarse en el acto, se concederá para ello un plazo:",
+  "opciones": [
+   "No superior a cinco días, sin suspensión de la audiencia.",
+   "No superior a quince días, con suspensión, entre tanto, de la audiencia.",
+   "No superior a diez días, con suspensión, entre tanto, de la audiencia.",
+   "No superior a diez días, sin suspensión de la audiencia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 418.1 LEC: «si no fuese posible en ese momento, se concederá para ello un plazo, no superior a diez días, con suspensión, entre tanto, de la audiencia».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-020",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. JUICIO ORDINARIO. AUDIENCIA PREVIA",
+  "articulo": "Art. 426.3",
+  "enunciado": "De conformidad con el artículo 426.3 de la Ley de Enjuiciamiento Civil, si en la audiencia previa una parte pretendiere añadir alguna petición accesoria o complementaria de las formuladas en sus escritos:",
+  "opciones": [
+   "No se admitirá en ningún caso, por suponer una alteración sustancial de la pretensión.",
+   "Se admitirá siempre, sin necesidad de oír a la parte contraria.",
+   "Se admitirá si la parte contraria se muestra conforme y, si se opusiere, se tendrá por no formulada.",
+   "Se admitirá si la parte contraria se muestra conforme; si se opusiere, el tribunal decidirá sobre la admisibilidad de la adición."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 426.3 LEC: «se admitirá tal adición si la parte contraria se muestra conforme. Si se opusiere, el tribunal decidirá sobre la admisibilidad de la adición, que sólo acordará cuando entienda que su planteamiento en la audiencia no impide a la parte contraria ejercitar su derecho de defensa en condiciones de igualdad».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-021",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. JUICIO VERBAL",
+  "articulo": "Art. 444.1 bis",
+  "enunciado": "Según el artículo 444.1 bis de la Ley de Enjuiciamiento Civil, en el juicio verbal para la recuperación de la posesión de una vivienda a que se refiere el párrafo segundo del artículo 250.1.4.º, la oposición del demandado podrá fundarse exclusivamente en:",
+  "opciones": [
+   "La existencia de título suficiente frente al actor para poseer la vivienda o en la falta de título por parte del actor.",
+   "El pago o las circunstancias relativas a la procedencia de la enervación.",
+   "La falsedad de la certificación del Registro u omisión en ella de derechos o condiciones inscritas.",
+   "La inexistencia o falta de validez de su consentimiento, incluida la falsedad de la firma."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 444.1 bis LEC: «la oposición del demandado podrá fundarse exclusivamente en la existencia de título suficiente frente al actor para poseer la vivienda o en la falta de título por parte del actor».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-022",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. JUICIO VERBAL",
+  "articulo": "Art. 444.2",
+  "enunciado": "En el juicio verbal para la efectividad de derechos reales inscritos del artículo 250.1.7.º de la Ley de Enjuiciamiento Civil, la oposición del demandado únicamente podrá fundarse en alguna de las causas del artículo 444.2. Señale cuál de las siguientes no es una de ellas:",
+  "opciones": [
+   "Falsedad de la certificación del Registro u omisión en ella de derechos o condiciones inscritas, que desvirtúen la acción ejercitada.",
+   "Falta de jurisdicción o de competencia del tribunal.",
+   "Poseer el demandado la finca o disfrutar el derecho discutido por contrato u otra cualquier relación jurídica directa con el último titular o con titulares anteriores.",
+   "No ser la finca inscrita la que efectivamente posea el demandado."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 444.2 LEC recoge como causas la falsedad de la certificación registral, la posesión por contrato o prescripción, la inscripción a favor del demandado y no ser la finca inscrita la que efectivamente posea. La falta de jurisdicción o competencia es causa de oposición del art. 444.3 (supuestos del art. 250.1.10.º y 11.º).",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-023",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. RECURSOS. REPOSICIÓN",
+  "articulo": "Art. 451.1",
+  "enunciado": "De acuerdo con el artículo 451.1 de la Ley de Enjuiciamiento Civil, contra las diligencias de ordenación y decretos no definitivos, excepto en los casos en que la ley prevea recurso directo de revisión, cabrá:",
+  "opciones": [
+   "Recurso de revisión ante el Tribunal.",
+   "Recurso de reposición ante el Tribunal del que dependa el Letrado de la Administración de Justicia.",
+   "Recurso de reposición ante el Letrado de la Administración de Justicia que dictó la resolución recurrida.",
+   "Recurso de apelación ante la Audiencia Provincial."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 451.1 LEC: «Contra las diligencias de ordenación y decretos no definitivos cabrá recurso de reposición ante el Letrado de la Administración de Justicia que dictó la resolución recurrida, excepto en los casos en que la ley prevea recurso directo de revisión».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-024",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. RECURSOS. APELACIÓN",
+  "articulo": "Art. 455.4",
+  "enunciado": "Según el artículo 455.4 de la Ley de Enjuiciamiento Civil, se tramitarán también preferentemente los recursos de apelación legalmente previstos contra:",
+  "opciones": [
+   "Las sentencias dictadas en juicios verbales por razón de la cuantía.",
+   "Los autos que resuelvan la declinatoria.",
+   "Las sentencias dictadas en juicios sobre arrendamientos urbanos.",
+   "Los autos en que se acuerde la suspensión del curso de las actuaciones hasta que se dicte sentencia firme en el procedimiento identificado como testigo."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 455.4 LEC: «Se tramitarán también preferentemente los recursos de apelación legalmente previstos contra resoluciones definitivas dictadas en la tramitación de los procedimientos testigo, así como contra los autos en que se acuerde la suspensión del curso de las actuaciones hasta que se dicte sentencia firme en el procedimiento identificado como testigo».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-025",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. RECURSOS. APELACIÓN",
+  "articulo": "Art. 460.3",
+  "enunciado": "Conforme al artículo 460.3 de la Ley de Enjuiciamiento Civil, el demandado declarado en rebeldía que, por cualquier causa que no le sea imputable, se hubiere personado en los autos después del momento establecido para proponer la prueba en la primera instancia:",
+  "opciones": [
+   "Podrá pedir en la segunda instancia que se practique toda la que convenga a su derecho.",
+   "Sólo podrá pedir en la segunda instancia la práctica de las pruebas que le hubieren sido indebidamente denegadas.",
+   "No podrá pedir la práctica de prueba alguna en la segunda instancia.",
+   "Sólo podrá acompañar al escrito de interposición los documentos a que se refiere el artículo 270."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 460.3 LEC: el demandado rebelde en esas circunstancias «podrá pedir en la segunda que se practique toda la que convenga a su derecho».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-026",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. RECURSOS. APELACIÓN",
+  "articulo": "Art. 463",
+  "enunciado": "Según el artículo 463 de la Ley de Enjuiciamiento Civil, cuando la ejecución provisional se hubiere solicitado después de haberse remitido los autos al tribunal competente para resolver la apelación:",
+  "opciones": [
+   "La solicitud quedará sin efecto hasta que se devuelvan los autos al tribunal de primera instancia.",
+   "El solicitante deberá obtener previamente de este testimonio de lo que sea necesario para la ejecución.",
+   "El tribunal de primera instancia reclamará de oficio los autos para proveer sobre la ejecución.",
+   "El Letrado de la Administración de Justicia del tribunal de apelación remitirá de oficio testimonio al tribunal de primera instancia."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 463 LEC: «Cuando se hubiere solicitado después de haberse remitido los autos al tribunal competente para resolver la apelación, el solicitante deberá obtener previamente de este testimonio de lo que sea necesario para la ejecución».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-027",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. RECURSOS. CASACIÓN",
+  "articulo": "Art. 483.3",
+  "enunciado": "De acuerdo con el artículo 483.3 de la Ley de Enjuiciamiento Civil, una vez elevadas las actuaciones a la Sección de Admisión de la Sala Primera del Tribunal Supremo para que se pronuncie sobre la admisión, el recurso de casación:",
+  "opciones": [
+   "Se inadmitirá por auto motivado y se admitirá por providencia.",
+   "Se inadmitirá y se admitirá, en ambos casos, por auto.",
+   "Se inadmitirá por providencia sucintamente motivada que declarará, en su caso, la firmeza de la resolución recurrida, y se admitirá por medio de auto.",
+   "Se inadmitirá por decreto del Letrado de la Administración de Justicia y se admitirá por providencia."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 483.3 LEC: «El recurso de casación se inadmitirá por providencia sucintamente motivada que declarará, en su caso, la firmeza de la resolución recurrida y se admitirá por medio de auto que exprese las razones por las que la Sala [...] debe pronunciarse sobre la cuestión o cuestiones planteadas».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-028",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. RECURSOS. CASACIÓN",
+  "articulo": "Art. 487.2",
+  "enunciado": "Según el artículo 487.2 de la Ley de Enjuiciamiento Civil, la sentencia o, en su caso, el auto que resuelva el recurso de casación se dictará dentro de:",
+  "opciones": [
+   "Los diez días siguientes al de la celebración de la vista.",
+   "Los treinta días siguientes al de la admisión del recurso.",
+   "Los quince días siguientes al de la finalización de la deliberación.",
+   "Los veinte días siguientes al de la finalización de la deliberación."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 487.2 LEC: «La sentencia, o en su caso el auto, se dictará dentro de los veinte días siguientes al de la finalización de la deliberación».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-029",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. REBELDÍA",
+  "articulo": "Art. 496",
+  "enunciado": "Conforme al artículo 496 de la Ley de Enjuiciamiento Civil, en relación con la declaración de rebeldía, señale la respuesta correcta:",
+  "opciones": [
+   "No será considerada como allanamiento ni como admisión de los hechos de la demanda, salvo los casos en que la ley expresamente disponga lo contrario.",
+   "Equivale a la admisión tácita de los hechos de la demanda.",
+   "Será considerada como allanamiento a las pretensiones del actor.",
+   "Corresponde en todo caso al Tribunal, mediante auto."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 496.2 LEC: «La declaración de rebeldía no será considerada como allanamiento ni como admisión de los hechos de la demanda, salvo los casos en que la ley expresamente disponga lo contrario». Según el apartado 1, la declara el LAJ, salvo supuestos en que corresponda al Tribunal.",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-030",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. EJECUCIÓN PROVISIONAL",
+  "articulo": "Art. 524.5",
+  "enunciado": "Según el artículo 524.5 de la Ley de Enjuiciamiento Civil, tendrá carácter preferente la ejecución provisional de las sentencias:",
+  "opciones": [
+   "De condena dineraria cuya cuantía exceda de 3.000 euros.",
+   "En las que se tutelen derechos fundamentales.",
+   "Dictadas en procesos matrimoniales y de menores.",
+   "Dictadas en juicios de desahucio por falta de pago."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 524.5 LEC: «La ejecución provisional de las sentencias en las que se tutelen derechos fundamentales tendrá carácter preferente».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-031",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. EJECUCIÓN. DEMANDA EJECUTIVA",
+  "articulo": "Art. 549.2",
+  "enunciado": "De acuerdo con el artículo 549.2 de la Ley de Enjuiciamiento Civil, cuando el título ejecutivo sea una resolución del Letrado de la Administración de Justicia o una sentencia o resolución dictada por el Tribunal competente para conocer de la ejecución, la demanda ejecutiva:",
+  "opciones": [
+   "Deberá contener, en todo caso, todas las menciones exigidas en el apartado 1 del artículo 549.",
+   "Deberá acompañarse de testimonio de la resolución cuya ejecución se pretenda.",
+   "Podrá limitarse a la solicitud de que se despache la ejecución, identificando la sentencia o resolución cuya ejecución se pretenda.",
+   "No será necesaria, pues la ejecución se despachará de oficio."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 549.2 LEC: «la demanda ejecutiva podrá limitarse a la solicitud de que se despache la ejecución, identificando la sentencia o resolución cuya ejecución se pretenda».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-032",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. EJECUCIÓN. OPOSICIÓN",
+  "articulo": "Art. 559.2",
+  "enunciado": "Según el artículo 559.2 de la Ley de Enjuiciamiento Civil, cuando la oposición del ejecutado se fundare en defectos procesales, el ejecutante podrá formular alegaciones sobre éstos en el plazo de ___ y, si el tribunal entendiere que el defecto es subsanable, concederá mediante providencia al ejecutante un plazo de ___ para subsanarlo:",
+  "opciones": [
+   "Diez días; cinco días.",
+   "Cinco días; cinco días.",
+   "Tres días; diez días.",
+   "Cinco días; diez días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 559.2 LEC: «el ejecutante podrá formular alegaciones sobre éstos, en el plazo de cinco días. Si el tribunal entendiere que el defecto es subsanable, concederá mediante providencia al ejecutante un plazo de diez días para subsanarlo».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-033",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. EMBARGO",
+  "articulo": "Art. 607.4",
+  "enunciado": "Conforme al artículo 607.4 de la Ley de Enjuiciamiento Civil, en atención a las cargas familiares del ejecutado, el Letrado de la Administración de Justicia podrá aplicar en los porcentajes establecidos en los números 1.º a 4.º del apartado 2 una rebaja de entre:",
+  "opciones": [
+   "Un 10 a un 15 por ciento.",
+   "Un 5 a un 10 por ciento.",
+   "Un 15 a un 20 por ciento.",
+   "Un 10 a un 20 por ciento."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 607.4 LEC: «el Letrado de la Administración de Justicia podrá aplicar una rebaja de entre un 10 a un 15 por ciento en los porcentajes establecidos en los números 1.º, 2.º, 3.º y 4.º del apartado 2».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-034",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. EMBARGO",
+  "articulo": "Art. 607.7",
+  "enunciado": "Según el artículo 607.7 de la Ley de Enjuiciamiento Civil, cuando el Letrado de la Administración de Justicia acuerde que las cantidades embargadas de sueldos y pensiones sean entregadas directamente a la parte ejecutante, tanto la persona o entidad que practique la retención como el ejecutante deberán informar al Letrado de la Administración de Justicia sobre las sumas remitidas y recibidas:",
+  "opciones": [
+   "Mensualmente.",
+   "Trimestralmente.",
+   "Semestralmente.",
+   "Anualmente."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 607.7 LEC: «deberán informar trimestralmente al Letrado de la Administración de Justicia sobre las sumas remitidas y recibidas, respectivamente». Contra la resolución que acuerde la entrega directa cabe recurso directo de revisión.",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-035",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. MEDIDAS CAUTELARES",
+  "articulo": "Art. 728.1",
+  "enunciado": "De conformidad con el artículo 728.1 de la Ley de Enjuiciamiento Civil, no se acordarán medidas cautelares cuando con ellas se pretenda:",
+  "opciones": [
+   "Asegurar la efectividad de una eventual sentencia de condena a la entrega de bienes muebles.",
+   "Obtener la anotación preventiva de la demanda en un registro público.",
+   "Alterar situaciones de hecho consentidas por el solicitante durante largo tiempo, salvo que éste justifique cumplidamente las razones por las cuales dichas medidas no se han solicitado hasta entonces.",
+   "Ordenar judicialmente el cese provisional de una actividad."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 728.1, párrafo segundo, LEC: «No se acordarán medidas cautelares cuando con ellas se pretenda alterar situaciones de hecho consentidas por el solicitante durante largo tiempo, salvo que éste justifique cumplidamente las razones por las cuales dichas medidas no se han solicitado hasta entonces».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-036",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. MEDIDAS CAUTELARES",
+  "articulo": "Art. 733.2",
+  "enunciado": "Según el artículo 733.2 de la Ley de Enjuiciamiento Civil, cuando el solicitante así lo pida y acredite que concurren razones de urgencia o que la audiencia previa puede comprometer el buen fin de la medida cautelar, el tribunal podrá acordarla sin más trámites mediante auto, en el plazo de:",
+  "opciones": [
+   "Tres días.",
+   "Diez días.",
+   "Veinticuatro horas.",
+   "Cinco días."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 733.2 LEC: «el tribunal podrá acordarla sin más trámites mediante auto, en el plazo de cinco días, en el que razonará por separado sobre la concurrencia de los requisitos de la medida cautelar y las razones que han aconsejado acordarla sin oír al demandado».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-lec-lec-037",
+  "origen": "claude",
+  "tema": "lec",
+  "bloque": "LEC. JUICIO CAMBIARIO",
+  "articulo": "Art. 820",
+  "enunciado": "En relación con la competencia para el juicio cambiario, según el artículo 820 de la Ley de Enjuiciamiento Civil, señale la respuesta correcta:",
+  "opciones": [
+   "Será competente el Juzgado de Primera Instancia del domicilio del demandado, sin que sean aplicables las normas sobre sumisión expresa o tácita.",
+   "Será competente el Juzgado de Primera Instancia del lugar de pago del título, salvo sumisión expresa de las partes.",
+   "Será competente el Juzgado de Primera Instancia del domicilio del demandante.",
+   "Será competente el Juzgado de Primera Instancia del domicilio del demandado, salvo que las partes se hubieran sometido expresamente a otro."
+  ],
+  "correcta": 0,
+  "explicacion": "Art. 820 LEC: «Será competente para el juicio cambiario el Juzgado de Primera Instancia del domicilio del demandado. [...] No serán aplicables las normas sobre sumisión expresa o tácita contenidas en la sección 2.ª del capítulo II, Título II del Libro I».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-jurisdiccion_voluntaria-lec-038",
+  "origen": "claude",
+  "tema": "jurisdiccion_voluntaria",
+  "bloque": "JV. MEDIDAS DE APOYO A PERSONAS CON DISCAPACIDAD",
+  "articulo": "Art. 42 bis b.5",
+  "enunciado": "Según el artículo 42 bis b) de la Ley 15/2015, de Jurisdicción Voluntaria, la oposición de la persona con discapacidad a cualquier tipo de apoyo pondrá fin al expediente, sin perjuicio de que la autoridad judicial pueda adoptar provisionalmente las medidas de apoyo que considere convenientes, que podrán mantenerse por un plazo máximo de:",
+  "opciones": [
+   "Quince días.",
+   "Treinta días.",
+   "Dos meses.",
+   "Veinte días."
+  ],
+  "correcta": 1,
+  "explicacion": "Art. 42 bis b).5 LJV: «Dichas medidas podrán mantenerse por un plazo máximo de treinta días, siempre que con anterioridad no se haya presentado la correspondiente demanda de adopción de medidas de apoyo en juicio contencioso».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-jurisdiccion_voluntaria-lec-039",
+  "origen": "claude",
+  "tema": "jurisdiccion_voluntaria",
+  "bloque": "JV. MEDIDAS DE APOYO A PERSONAS CON DISCAPACIDAD",
+  "articulo": "Art. 42 bis b.2",
+  "enunciado": "En el expediente de provisión de medidas judiciales de apoyo a personas con discapacidad, conforme al artículo 42 bis b) de la Ley 15/2015, de Jurisdicción Voluntaria, los interesados convocados a la comparecencia podrán proponer las diligencias de prueba que consideren necesario practicar en ella en el plazo de:",
+  "opciones": [
+   "Tres días desde la recepción de la citación.",
+   "Diez días desde la admisión a trámite de la solicitud.",
+   "Cinco días desde la recepción de la citación.",
+   "Quince días desde la recepción de la citación."
+  ],
+  "correcta": 2,
+  "explicacion": "Art. 42 bis b).2 LJV: «Los interesados podrán proponer en el plazo de cinco días desde la recepción de la citación aquellas diligencias de prueba que consideren necesario practicar en la comparecencia».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ },
+ {
+  "id": "cl-jurisdiccion_voluntaria-lec-040",
+  "origen": "claude",
+  "tema": "jurisdiccion_voluntaria",
+  "bloque": "JV. MEDIDAS DE APOYO A PERSONAS CON DISCAPACIDAD",
+  "articulo": "Art. 42 bis c.2",
+  "enunciado": "Según el artículo 42 bis c) de la Ley 15/2015, de Jurisdicción Voluntaria, si para la revisión de las medidas de apoyo la persona con discapacidad ya no residiera en la misma circunscripción, el Juzgado de la nueva residencia habrá de pedir un testimonio completo del expediente al Juzgado que anteriormente conoció del mismo, que lo remitirá:",
+  "opciones": [
+   "En los cinco días siguientes a la solicitud.",
+   "En los quince días siguientes a la solicitud.",
+   "En los veinte días siguientes a la solicitud.",
+   "En los diez días siguientes a la solicitud."
+  ],
+  "correcta": 3,
+  "explicacion": "Art. 42 bis c).2 LJV: «el Juzgado de la nueva residencia habrá de pedir un testimonio completo del expediente al Juzgado que anteriormente conoció del mismo, que lo remitirá en los diez días siguientes a la solicitud».",
+  "fuente": "Material: lec_temario_completo.pdf",
+  "fecha": "2026-11-11"
+ }
+]

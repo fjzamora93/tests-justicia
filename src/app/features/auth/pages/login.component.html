@@ -1,0 +1,32 @@
+<section class="login-wrap">
+  <a class="back-link" routerLink="/">← <span>Volver a la biblioteca</span></a>
+  <div class="login-panel">
+    <p class="eyebrow">ESPACIO PERSONAL</p>
+    <h1>Qué bueno<br /><em>verte de nuevo.</em></h1>
+    <p class="login-copy">Accede con tu cuenta de Firebase para esta demo.</p>
+
+    <form [formGroup]="form" (ngSubmit)="submit()" novalidate>
+      <label for="email">Correo electrónico</label>
+      <input id="email" type="email" autocomplete="email" formControlName="email" placeholder="nombre@ejemplo.com" />
+      @if (form.controls.email.touched && form.controls.email.invalid) {
+        <small class="field-error">Introduce un correo válido.</small>
+      }
+
+      <label for="password">Contraseña</label>
+      <input id="password" type="password" autocomplete="current-password" formControlName="password" placeholder="Tu contraseña" />
+      @if (form.controls.password.touched && form.controls.password.invalid) {
+        <small class="field-error">La contraseña es obligatoria.</small>
+      }
+
+      @if (errorMessage()) {
+        <p class="submit-error" role="alert">{{ errorMessage() }}</p>
+      }
+
+      <button class="submit-button" type="submit" [disabled]="isSubmitting()">
+        {{ isSubmitting() ? 'Entrando…' : 'Iniciar sesión' }}
+        <span aria-hidden="true">↗</span>
+      </button>
+    </form>
+    <p class="auth-note">La autenticación está conectada al proyecto Firebase compartido.</p>
+  </div>
+</section>
